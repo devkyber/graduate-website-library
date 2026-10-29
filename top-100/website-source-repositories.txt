@@ -1,0 +1,254 @@
+01. Sejal Agarwal
+Website: https://sejalagarwal.ca/
+Repository: https://github.com/sejal-agarwal/sejal-notebook-portfolio
+License: Not specified in verification metadata
+
+02. Narek Harutyunyan
+Website: https://narekharutyu.github.io/
+Repository: https://github.com/NarekHarutyu/narekharutyu.github.io
+License: Not specified in verification metadata
+
+06. Jianna So
+Website: https://www.jiannaso.com/
+Repository: https://github.com/jiannaso/jiso.design
+License: Not specified in verification metadata
+
+07. Mengyuan Millie Wu
+Website: http://milliewu.io/
+Repository: https://github.com/mengyuanwu1/mengyuanwu1.github.io
+License: Not specified in verification metadata
+
+08. Kexin Shi
+Website: https://tenhearts.github.io/
+Repository: https://github.com/tenhearts/tenhearts.github.io
+License: Not specified in verification metadata
+
+11. Kenneth Browder
+Website: https://kennethb.me
+Repository: https://github.com/pandanautinspace/pandanautinspace.github.io
+License: Not specified in verification metadata
+
+12. Sevan Brodjian
+Website: https://www.sevanb.net/
+Repository: https://github.com/SevanBrodjian/SevanBNet-frontend
+License: Not specified in verification metadata
+
+14. Kaijing Ma
+Website: https://mkj69.github.io/
+Repository: https://github.com/mkj69/mkj69.github.io
+License: Not specified in verification metadata
+
+15. Sidney Nimako
+Website: https://snibo.me
+Repository: https://github.com/snibo13/snibo13.github.io
+License: Not specified in verification metadata
+
+16. XiuYu Zhang
+Website: https://xiuyuz.github.io/
+Repository: https://github.com/xiuyuz/xiuyuz.github.io
+License: MIT
+
+18. Oscar Luo
+Website: https://oscar-prise.github.io/
+Repository: https://github.com/Oscar-Prise/Oscar-Prise.github.io
+License: Not specified in verification metadata
+
+19. Catherine Yeh
+Website: https://catherinesyeh.github.io/
+Repository: https://github.com/catherinesyeh/catherinesyeh.github.io
+License: Not specified in verification metadata
+
+20. Gustaf Ahdritz
+Website: https://gahdritz.github.io/
+Repository: https://github.com/gahdritz/gahdritz.github.io
+License: Not specified in verification metadata
+
+22. Chenhao Li
+Website: https://breadli428.github.io/
+Repository: https://github.com/breadli428/breadli428.github.io
+License: MIT
+
+23. Po-Nien Kung
+Website: https://billkunghappy.github.io/ponien-kung/
+Repository: https://github.com/billkunghappy/ponien-kung
+License: Not specified in verification metadata
+
+24. Saetbyeol Leeyouk
+Website: https://sbleeyouk.github.io/
+Repository: https://github.com/SBleeyouk/SBleeyouk.github.io
+License: Not specified in verification metadata
+
+25. Jyothish Pari
+Website: https://jyopari.github.io
+Repository: https://github.com/jyopari/jyopari.github.io
+License: Not specified in verification metadata
+
+27. Leheng Sheng
+Website: https://lehengthu.github.io/
+Repository: https://github.com/LehengTHU/LehengTHU.github.io
+License: MIT
+
+28. Phillip (Yuseung) Lee
+Website: https://phillipinseoul.github.io/
+Repository: https://github.com/phillipinseoul/phillipinseoul.github.io
+License: CC0-1.0
+
+30. Pardis Sadat Zahraei
+Website: https://pardissz.github.io/
+Repository: https://github.com/pardissz/pardissz.github.io
+License: MIT
+
+33. Chirag Rastogi
+Website: https://chirag5241.github.io/website/
+Repository: https://github.com/Chirag5241/website
+License: Not specified in verification metadata
+
+35. Jisung Hwang
+Website: http://jisung0111.github.io/
+Repository: https://github.com/Jisung0111/Jisung0111.github.io
+License: Not specified in verification metadata
+
+36. Joel Julin
+Website: https://joeljulin.github.io/
+Repository: https://github.com/joeljulin/joeljulin.github.io
+License: Not specified in verification metadata
+
+39. Weichen Fan
+Website: https://weichenfan.github.io/Weichen
+Repository: https://github.com/WeichenFan/Weichen
+License: Not specified in verification metadata
+
+40. Wenjie (Jeff) Li
+Website: https://jeffwli.github.io/
+Repository: https://github.com/jeffwli/jeffwli.github.io
+License: Not specified in verification metadata
+
+41. Xiao-Wen Yang
+Website: http://www.lamda.nju.edu.cn/yangxw/
+Repository: https://github.com/njuyxw/njuyxw.github.io
+License: MIT
+
+42. Yao Teng
+Website: https://tyshiwo1.github.io/
+Repository: https://github.com/tyshiwo1/tyshiwo1.github.io
+License: Not specified in verification metadata
+
+43. Cedric Honnet
+Website: http://honnet.eu
+Repository: https://github.com/honnet/honnet.github.io
+License: Apache-2.0
+
+44. Christina Chance
+Website: https://christinachance.github.io/
+Repository: https://github.com/christinachance/christinachance.github.io
+License: Not specified in verification metadata
+
+47. Francisca Vasconcelos
+Website: https://franciscavasconcelos.github.io/
+Repository: https://github.com/FranciscaVasconcelos/franciscavasconcelos.github.io
+License: Not specified in verification metadata
+
+51. Lauren Wang
+Website: https://lauren505.github.io/
+Repository: https://github.com/Lauren505/lauren505.github.io
+License: MIT
+
+53. Siddarth Venkatraman
+Website: https://hyperpotatoneo.github.io/
+Repository: https://github.com/HyperPotatoNeo/HyperPotatoNeo.github.io
+License: Not specified in verification metadata
+
+58. Jingwei (Chris) Zuo
+Website: https://jingwei-zuo.com
+Repository: https://github.com/Dr-Left/dr-left.github.io
+License: MIT
+
+59. Abinitha Gourabathina
+Website: https://abinithago.github.io/
+Repository: https://github.com/abinithago/abinithago.github.io
+License: MIT
+
+61. Juil Koo
+Website: https://63days.github.io/
+Repository: https://github.com/63days/63days.github.io
+License: MIT
+
+62. Liquan Wang
+Website: https://lichothu.github.io/
+Repository: https://github.com/LiCHOTHU/lichothu.github.io
+License: Not specified in verification metadata
+
+63. Matthew Finlayson
+Website: https://mattf1n.github.io/
+Repository: https://github.com/mattf1n/mattf1n.github.io
+License: Not specified in verification metadata
+
+65. Runmao Yao
+Website: https://21yrm.github.io/
+Repository: https://github.com/21yrm/21yrm.github.io
+License: MIT
+
+67. Vivek Ramanujan
+Website: https://vkramanuj.github.io/
+Repository: https://github.com/vkramanuj/vkramanuj.github.io
+License: Not specified in verification metadata
+
+73. Antoine Lafrance
+Website: https://antoine-lafrance.github.io/
+Repository: https://github.com/Antoine-Lafrance/Antoine-Lafrance.github.io
+License: Not specified in verification metadata
+
+74. Siyi Gu
+Website: https://carriegu0818.github.io/
+Repository: https://github.com/carriegu0818/carriegu0818.github.io
+License: MIT
+
+75. Usha Bhalla
+Website: https://ushabhalla.github.io/
+Repository: https://github.com/ushabhalla/ushabhalla.github.io
+License: Not specified in verification metadata
+
+80. Lauren Hyoseo Yoon
+Website: https://lauren-h-yoon.github.io/
+Repository: https://github.com/lauren-h-yoon/lauren-h-yoon.github.io
+License: Not specified in verification metadata
+
+82. Matthew Hull
+Website: https://matthewdhull.github.io
+Repository: https://github.com/matthewdhull/matthewdhull.github.io
+License: MIT
+
+85. Nishant Sharma
+Website: https://sevendaystoglory.github.io/
+Repository: https://github.com/sevendaystoglory/sevendaystoglory.github.io
+License: Not specified in verification metadata
+
+88. Sarah Pratt
+Website: https://sarahpratt.github.io/
+Repository: https://github.com/sarahpratt/sarahpratt.github.io
+License: Not specified in verification metadata
+
+90. Ying Wang
+Website: https://yingwangg.github.io/
+Repository: https://github.com/YingWANGG/YingWANGG.github.io
+License: MIT
+
+95. Zhirui (Raymond) Xia
+Website: https://raymondxzr.github.io/
+Repository: https://github.com/Raymondxzr/Raymondxzr.github.io
+License: Not specified in verification metadata
+
+97. Dylan Zhang
+Website: https://dylanzsz.github.io/
+Repository: https://github.com/DylanZSZ/dylanzsz.github.io
+License: Not specified in verification metadata
+
+99. Jenny Ma
+Website: https://jennygzma.github.io/
+Repository: https://github.com/jennygzma/jennygzma.github.io
+License: Not specified in verification metadata
+
+100. Junyu Guo
+Website: https://jamesjunyuguo.github.io/
+Repository: https://github.com/JamesJunyuGuo/JamesJunyuGuo.github.io
+License: MIT

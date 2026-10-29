@@ -1,0 +1,25 @@
+Graduate website reference library
+Checked 29 October 2026
+
+2281 unique personal websites; 72 university/institute affiliations; 521 visual shortlist picks; 1309 matched public website repositories.
+
+Method
+University lab and research-group rosters were used to discover the personal links. Some links were followed through a lab member profile or a redirect; the source chain is included. Current graduate affiliation was checked against the roster and personal biography. A newer completed-degree or postdoctoral/employment biography was grounds for exclusion, unless the author explicitly also identified as a current graduate student. A small number explicitly on PhD leave are labeled. Previous-lab discovery can lead to a current graduate at a different university; the current affiliation is shown.
+
+Every included site has a rendered desktop screenshot review. The shortlist records specific visual observations; the broader collection includes conventional, readable academic layouts as well as distinctive creative portfolios. This was not a complete accessibility or mobile audit of each external website.
+
+GitHub source links were matched from the GitHub Pages host and repository path, then checked through the public repository API for repository identity and Pages enabled. General GitHub profile links are separate. A repository match does not imply a license to reuse every image or personal text.
+
+URL, redirect and name-within-university duplicates were removed. No faculty, postdoctoral-only, undergraduate-only, generic institutional profile, parked-domain, or error-page entries were intentionally included. Public pages can be stale or change after checking; review dates are recorded.
+
+Coverage is broad, not an assertion that every lab at each university was visited. Counts vary by institution. Caltech has 60 accepted entries; the earlier target of 100 for every named university remains unmet there. The expanded target of at least 2,000 overall is met.
+
+Files
+graduate-website-library.html — searchable preview gallery, works offline after unzipping
+all-links.txt — named links with lab provenance and repository matches
+website-urls-only.txt — one personal website URL per line
+github-website-repositories.txt — website / source-code pairs
+design-shortlist.txt — selected visual examples and observations
+source-register.json — full compact data
+counts.json — university counts
+previews/ — local screenshot thumbnails

@@ -1,0 +1,61 @@
+{
+  "reviewed_on": "2026-10-29",
+  "result": "passed",
+  "counts": {
+    "sites": 100,
+    "institutions": 37,
+    "website_repositories": 51,
+    "styles": {
+      "Colorful": 14,
+      "Editorial": 37,
+      "Image-led": 16,
+      "Experimental": 11,
+      "Minimal academic": 8,
+      "Dark": 14
+    },
+    "fresh_screenshots": 100,
+    "date": "2026-10-29",
+    "screened": 2281,
+    "finalists": 152
+  },
+  "artifact_checks": {
+    "100_records": true,
+    "ranks_1_through_100": true,
+    "100_unique_ids": true,
+    "100_unique_personal_urls": true,
+    "100_belong_to_original_collection": true,
+    "100_complete_notes": true,
+    "100_complete_sources": true,
+    "100_http_200_captures": true,
+    "51_website_repos": true,
+    "51_unique_repo_urls": true,
+    "repo_links_not_profile_links": true,
+    "repos_have_verification_metadata": true,
+    "100_html_cards": true,
+    "embedded_json_matches_export": true,
+    "100_valid_screenshot_files": true,
+    "all_screenshots_1440_by_1000": true,
+    "export_screenshots_identical_to_reviewed_fresh_captures": true,
+    "html_cards_match_data_links_notes_images": true,
+    "included_group3_notes_match_fresh_review_corrections": true
+  },
+  "ui_checks": [
+    "100 cards",
+    "top 10 filter",
+    "51 source filter",
+    "all 6 style filters",
+    "search and empty result reset",
+    "saved favorite persists on reload",
+    "enlarged screenshot",
+    "next/previous and keyboard navigation",
+    "Escape closes dialog",
+    "study layout",
+    "jump to rank 100",
+    "mobile/tablet/desktop overflow check"
+  ],
+  "javascript_errors": [],
+  "missing_local_assets": [],
+  "issues": [],
+  "method": "All 2,281 existing desktop previews screened in four partitions; 152 finalists individually reviewed and freshly captured; 100 selected and ranked across the combined pool. Final screens and descriptions rechecked; source provenance retained.",
+  "visual_verification": "Gallery, study view, enlarged screenshot viewer, and mobile layouts rendered and inspected."
+}

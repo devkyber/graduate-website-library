@@ -1,0 +1,3042 @@
+[
+  {
+    "name": "Sejal Agarwal",
+    "university": "Waterloo",
+    "url": "https://sejalagarwal.ca/",
+    "resolved_url": "https://sejalagarwal.ca/",
+    "lab": "HCI Lab",
+    "source_url": "https://hci.cs.uwaterloo.ca/people/",
+    "source_chain": [
+      "https://hci.cs.uwaterloo.ca/people/",
+      "https://sejalagarwal.ca/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/sejal-agarwal/sejal-notebook-portfolio",
+    "repo_license": null,
+    "repo_verification": "Public Next.js repository verified; Hero.tsx text, notebook layout, portrait, and controls match the live custom-domain site.",
+    "id": 512,
+    "why": [
+      "The dotted notebook background, pastel navigation tabs, taped portrait and handwritten details belong to one consistent visual language.",
+      "A large, dark headline and two clear buttons keep the playful decoration subordinate to the introduction."
+    ],
+    "borrow": "Choose one physical metaphor, such as a notebook, and repeat it in a few carefully controlled details.",
+    "caveat": "",
+    "rank": 1,
+    "repo_evidence": [
+      "https://sejalagarwal.ca/",
+      "https://github.com/sejal-agarwal/sejal-notebook-portfolio/blob/main/src/components/home/Hero.tsx"
+    ],
+    "screenshot": "screenshots/001-512.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Narek Harutyunyan",
+    "university": "UC Berkeley",
+    "url": "https://narekharutyu.github.io/",
+    "resolved_url": "https://narekharutyu.github.io/",
+    "lab": "LeCAR",
+    "source_url": "https://lecar-lab.github.io/people.html",
+    "source_chain": [
+      "https://lecar-lab.github.io/people.html",
+      "https://narekharutyu.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/NarekHarutyu/narekharutyu.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 366,
+    "why": [
+      "Tall serif headings contrast with comfortably spaced sans-serif explanations, giving the page an editorial rhythm.",
+      "The portrait, research statement, fine rules, and orange scientific diagram sit on a consistent alignment grid."
+    ],
+    "borrow": "Use one scientific figure as a restrained accent and align biography text with the main research statement.",
+    "caveat": "",
+    "rank": 2,
+    "screenshot": "screenshots/002-366.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Hyunwoo Ryu",
+    "university": "MIT",
+    "url": "https://tomato1mule.github.io/",
+    "resolved_url": "https://tomato1mule.github.io/",
+    "lab": "Scene Representation Group",
+    "source_url": "https://scenerepresentations.org/people",
+    "source_chain": [
+      "https://scenerepresentations.org/people",
+      "https://sites.google.com/view/hyunwooryu",
+      "https://tomato1mule.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 191,
+    "why": [
+      "The oversized name, short research sentence, and large rounded portrait establish a clear first-screen hierarchy.",
+      "Black action buttons, a small location badge, and generous spacing make the transition into research feel organized."
+    ],
+    "borrow": "Limit the introduction to one research promise and pair it with one strong portrait before showing projects.",
+    "caveat": "",
+    "rank": 3,
+    "screenshot": "screenshots/003-191.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Bowen Zhu",
+    "university": "MIT",
+    "url": "https://bowenzhu.mit.edu",
+    "resolved_url": "https://bowenzhu.mit.edu/",
+    "lab": "Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+    "source_url": "https://www.csail.mit.edu/people/?roleFacets=Grad%20Students",
+    "source_chain": [
+      "https://www.csail.mit.edu/people/?roleFacets=Grad%20Students",
+      "https://www.csail.mit.edu/person/bowen-zhu",
+      "https://bowenzhu.mit.edu"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 176,
+    "why": [
+      "The prominent research statement is paired with a real robotics demonstration, so the opening immediately connects purpose and evidence.",
+      "The muted gray-green canvas and small chartreuse accents leave the project imagery in charge; aligned image columns continue below."
+    ],
+    "borrow": "Place one representative demonstration beside a short statement of what your work makes possible.",
+    "caveat": "",
+    "rank": 4,
+    "screenshot": "screenshots/004-176.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Zheyuan Hu",
+    "university": "Carnegie Mellon",
+    "url": "https://huzheyuan.io/",
+    "resolved_url": "https://huzheyuan.io/",
+    "lab": "Robotic Caregiving and Human Interaction",
+    "source_url": "https://rchi-lab.github.io/members",
+    "source_chain": [
+      "https://rchi-lab.github.io/members",
+      "https://huzheyuan.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 59,
+    "why": [
+      "Large serif typography, an off-white background, and precise rules give the page the calm structure of a research journal.",
+      "Publication rows align a year, title, summary, and image, while a separate count column preserves hierarchy."
+    ],
+    "borrow": "Design publications as consistent editorial rows with enough space for a one-sentence explanation and one image.",
+    "caveat": "",
+    "rank": 5,
+    "screenshot": "screenshots/005-59.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Jianna So",
+    "university": "Harvard",
+    "url": "https://www.jiannaso.com/",
+    "resolved_url": "https://www.jiso.design/",
+    "lab": "Intelligent Interactive Systems",
+    "source_url": "https://iis.seas.harvard.edu/people/",
+    "source_chain": [
+      "https://iis.seas.harvard.edu/people/",
+      "https://www.jiannaso.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": "https://github.com/jiannaso/jiso.design",
+    "repo_license": null,
+    "repo_verification": "Personal site explicitly links this repository as [repo]; public GitHub repository and React site source verified.",
+    "id": 139,
+    "why": [
+      "A sunset-blue and rose canvas unifies flowers, translucent rectangles, and image fragments into a deliberate collage.",
+      "The centered manifesto gives the scattered objects a conceptual anchor; small corner navigation keeps the composition open."
+    ],
+    "borrow": "Give your homepage one visual metaphor connected to your research, then build the palette and image treatment around it.",
+    "caveat": "The small navigation and scattered reading order favor exploration over quickly finding a CV.",
+    "rank": 6,
+    "repo_evidence": [
+      "https://www.jiannaso.com/",
+      "https://github.com/jiannaso/jiso.design/blob/main/src/App.js"
+    ],
+    "screenshot": "screenshots/006-139.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Mengyuan Millie Wu",
+    "university": "Columbia",
+    "url": "http://milliewu.io/",
+    "resolved_url": "https://mengyuanwu1.github.io/",
+    "lab": "DAPLab",
+    "source_url": "https://daplab.cs.columbia.edu/people",
+    "source_chain": [
+      "https://daplab.cs.columbia.edu/people",
+      "http://milliewu.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/mengyuanwu1/mengyuanwu1.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 84,
+    "why": [
+      "A wide illustrated banner connects the page to people, ideas and technology without competing with the biography below.",
+      "The oversized serif name sits in a narrow identity column beside a generous text column; the warm paper palette and fine circular icons are consistent."
+    ],
+    "borrow": "Separate identity from narrative in two columns and use one wide illustration to establish the tone.",
+    "caveat": "",
+    "rank": 7,
+    "screenshot": "screenshots/007-84.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Kexin Shi",
+    "university": "Carnegie Mellon",
+    "url": "https://tenhearts.github.io/",
+    "resolved_url": "https://tenhearts.github.io/",
+    "lab": "Pathak",
+    "source_url": "https://www.cs.cmu.edu/~dpathak/",
+    "source_chain": [
+      "https://www.cs.cmu.edu/~dpathak/",
+      "https://tenhearts.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": "https://github.com/tenhearts/tenhearts.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 42,
+    "why": [
+      "A heavy name and larger research-purpose sentence establish a clear hierarchy before the smaller biography.",
+      "Pale yellow highlighting, portrait edging, and the email control repeat one accent without overwhelming the white space."
+    ],
+    "borrow": "Make your research purpose the second-largest text element and repeat one accent across only a few important details.",
+    "caveat": "",
+    "rank": 8,
+    "screenshot": "screenshots/008-42.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Jamie Lee",
+    "university": "UC Irvine",
+    "url": "https://jamie-lee.co/",
+    "resolved_url": "https://jamie-lee.co/",
+    "lab": "HAI Lab",
+    "source_url": "https://hai.ics.uci.edu/people.html",
+    "source_chain": [
+      "https://hai.ics.uci.edu/people.html",
+      "https://jamie-lee.co/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 377,
+    "why": [
+      "Tilted paper, a clipboard, tape and a small flower illustration form one coherent physical metaphor.",
+      "The portrait and compact biography remain legible within the handmade composition."
+    ],
+    "borrow": "Build a personal identity around one material or object, then repeat its textures sparingly.",
+    "caveat": "This is best as a compact introduction; a large publication archive needs a separate structure.",
+    "rank": 9,
+    "screenshot": "screenshots/009-377.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Victor Livernoche",
+    "university": "McGill",
+    "url": "http://vicliv.ca/",
+    "resolved_url": "http://vicliv.ca/",
+    "lab": "Reihaneh Rabbany Research Group",
+    "source_url": "http://www.reirab.com/",
+    "source_chain": [
+      "http://www.reirab.com/",
+      "http://vicliv.ca/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 228,
+    "why": [
+      "The star field and black-hole image create an unusually memorable composition while leaving a dark area behind the introduction.",
+      "The huge sans-serif first name and italic serif surname establish a clear identity; the small portrait and white research button provide useful anchors."
+    ],
+    "borrow": "Build a dramatic hero around one image, then reserve a quiet, high-contrast area for the name and primary action.",
+    "caveat": "The spectacle occupies most of the first screen, so detailed work needs a clear route below.",
+    "rank": 10,
+    "screenshot": "screenshots/010-228.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Kenneth Browder",
+    "university": "MIT",
+    "url": "https://kennethb.me",
+    "resolved_url": "https://kennethb.me/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/kdbro/overview/",
+      "https://kennethb.me"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/pandanautinspace/pandanautinspace.github.io",
+    "repo_license": null,
+    "repo_verification": "Repository CNAME is kennethb.me and index.html matches the current masthead, greeting, biography, and layout.",
+    "id": 194,
+    "why": [
+      "An exceptionally tall, narrow serif wordmark makes a memorable identity without adding decorative graphics.",
+      "The greeting, short biography, and dated timeline share one precise reading column, leaving generous margins."
+    ],
+    "borrow": "Give your name one distinctive typographic treatment, then keep biography and updates on the same restrained grid.",
+    "caveat": "",
+    "rank": 11,
+    "repo_evidence": [
+      "https://github.com/pandanautinspace/pandanautinspace.github.io/blob/master/CNAME",
+      "https://github.com/pandanautinspace/pandanautinspace.github.io/blob/master/index.html"
+    ],
+    "screenshot": "screenshots/011-194.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Sevan Brodjian",
+    "university": "Caltech",
+    "url": "https://www.sevanb.net/",
+    "resolved_url": "https://www.sevanb.net/",
+    "lab": "Perona",
+    "source_url": "https://www.vision.caltech.edu/team/",
+    "source_chain": [
+      "https://www.vision.caltech.edu/team/",
+      "https://www.sevanb.net/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/SevanBrodjian/SevanBNet-frontend",
+    "repo_license": null,
+    "repo_verification": "Public repository README identifies it as the live sevanb.net frontend and documents its production domain and deployment.",
+    "id": 15,
+    "why": [
+      "A spare white line drawing of a room makes the world-model research visible within the hero.",
+      "Large, left-aligned type and an almost black canvas keep attention on two elements: the research statement and the drawing."
+    ],
+    "borrow": "Use an image produced by your research as the main design element, with typography quiet enough to let it work.",
+    "caveat": "",
+    "rank": 12,
+    "repo_evidence": [
+      "https://github.com/SevanBrodjian/SevanBNet-frontend/blob/main/README.md"
+    ],
+    "screenshot": "screenshots/012-15.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Arthur Jakobsson",
+    "university": "Carnegie Mellon",
+    "url": "https://arthurjakobsson.com/",
+    "resolved_url": "https://arthurjakobsson.com/",
+    "lab": "Momentum",
+    "source_url": "https://momentum-robotics-lab.github.io",
+    "source_chain": [
+      "https://momentum-robotics-lab.github.io",
+      "https://arthurjakobsson.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 30,
+    "why": [
+      "A textured cutout portrait and a cyan-outlined robot form one dramatic composition against deep navy.",
+      "The pale italic name balances the large figures, while navigation stays small and visually quiet."
+    ],
+    "borrow": "Build a hero from imagery that joins you to your research subject; leave a clear area for your name.",
+    "caveat": "The first screen emphasizes identity; detailed research needs a clear route below the hero.",
+    "rank": 13,
+    "screenshot": "screenshots/013-30.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Kaijing Ma",
+    "university": "UT Austin",
+    "url": "https://mkj69.github.io/",
+    "resolved_url": "https://mkj69.github.io/",
+    "lab": "VITA Group",
+    "source_url": "https://www.vita-group.space/team/",
+    "source_chain": [
+      "https://www.vita-group.space/team/",
+      "https://mkj69.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/mkj69/mkj69.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 427,
+    "why": [
+      "A large illustrated portrait balances the serif greeting; pale green accents repeat in tags, navigation, and the contact strip.",
+      "Two short panels introduce personal values and interests without competing with the research description."
+    ],
+    "borrow": "Use one consistent illustrated identity and repeat its palette sparingly across the rest of the page.",
+    "caveat": "",
+    "rank": 14,
+    "screenshot": "screenshots/014-427.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Sidney Nimako",
+    "university": "Carnegie Mellon",
+    "url": "https://snibo.me",
+    "resolved_url": "https://snibo.me/",
+    "lab": "Zoom",
+    "source_url": "http://zoomlab.ri.cmu.edu/people",
+    "source_chain": [
+      "http://zoomlab.ri.cmu.edu/people",
+      "https://snibo.me"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/snibo13/snibo13.github.io",
+    "repo_license": null,
+    "repo_verification": "Repository CNAME is snibo.me; index.html matches the live identity, biography, navigation, and branding stylesheet.",
+    "id": 49,
+    "why": [
+      "A narrow biography column anchors a staggered board of research, internships and projects.",
+      "Forest green, charcoal and muted mint connect very different project images into a consistent palette."
+    ],
+    "borrow": "Give mixed work a shared visual system while allowing different tile heights.",
+    "caveat": "The dense multicolumn desktop layout needs careful stacking on phones.",
+    "rank": 15,
+    "repo_evidence": [
+      "https://github.com/snibo13/snibo13.github.io/blob/master/CNAME",
+      "https://github.com/snibo13/snibo13.github.io/blob/master/index.html"
+    ],
+    "screenshot": "screenshots/015-49.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "XiuYu Zhang",
+    "university": "NUS",
+    "url": "https://xiuyuz.github.io/",
+    "resolved_url": "https://xiuyuz.github.io/",
+    "lab": "NExT++ Lab",
+    "source_url": "https://www.nextcenter.org/team",
+    "source_chain": [
+      "https://www.nextcenter.org/team",
+      "https://xiuyuz.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/xiuyuz/xiuyuz.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 239,
+    "why": [
+      "The oversized name mixes restrained sans-serif letters with an expressive serif surname.",
+      "A pale particle field sits beside three concise research interests, making the spacious panel feel specific to computational work."
+    ],
+    "borrow": "Pair a short research-interest list with one scientific visual, and derive the page colors from that visual.",
+    "caveat": "",
+    "rank": 16,
+    "screenshot": "screenshots/016-239.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Dünya Baradari",
+    "university": "MIT",
+    "url": "https://dunya-baradari.com/",
+    "resolved_url": "https://www.dunya-baradari.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/dunya/overview/",
+      "https://dunya-baradari.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 181,
+    "why": [
+      "An oversized cream serif name sits over a full-width event photograph, making the opening feel like a magazine cover.",
+      "The small navigation and fine technical grid keep a consistent frame around a deliberately dramatic image."
+    ],
+    "borrow": "Use one large image and a clear name as the focal point; keep supporting controls quiet.",
+    "caveat": "The dark overlay and fine metadata deserve stronger contrast if you adapt this approach.",
+    "rank": 17,
+    "screenshot": "screenshots/017-181.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Oscar Luo",
+    "university": "Carnegie Mellon",
+    "url": "https://oscar-prise.github.io/",
+    "resolved_url": "https://oscar-prise.github.io/",
+    "lab": "Collaborating",
+    "source_url": "https://metamobility.cmu.edu/people",
+    "source_chain": [
+      "https://metamobility.cmu.edu/people",
+      "https://oscar-prise.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/Oscar-Prise/Oscar-Prise.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 44,
+    "why": [
+      "The large serif name, cream paper texture and restrained burgundy rules give the page a coherent printed feel.",
+      "The portrait balances the introduction, and the repeated outlined links plus distinctive notched section divider carry the identity into the next section."
+    ],
+    "borrow": "Use a small set of typographic and border details consistently across the hero and subsequent sections.",
+    "caveat": "The small, widely spaced utility labels may need stronger contrast or larger sizing.",
+    "rank": 18,
+    "screenshot": "screenshots/018-44.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Catherine Yeh",
+    "university": "Harvard",
+    "url": "https://catherinesyeh.github.io/",
+    "resolved_url": "https://catherinesyeh.github.io/",
+    "lab": "Visual Computing Group",
+    "source_url": "https://vcg.seas.harvard.edu/people",
+    "source_chain": [
+      "https://vcg.seas.harvard.edu/people",
+      "https://catherinesyeh.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": "https://github.com/catherinesyeh/catherinesyeh.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 133,
+    "why": [
+      "Publication thumbnails get enough space to explain the visualization work visually.",
+      "Soft pink accents connect the announcement strip, section marker and filtering controls without dominating the images."
+    ],
+    "borrow": "Turn selected publications into a curated image gallery with concise captions.",
+    "caveat": "",
+    "rank": 19,
+    "screenshot": "screenshots/019-133.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Gustaf Ahdritz",
+    "university": "Harvard",
+    "url": "https://gahdritz.github.io/",
+    "resolved_url": "https://gahdritz.github.io/",
+    "lab": "ML Foundations",
+    "source_url": "https://mlfoundations.org/people/",
+    "source_chain": [
+      "https://mlfoundations.org/people/",
+      "https://gahdritz.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/gahdritz/gahdritz.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 137,
+    "why": [
+      "The tightly set serif nameplate pairs with a small framed photograph like a journal masthead.",
+      "Fine horizontal rules and a wide label column establish hierarchy without boxes."
+    ],
+    "borrow": "Use type scale and alignment to organize a biography instead of adding decorative containers.",
+    "caveat": "",
+    "rank": 20,
+    "screenshot": "screenshots/020-137.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "John Robertson",
+    "university": "UT Austin",
+    "url": "https://johntrob14.github.io/",
+    "resolved_url": "https://johntrob14.github.io/",
+    "lab": "VITA Group",
+    "source_url": "https://www.vita-group.space/team/",
+    "source_chain": [
+      "https://www.vita-group.space/team/",
+      "https://johntrob14.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 426,
+    "why": [
+      "Thick outlines and small offset shadows are repeated consistently across navigation, buttons, portrait, and publication cards.",
+      "Cream and pale blue separate biography from research while strong headings keep the playful styling orderly."
+    ],
+    "borrow": "Choose one border-and-shadow treatment and apply it consistently; use section color to distinguish types of content.",
+    "caveat": "",
+    "rank": 21,
+    "screenshot": "screenshots/021-426.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Chenhao Li",
+    "university": "ETH Zurich",
+    "url": "https://breadli428.github.io/",
+    "resolved_url": "https://breadli428.github.io/",
+    "lab": "Learning and Adaptive Systems",
+    "source_url": "https://las.inf.ethz.ch/people",
+    "source_chain": [
+      "https://las.inf.ethz.ch/people",
+      "https://las.inf.ethz.ch/people/chenhao-li",
+      "https://breadli428.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/breadli428/breadli428.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 118,
+    "why": [
+      "Oversized white research-topic typography provides immediate contrast and a strong focal point on black.",
+      "A large grayscale robotics visual continues the topic below two clearly differentiated research and CV controls."
+    ],
+    "borrow": "Lead with a plain-language description of your work, then show a substantial visual demonstration directly underneath.",
+    "caveat": "",
+    "rank": 22,
+    "screenshot": "screenshots/022-118.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Po-Nien Kung",
+    "university": "UCLA",
+    "url": "https://billkunghappy.github.io/ponien-kung/",
+    "resolved_url": "https://billkunghappy.github.io/ponien-kung/",
+    "lab": "UCLA NLP",
+    "source_url": "https://nlp.ucla.edu/people/",
+    "source_chain": [
+      "https://nlp.ucla.edu/people/",
+      "https://billkunghappy.github.io/ponien-kung/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/billkunghappy/ponien-kung",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 394,
+    "why": [
+      "A portrait, serif name, and indented research thesis make the introduction easy to scan, with updates placed in a separate narrow column.",
+      "Fine rules and numbered research stages organize diagrams and explanations into a coherent argument."
+    ],
+    "borrow": "Present your projects as parts of a research thesis rather than an undifferentiated publication list.",
+    "caveat": "",
+    "rank": 23,
+    "screenshot": "screenshots/023-394.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Saetbyeol Leeyouk",
+    "university": "MIT",
+    "url": "https://sbleeyouk.github.io/",
+    "resolved_url": "https://sbleeyouk.github.io/saetbyeol",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/sbleeyuk/overview/",
+      "https://sbleeyouk.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/SBleeyouk/SBleeyouk.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 211,
+    "why": [
+      "The orange, black, and peach field creates a cohesive backdrop for the entire opening screen.",
+      "A three-circle diagram explains the relationship among social justice, AI/data, and interaction before the project list."
+    ],
+    "borrow": "Turn your research intersection into a simple diagram and let that diagram organize the hero.",
+    "caveat": "Fine white lines and small labels need careful contrast checking when adapting this approach.",
+    "rank": 24,
+    "screenshot": "screenshots/024-211.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Jyothish Pari",
+    "university": "MIT",
+    "url": "https://jyopari.github.io",
+    "resolved_url": "https://jyopari.github.io/",
+    "lab": "Improbable AI",
+    "source_url": "https://improbableai.com/members.html",
+    "source_chain": [
+      "https://improbableai.com/members.html",
+      "https://jyopari.github.io"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": "https://github.com/jyopari/jyopari.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 193,
+    "why": [
+      "Large green watercolor forms balance a narrow, left-aligned research index.",
+      "The paper texture, serif type and quiet date column share the same calm visual character."
+    ],
+    "borrow": "Keep expressive artwork outside the reading column and let a restrained list carry the content.",
+    "caveat": "Small text and pale link colors should be strengthened when adapting it.",
+    "rank": 25,
+    "screenshot": "screenshots/025-193.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Fern Limprayoon",
+    "university": "Yale",
+    "url": "https://jfernleaf.github.io/",
+    "resolved_url": "https://jfernleaf.github.io/",
+    "lab": "Yale Social Robotics Lab",
+    "source_url": "https://scazlab.yale.edu/people/graduate-students",
+    "source_chain": [
+      "https://scazlab.yale.edu/people/graduate-students",
+      "https://jfernleaf.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 514,
+    "why": [
+      "A conversational, large-scale introduction sits opposite a bold illustrated statement tied to the research area.",
+      "The illustration supplies the color while the biography and navigation remain restrained and readable."
+    ],
+    "borrow": "Pair a short personal introduction with one meaningful project image instead of several decorative graphics.",
+    "caveat": "",
+    "rank": 26,
+    "screenshot": "screenshots/026-514.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Leheng Sheng",
+    "university": "NUS",
+    "url": "https://lehengthu.github.io/",
+    "resolved_url": "https://lehengthu.github.io/",
+    "lab": "NExT++ Lab",
+    "source_url": "https://www.nextcenter.org/team",
+    "source_chain": [
+      "https://www.nextcenter.org/team",
+      "https://lehengthu.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/LehengTHU/LehengTHU.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 238,
+    "why": [
+      "Serif identity and section titles are balanced by clean sans-serif descriptions and generous white space.",
+      "Three evenly divided research columns turn a broad agenda into a concise, readable comparison."
+    ],
+    "borrow": "Explain your research through three short themes before listing individual papers.",
+    "caveat": "",
+    "rank": 27,
+    "screenshot": "screenshots/027-238.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Phillip (Yuseung) Lee",
+    "university": "KAIST",
+    "url": "https://phillipinseoul.github.io/",
+    "resolved_url": "https://phillipinseoul.github.io/",
+    "lab": "Visual AI Group",
+    "source_url": "https://visualai.kaist.ac.kr/members/",
+    "source_chain": [
+      "https://visualai.kaist.ac.kr/members/",
+      "https://phillipinseoul.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": "https://github.com/phillipinseoul/phillipinseoul.github.io",
+    "repo_license": "CC0-1.0",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 164,
+    "why": [
+      "A miniature room occupies the main column while identity and scholarly links stay in a clean sidebar.",
+      "The bright furniture, robot-view inset and suggested question chips make the research theme visually concrete without filling the whole page with decoration."
+    ],
+    "borrow": "Use a small demonstration of your research as the hero, and place suggested ways to explore it immediately beneath.",
+    "caveat": "The screenshot shows interactive controls; their behavior was not tested in this visual ranking.",
+    "rank": 28,
+    "screenshot": "screenshots/028-164.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Rajarshi Haldar",
+    "university": "UIUC",
+    "url": "https://rajarshihaldar.com/",
+    "resolved_url": "https://rajarshihaldar.com/",
+    "lab": "Hockenmaier Lab",
+    "source_url": "https://hmr-lab.github.io/team/",
+    "source_chain": [
+      "https://hmr-lab.github.io/team/",
+      "https://rajarshihaldar.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 412,
+    "why": [
+      "The oversized two-line serif name and italic research statement create a clear typographic hierarchy.",
+      "Burgundy is repeated in the portrait tint, logo, links and section headings, making the cream-and-white page feel cohesive."
+    ],
+    "borrow": "Repeat one accent color in both imagery and interface details, and keep the opening research statement short.",
+    "caveat": "",
+    "rank": 29,
+    "screenshot": "screenshots/029-412.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Pardis Sadat Zahraei",
+    "university": "UIUC",
+    "url": "https://pardissz.github.io/",
+    "resolved_url": "https://pardissz.github.io/",
+    "lab": "ConvAI Lab",
+    "source_url": "https://uiuc-conversational-ai-lab.github.io/team",
+    "source_chain": [
+      "https://uiuc-conversational-ai-lab.github.io/team",
+      "https://pardissz.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/pardissz/pardissz.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 411,
+    "why": [
+      "A hand-drawn research cartoon and taped-paper details make the pastel page feel personal and connected to the research.",
+      "Heavy serif headings and outlined buttons give the playful imagery a clear typographic structure."
+    ],
+    "borrow": "Use a research-related illustration to explain your topic, then keep navigation and heading hierarchy conventional.",
+    "caveat": "",
+    "rank": 30,
+    "screenshot": "screenshots/030-411.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Qingwei Ben",
+    "university": "Chinese University of Hong Kong",
+    "url": "https://www.qingweiben.com/",
+    "resolved_url": "https://www.qingweiben.com/",
+    "lab": "Multimedia Laboratory",
+    "source_url": "https://mmlab.ie.cuhk.edu.hk/people.html",
+    "source_chain": [
+      "https://mmlab.ie.cuhk.edu.hk/people.html",
+      "https://www.qingweiben.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 69,
+    "why": [
+      "The oversized serif name immediately establishes a focal point beside the elevated portrait card.",
+      "Warm portrait tones, neutral background and small rounded links form a coherent introductory section."
+    ],
+    "borrow": "Balance one strong typographic element with a human portrait and an easy-to-scan research statement.",
+    "caveat": "",
+    "rank": 31,
+    "screenshot": "screenshots/031-69.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Arvind Raghavan",
+    "university": "Columbia",
+    "url": "https://arvindraghavan.org/",
+    "resolved_url": "https://arvindraghavan.me/",
+    "lab": "Columbia Core AI Lab",
+    "source_url": "https://cail.columbia.edu/people/students",
+    "source_chain": [
+      "https://cail.columbia.edu/people/students",
+      "https://arvindraghavan.org/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 78,
+    "why": [
+      "The large two-line serif name and tall arched portrait balance each other across a warm, spacious introduction.",
+      "Dark green buttons and a full-width statement band give useful contrast to the otherwise quiet cream page."
+    ],
+    "borrow": "Choose a distinctive portrait crop and balance it against the scale of your name, keeping supporting links compact.",
+    "caveat": "",
+    "rank": 32,
+    "screenshot": "screenshots/032-78.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Chirag Rastogi",
+    "university": "UIUC",
+    "url": "https://chirag5241.github.io/website/",
+    "resolved_url": "https://chirag5241.github.io/website/",
+    "lab": "Hockenmaier Lab",
+    "source_url": "https://hmr-lab.github.io/team/",
+    "source_chain": [
+      "https://hmr-lab.github.io/team/",
+      "https://chirag5241.github.io/website/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/Chirag5241/website",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 404,
+    "why": [
+      "A pale blue watercolor-like field fades into white rather than sitting behind all the body text.",
+      "The serif name and portrait form a balanced horizontal introduction, with the portrait colors echoing the background and open spacing separating the research statement."
+    ],
+    "borrow": "Use a soft illustration or texture only near the introduction, then let it fade into a plain reading surface.",
+    "caveat": "",
+    "rank": 33,
+    "screenshot": "screenshots/033-404.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Hirona Arai",
+    "university": "USC",
+    "url": "https://www.hironaarai.com",
+    "resolved_url": "https://hironaarai.com/",
+    "lab": "INK Lab",
+    "source_url": "https://inklab.usc.edu/people.html",
+    "source_chain": [
+      "https://inklab.usc.edu/people.html",
+      "https://www.hironaarai.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 421,
+    "why": [
+      "The large teal illustration and short greeting create a friendly, balanced two-column entrance.",
+      "Yellow repeats in the hand-drawn underline and primary button, guiding attention without excessive color."
+    ],
+    "borrow": "Choose one distinctive illustration and repeat a single accent in the action you want people to take.",
+    "caveat": "",
+    "rank": 34,
+    "screenshot": "screenshots/034-421.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Jisung Hwang",
+    "university": "KAIST",
+    "url": "http://jisung0111.github.io/",
+    "resolved_url": "https://jisung0111.github.io/",
+    "lab": "Visual AI Group",
+    "source_url": "https://visualai.kaist.ac.kr/members/",
+    "source_chain": [
+      "https://visualai.kaist.ac.kr/members/",
+      "http://jisung0111.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/Jisung0111/Jisung0111.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 160,
+    "why": [
+      "The tall white name is positioned against the darker portion of the nighttime city image, creating strong contrast.",
+      "Small red details, bilingual identity text and a narrow row of outlined links give the cinematic hero a consistent visual system."
+    ],
+    "borrow": "Choose the crop of a background photograph around the text placement, then use one accent color sparingly.",
+    "caveat": "The hero communicates identity more strongly than the details of the research.",
+    "rank": 35,
+    "screenshot": "screenshots/035-160.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Joel Julin",
+    "university": "Carnegie Mellon",
+    "url": "https://joeljulin.github.io/",
+    "resolved_url": "https://joeljulin.github.io/",
+    "lab": "Computational Behavior (CUBE)",
+    "source_url": "https://laszlojeni.com/lab.html",
+    "source_chain": [
+      "https://laszlojeni.com/lab.html",
+      "https://joeljulin.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/joeljulin/joeljulin.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 40,
+    "why": [
+      "A large serif name, compact biography and ample outer margins produce a calm, balanced introduction.",
+      "The portrait has an asymmetric rounded corner and faint geometric framing; restrained red links connect the visual details to the main contact button."
+    ],
+    "borrow": "Add personality through one portrait treatment and a single accent color while preserving generous whitespace.",
+    "caveat": "",
+    "rank": 36,
+    "screenshot": "screenshots/036-40.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Sheer Karny",
+    "university": "MIT",
+    "url": "https://sheerkarny.com/",
+    "resolved_url": "https://sheerkarny.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/skarny/overview/",
+      "https://sheerkarny.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 1180,
+    "why": [
+      "The very large, light-weight name contrasts with a compact research subtitle and small navigation.",
+      "A dotted typographic graphic carries the research theme on the right, while a separate portrait-and-biography row creates a clear second level."
+    ],
+    "borrow": "Use typography itself as the main visual, and move the longer biography into a distinct section below.",
+    "caveat": "The pale dotted graphic is atmospheric and should not carry essential information.",
+    "rank": 37,
+    "screenshot": "screenshots/037-1180.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Tao Hu",
+    "university": "Nanjing University",
+    "url": "http://www.lamda.nju.edu.cn/hut/",
+    "resolved_url": "http://www.lamda.nju.edu.cn/hut/",
+    "lab": "LAMDA",
+    "source_url": "https://www.lamda.nju.edu.cn/MSc_students.ashx",
+    "source_chain": [
+      "https://www.lamda.nju.edu.cn/MSc_students.ashx",
+      "http://www.lamda.nju.edu.cn/hut/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 262,
+    "why": [
+      "Soft green tones connect the sidebar, research headline, current-news strip, and three research-interest cells.",
+      "A simple hand-drawn avatar adds personality while serif headings and fine dividers preserve a scholarly structure."
+    ],
+    "borrow": "Use a small personal illustration within a disciplined navigation and content grid.",
+    "caveat": "",
+    "rank": 38,
+    "screenshot": "screenshots/038-262.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Weichen Fan",
+    "university": "NTU Singapore",
+    "url": "https://weichenfan.github.io/Weichen",
+    "resolved_url": "https://weichenfan.github.io/Weichen/",
+    "lab": "MMLab NTU",
+    "source_url": "https://www.mmlab-ntu.com/team.html",
+    "source_chain": [
+      "https://www.mmlab-ntu.com/team.html",
+      "https://weichenfan.github.io/Weichen"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/WeichenFan/Weichen",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 233,
+    "why": [
+      "Monospace biography text, fine rules and an offset portrait frame create a technical notebook identity.",
+      "The publication area uses aligned labels and outlined figures to continue the same visual language."
+    ],
+    "borrow": "Choose a consistent treatment for labels, image frames and spacing across the whole page.",
+    "caveat": "Dense labels and small type can be simplified for a lighter adaptation.",
+    "rank": 39,
+    "screenshot": "screenshots/039-233.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Wenjie (Jeff) Li",
+    "university": "UC Berkeley",
+    "url": "https://jeffwli.github.io/",
+    "resolved_url": "https://jeffwli.github.io/",
+    "lab": "Berkeley Artificial Intelligence Research (BAIR) Lab",
+    "source_url": "https://bair.berkeley.edu/people/students",
+    "source_chain": [
+      "https://bair.berkeley.edu/people/students",
+      "https://jeffwli.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": "https://github.com/jeffwli/jeffwli.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 374,
+    "why": [
+      "A darkened forest-and-kayak photograph creates atmosphere while leaving the right side quiet enough for a biography.",
+      "The stacked serif name and small framed portrait establish identity without competing with the landscape."
+    ],
+    "borrow": "Choose a background image with natural empty space and place text in that quieter region.",
+    "caveat": "Keep the dark overlay strong enough for readable text on every background crop.",
+    "rank": 40,
+    "screenshot": "screenshots/040-374.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Xiao-Wen Yang",
+    "university": "Nanjing University",
+    "url": "http://www.lamda.nju.edu.cn/yangxw/",
+    "resolved_url": "https://njuyxw.github.io/",
+    "lab": "LAMDA",
+    "source_url": "https://www.lamda.nju.edu.cn/PhD_students.ashx",
+    "source_chain": [
+      "https://www.lamda.nju.edu.cn/PhD_students.ashx",
+      "http://www.lamda.nju.edu.cn/yangxw/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/njuyxw/njuyxw.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 263,
+    "why": [
+      "Gold planets, olive landscape layers, and matching accent lines create a consistent illustrated environment.",
+      "The identity, publication button, news box, and publication heading remain clearly separated within that environment."
+    ],
+    "borrow": "Choose a narrow palette for an illustrated hero, then carry only its accent color into the practical research sections.",
+    "caveat": "The decorative scene occupies substantial first-screen space; keep its surrounding text concise.",
+    "rank": 41,
+    "screenshot": "screenshots/041-263.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Yao Teng",
+    "university": "University of Hong Kong",
+    "url": "https://tyshiwo1.github.io/",
+    "resolved_url": "https://tyshiwo1.github.io/",
+    "lab": "Multimedia Laboratory",
+    "source_url": "https://mmlab.hk/member",
+    "source_chain": [
+      "https://mmlab.hk/member",
+      "https://tyshiwo1.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/tyshiwo1/tyshiwo1.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 438,
+    "why": [
+      "A large serif name, restrained gold accent, and softly lit dark background create a cohesive opening.",
+      "The slightly angled portrait and delicate corner brackets give a simple two-column layout an individual character."
+    ],
+    "borrow": "Add character through one portrait treatment, while keeping the primary research link visibly stronger than secondary links.",
+    "caveat": "",
+    "rank": 42,
+    "screenshot": "screenshots/042-438.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Cedric Honnet",
+    "university": "MIT",
+    "url": "http://honnet.eu",
+    "resolved_url": "https://honnet.github.io/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/honnet/overview/",
+      "http://honnet.eu"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": "https://github.com/honnet/honnet.github.io",
+    "repo_license": "Apache-2.0",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 179,
+    "why": [
+      "A monochrome abstract form fills the screen and makes strong use of scale and negative space.",
+      "The single centered discipline statement and compact navigation keep the opening visually decisive."
+    ],
+    "borrow": "Let one image express your practice and place only a short, specific description over it.",
+    "caveat": "The opening works as an artistic introduction; detailed academic context comes later.",
+    "rank": 43,
+    "screenshot": "screenshots/043-179.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Christina Chance",
+    "university": "UCLA",
+    "url": "https://christinachance.github.io/",
+    "resolved_url": "https://christinachance.github.io/",
+    "lab": "UCLA NLP",
+    "source_url": "https://nlp.ucla.edu/people/",
+    "source_chain": [
+      "https://nlp.ucla.edu/people/",
+      "https://christinachance.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/christinachance/christinachance.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 393,
+    "why": [
+      "The research question is set as a prominent serif headline instead of being buried in a long biography.",
+      "A peach profile column and restrained green accents separate personal information from the research agenda."
+    ],
+    "borrow": "Lead with the problem your work addresses, then group research themes into short, scannable statements.",
+    "caveat": "The pale secondary text could use more contrast.",
+    "rank": 44,
+    "screenshot": "screenshots/044-393.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Austin Andrews",
+    "university": "Oxford",
+    "url": "https://austinandrews.co.uk",
+    "resolved_url": "https://austinandrews.co.uk/",
+    "lab": "Foerster Lab for AI Research",
+    "source_url": "https://foersterlab.com/members/",
+    "source_chain": [
+      "https://foersterlab.com/members/",
+      "https://austinandrews.co.uk"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 278,
+    "why": [
+      "Terminal-style frames, command labels, and a black grid background create a consistent research-console metaphor.",
+      "The large purpose statement and high-contrast illustrated portrait give clear focal points within the dense frame system."
+    ],
+    "borrow": "If you adopt a technical metaphor, apply it consistently but make the central research statement easy to read.",
+    "caveat": "Many fine labels are subdued; increase their contrast and avoid making navigation depend on the metaphor.",
+    "rank": 45,
+    "screenshot": "screenshots/045-278.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Bobby Yan",
+    "university": "Stanford",
+    "url": "https://bobbyy.org/",
+    "resolved_url": "https://bobbyy.org/",
+    "lab": "Center for Research on Foundation Models",
+    "source_url": "https://crfm.stanford.edu/people.html",
+    "source_chain": [
+      "https://crfm.stanford.edu/people.html",
+      "https://bobbyy.org/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 316,
+    "why": [
+      "A bold conversational introduction and large circular portrait make the page feel personal without a long formal biography.",
+      "The distinctive outlined display lettering is confined to the name and writing heading, while article titles and dates remain easy to scan."
+    ],
+    "borrow": "Use expressive lettering for a few identity elements and a plain, consistent typeface for the content list.",
+    "caveat": "",
+    "rank": 46,
+    "screenshot": "screenshots/046-316.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Francisca Vasconcelos",
+    "university": "UC Berkeley",
+    "url": "https://franciscavasconcelos.github.io/",
+    "resolved_url": "https://franciscavasconcelos.github.io/",
+    "lab": "Berkeley Artificial Intelligence Research (BAIR) Lab",
+    "source_url": "https://bair.berkeley.edu/people/students",
+    "source_chain": [
+      "https://bair.berkeley.edu/people/students",
+      "https://franciscavasconcelos.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/FranciscaVasconcelos/franciscavasconcelos.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 357,
+    "why": [
+      "The broad serif name and black-and-white portrait give the introduction a composed editorial character.",
+      "A wide biography panel and narrower news panel separate enduring information from updates."
+    ],
+    "borrow": "Pair a strong opening with a two-column content hierarchy that reflects what changes most often.",
+    "caveat": "",
+    "rank": 47,
+    "screenshot": "screenshots/047-357.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Gabriela Bila Advincula",
+    "university": "MIT",
+    "url": "http://www.gabrielabila.com",
+    "resolved_url": "https://www.gabrielabila.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/gba/overview/",
+      "http://www.gabrielabila.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 186,
+    "why": [
+      "Full-width imagery of an interactive urban installation connects the visual presentation to research on cities.",
+      "White strips behind the large black introduction preserve legibility over changing, complex imagery."
+    ],
+    "borrow": "Use an actual research or installation image as the hero and give overlaid text a solid backing.",
+    "caveat": "A busy hero needs a short introduction; longer text would obscure the image and weaken hierarchy.",
+    "rank": 48,
+    "screenshot": "screenshots/048-186.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Harsh Kumar",
+    "university": "Toronto",
+    "url": "https://harsh-kumar.com/",
+    "resolved_url": "https://harsh-kumar.com/",
+    "lab": "Computational Social Science Lab",
+    "source_url": "https://csslab.cs.toronto.edu/people/",
+    "source_chain": [
+      "https://csslab.cs.toronto.edu/people/",
+      "https://harsh-kumar.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 335,
+    "why": [
+      "The very large two-line serif name forms a strong signature alongside a much smaller photograph.",
+      "A single coral dot and matching link accents add personality without fragmenting the otherwise restrained page."
+    ],
+    "borrow": "Use typography as the main visual feature, then limit the rest of the page to one accent color.",
+    "caveat": "",
+    "rank": 49,
+    "screenshot": "screenshots/049-335.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Kaihua Hou",
+    "university": "UC Berkeley",
+    "url": "https://kaihua-hou.com/",
+    "resolved_url": "https://kaihua-hou.com/",
+    "lab": "Berkeley Artificial Intelligence Research (BAIR) Lab",
+    "source_url": "https://bair.berkeley.edu/people/students",
+    "source_chain": [
+      "https://bair.berkeley.edu/people/students",
+      "https://kaihua-hou.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 362,
+    "why": [
+      "A short, bold serif research headline is given more prominence than the institutional biography.",
+      "The large black-and-white portrait balances the text and keeps the palette focused on shape and spacing."
+    ],
+    "borrow": "Write a compact research mission and pair it with one strong portrait instead of opening with a dense CV summary.",
+    "caveat": "",
+    "rank": 50,
+    "screenshot": "screenshots/050-362.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Lauren Wang",
+    "university": "Princeton",
+    "url": "https://lauren505.github.io/",
+    "resolved_url": "https://www.laurenwww.com/",
+    "lab": "Princeton HCI",
+    "source_url": "https://hci.princeton.edu/people/",
+    "source_chain": [
+      "https://hci.princeton.edu/people/",
+      "https://lauren505.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": "https://github.com/Lauren505/lauren505.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 305,
+    "why": [
+      "A compact portrait-and-news column balances a clear biography, leaving room for a three-column project gallery.",
+      "The warm neutral background and consistent thumbnail sizes make different robot demonstrations feel like one body of work."
+    ],
+    "borrow": "Show a small set of strongest projects with equally sized images and predictable resource links.",
+    "caveat": "",
+    "rank": 51,
+    "screenshot": "screenshots/051-305.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Maryam Hashemzadeh",
+    "university": "Université de Montréal",
+    "url": "https://mhashemzadeh.github.io/home/",
+    "resolved_url": "https://mhashemzadeh.github.io/home/",
+    "lab": "Sarath Chandar Research Group",
+    "source_url": "https://chandar-lab.github.io/people/",
+    "source_chain": [
+      "https://chandar-lab.github.io/people/",
+      "https://mhashemzadeh.github.io/home/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 504,
+    "why": [
+      "The stacked name and large research statement create two clear reading levels before the longer biography.",
+      "A cool pale background, deep green text and naturally lit portrait feel cohesive; the narrow biography column keeps the page readable."
+    ],
+    "borrow": "Give the research statement more visual weight than the detailed biography, and keep the reading column narrow.",
+    "caveat": "",
+    "rank": 52,
+    "screenshot": "screenshots/052-504.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Siddarth Venkatraman",
+    "university": "Université de Montréal",
+    "url": "https://hyperpotatoneo.github.io/",
+    "resolved_url": "https://hyperpotatoneo.github.io/",
+    "lab": "Glen Berseth Research Group",
+    "source_url": "https://neo-x.github.io/people/",
+    "source_chain": [
+      "https://neo-x.github.io/people/",
+      "https://hyperpotatoneo.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/HyperPotatoNeo/HyperPotatoNeo.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 508,
+    "why": [
+      "A terminal-window frame, command-like section labels and muted green details create a coherent computing identity.",
+      "The biography remains conventional and readable inside that frame, and the bright research diagram provides an effective contrast below."
+    ],
+    "borrow": "Use a technical metaphor as a light frame around clear content rather than styling every paragraph like code.",
+    "caveat": "",
+    "rank": 53,
+    "screenshot": "screenshots/053-508.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Tuan Trung Dao",
+    "university": "University of Wisconsin–Madison",
+    "url": "https://trung-dt.com/",
+    "resolved_url": "https://trung-dt.com/",
+    "lab": "Yong Jae Lee Lab",
+    "source_url": "https://pages.cs.wisc.edu/~yongjaelee/",
+    "source_chain": [
+      "https://pages.cs.wisc.edu/~yongjaelee/",
+      "https://trung-dt.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 494,
+    "why": [
+      "A syntax-colored code buffer turns research identity into a distinctive visual object.",
+      "The biography, portrait, tab labels, and status strip continue the editor theme with a controlled violet palette."
+    ],
+    "borrow": "Translate your professional identity into a familiar interface metaphor while retaining a plain-language biography.",
+    "caveat": "The code-first presentation adds reading effort; provide obvious links for visitors unfamiliar with editors.",
+    "rank": 54,
+    "screenshot": "screenshots/054-494.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Varun Varanasi",
+    "university": "Harvard",
+    "url": "https://vvaranasi.com/",
+    "resolved_url": "https://vvaranasi.com/",
+    "lab": "Pehlevan Group",
+    "source_url": "https://pehlevan.seas.harvard.edu/people/varun-varanasi",
+    "source_chain": [
+      "https://pehlevan.seas.harvard.edu/people/varun-varanasi",
+      "https://vvaranasi.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 154,
+    "why": [
+      "A framed portrait, serif name, and italic research description give the introduction the clarity of a printed profile.",
+      "Thin rules, a restrained red accent, and generous margins keep the compact biography orderly."
+    ],
+    "borrow": "Use fine rules and a single accent to organize a scholarly page without filling it with cards.",
+    "caveat": "",
+    "rank": 55,
+    "screenshot": "screenshots/055-154.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Ziwen Chen",
+    "university": "Stanford",
+    "url": "https://ziwnchen.github.io/",
+    "resolved_url": "https://ziwnchen.github.io/",
+    "lab": "Center for Research on Foundation Models",
+    "source_url": "https://crfm.stanford.edu/people.html",
+    "source_chain": [
+      "https://crfm.stanford.edu/people.html",
+      "https://ziwnchen.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 330,
+    "why": [
+      "The narrow serif name and short reading measure create an intimate editorial identity.",
+      "A warm, softly faded portrait blends into the paper-colored canvas rather than appearing as an unrelated rectangle."
+    ],
+    "borrow": "Coordinate the portrait treatment with the page palette and keep long biographies in a narrow column.",
+    "caveat": "Small navigation and secondary text would benefit from stronger contrast when adapted.",
+    "rank": 56,
+    "screenshot": "screenshots/056-330.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Alexa Tartaglini",
+    "university": "Stanford",
+    "url": "https://www.alexatartaglini.com",
+    "resolved_url": "https://www.alexatartaglini.com/",
+    "lab": "Christopher Potts Research Group",
+    "source_url": "https://stanford.edu/~cgpotts/students.html",
+    "source_chain": [
+      "https://stanford.edu/~cgpotts/students.html",
+      "https://www.alexatartaglini.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 312,
+    "why": [
+      "The research statement is the largest element, giving the page a strong intellectual center before the biography.",
+      "Thin rules divide a compact portrait column from research directions, while restrained gray surfaces and serif body text create a distinctive scholarly layout."
+    ],
+    "borrow": "Lead with the question that motivates your work, then use a simple grid to organize biography and research directions.",
+    "caveat": "",
+    "rank": 57,
+    "screenshot": "screenshots/057-312.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Jingwei (Chris) Zuo",
+    "university": "Rice",
+    "url": "https://jingwei-zuo.com",
+    "resolved_url": "https://jingwei-zuo.com/v3/",
+    "lab": "Yuke Lab",
+    "source_url": "https://rice-course-mlsys.github.io/lab-site/people/",
+    "source_chain": [
+      "https://rice-course-mlsys.github.io/lab-site/people/",
+      "https://jingwei-zuo.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/Dr-Left/dr-left.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "Repository CNAME is jingwei-zuo.com; index.md redirects to /v3/ and lab2.html implements that same current design.",
+    "id": 310,
+    "why": [
+      "A dramatically stacked serif name creates a poster-like composition, with a single red italic line as the focal accent.",
+      "A red seal, fine dotted rings, and a compact information grid form a cohesive personal visual identity."
+    ],
+    "borrow": "Treat your name as a composed typographic graphic, then reserve the surrounding space for a few essential facts.",
+    "caveat": "Some small metadata is very low contrast; use brighter text when adapting this treatment.",
+    "rank": 58,
+    "repo_evidence": [
+      "https://github.com/Dr-Left/dr-left.github.io/blob/master/CNAME",
+      "https://github.com/Dr-Left/dr-left.github.io/blob/master/index.md",
+      "https://github.com/Dr-Left/dr-left.github.io/blob/master/lab2.html"
+    ],
+    "screenshot": "screenshots/058-310.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Abinitha Gourabathina",
+    "university": "MIT",
+    "url": "https://abinithago.github.io/",
+    "resolved_url": "https://abinithago.github.io/",
+    "lab": "Healthy ML",
+    "source_url": "https://healthyml.org/people/",
+    "source_chain": [
+      "https://healthyml.org/people/",
+      "https://abinithago.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": "https://github.com/abinithago/abinithago.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 169,
+    "why": [
+      "Faint topographic lines add identity to the header while the main reading area stays quiet.",
+      "The narrow news panel and wider biography give the introduction a clear information hierarchy."
+    ],
+    "borrow": "Reserve a subtle custom motif for the header and keep detailed research content visually plain.",
+    "caveat": "",
+    "rank": 59,
+    "screenshot": "screenshots/059-169.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Antonis Christou",
+    "university": "MIT",
+    "url": "https://www.antonischristou.com",
+    "resolved_url": "https://antonischristou.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/antchris/overview/",
+      "https://www.antonischristou.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 172,
+    "why": [
+      "Full-screen performance imagery fills the opening and immediately shows the work in a real setting.",
+      "The large white name sits in the darkest lower-left area, with only a thin navigation bar competing for attention."
+    ],
+    "borrow": "Let an authentic image of your work supply the atmosphere, and place minimal text in its naturally quiet area.",
+    "caveat": "The first screen provides little written context; pair this approach with an obvious route to project details.",
+    "rank": 60,
+    "screenshot": "screenshots/060-172.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Juil Koo",
+    "university": "KAIST",
+    "url": "https://63days.github.io/",
+    "resolved_url": "https://63days.github.io/",
+    "lab": "Visual AI Group",
+    "source_url": "https://visualai.kaist.ac.kr/members/",
+    "source_chain": [
+      "https://visualai.kaist.ac.kr/members/",
+      "https://63days.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": "https://github.com/63days/63days.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 161,
+    "why": [
+      "The 3D desk, robotic arm and nameplate make the research subject visible at the top of the page.",
+      "A conventional profile sidebar and straightforward biography keep the playful scene grounded."
+    ],
+    "borrow": "Use a small subject-specific scene above a familiar academic layout.",
+    "caveat": "The scene needs a static alternative and should not delay access to the biography.",
+    "rank": 61,
+    "screenshot": "screenshots/061-161.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Liquan Wang",
+    "university": "Georgia Tech",
+    "url": "https://lichothu.github.io/",
+    "resolved_url": "https://lichothu.github.io/",
+    "lab": "PAIR Lab",
+    "source_url": "https://pairlab.github.io/people/",
+    "source_chain": [
+      "https://pairlab.github.io/people/",
+      "https://lichothu.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": "https://github.com/LiCHOTHU/lichothu.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 126,
+    "why": [
+      "A darkened campus photograph gives the research introduction context while white serif type remains prominent.",
+      "The framed portrait aligns with the name block, and the lighter biography section below creates a clear change of pace."
+    ],
+    "borrow": "Use a dark image banner for a concise introduction, then move detailed reading onto a plain background.",
+    "caveat": "",
+    "rank": 62,
+    "screenshot": "screenshots/062-126.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Matthew Finlayson",
+    "university": "USC",
+    "url": "https://mattf1n.github.io/",
+    "resolved_url": "https://mattf.nl/",
+    "lab": "INK Lab",
+    "source_url": "https://inklab.usc.edu/people.html",
+    "source_chain": [
+      "https://inklab.usc.edu/people.html",
+      "https://mattf1n.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/mattf1n/mattf1n.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 422,
+    "why": [
+      "A wide landscape portrait, narrow text column, and drop-cap opening give the biography a literary character.",
+      "The news list uses separate date and description columns, making updates orderly without heavy UI decoration."
+    ],
+    "borrow": "Use book-like typography for a personal biography and a simple two-column timeline for updates.",
+    "caveat": "",
+    "rank": 63,
+    "screenshot": "screenshots/063-422.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Mengying (Cathy) Fang",
+    "university": "MIT",
+    "url": "https://cathy-fang.com",
+    "resolved_url": "https://cathy-fang.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/catfang/overview/",
+      "https://cathy-fang.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 204,
+    "why": [
+      "A three-column project grid gives each research item a consistent thumbnail, title and short description.",
+      "A narrow profile column and separate press column keep context available while the colorful work occupies the center."
+    ],
+    "borrow": "Use consistent thumbnail proportions and short descriptions to turn a long project list into a scannable visual index.",
+    "caveat": "The dense desktop layout would need careful simplification on smaller screens.",
+    "rank": 64,
+    "screenshot": "screenshots/064-204.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Runmao Yao",
+    "university": "NTU Singapore",
+    "url": "https://21yrm.github.io/",
+    "resolved_url": "https://21yrm.github.io/",
+    "lab": "MMLab NTU",
+    "source_url": "https://www.mmlab-ntu.com/team.html",
+    "source_chain": [
+      "https://www.mmlab-ntu.com/team.html",
+      "https://21yrm.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/21yrm/21yrm.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 230,
+    "why": [
+      "Lime highlights connect the research terms, navigation state, contact button, and dotted portrait surround.",
+      "A large sans-serif name and open spacing make the dark page feel clear despite the decorative orbital graphic."
+    ],
+    "borrow": "Reserve a bright accent for key research terms and one primary action, then echo it lightly in a research-related graphic.",
+    "caveat": "",
+    "rank": 65,
+    "screenshot": "screenshots/065-230.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Ticha Sethapakdi",
+    "university": "MIT",
+    "url": "http://www.tichamelody.com/",
+    "resolved_url": "http://www.tichamelody.com/",
+    "lab": "HCI Engineering",
+    "source_url": "https://hcie.csail.mit.edu/people.html",
+    "source_chain": [
+      "https://hcie.csail.mit.edu/people.html",
+      "http://www.tichamelody.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 217,
+    "why": [
+      "A large monochrome portrait introduces the author's artistic practice before the research list.",
+      "Thin separators and generous white space let colorful publication images become the next focal points."
+    ],
+    "borrow": "Use a distinctive portrait and let the actual work provide most of the remaining color.",
+    "caveat": "",
+    "rank": 66,
+    "screenshot": "screenshots/066-217.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Vivek Ramanujan",
+    "university": "University of Washington",
+    "url": "https://vkramanuj.github.io/",
+    "resolved_url": "https://vkramanuj.github.io/",
+    "lab": "Graphics & Imaging Lab (GRAIL)",
+    "source_url": "https://grail.cs.washington.edu/",
+    "source_chain": [
+      "https://grail.cs.washington.edu/",
+      "https://vkramanuj.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/vkramanuj/vkramanuj.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 487,
+    "why": [
+      "Condensed uppercase typography, a monochrome portrait, and a heavy rule produce a clear graphic identity.",
+      "The publication list uses consistent indents and small orange venue accents instead of relying on many containers."
+    ],
+    "borrow": "Create hierarchy with type weight, spacing, and one strong divider before adding cards or background effects.",
+    "caveat": "",
+    "rank": 67,
+    "screenshot": "screenshots/067-487.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Xinyi Gao",
+    "university": "UC Santa Barbara",
+    "url": "https://www.gyikoo.me/",
+    "resolved_url": "https://gyikoo.me/",
+    "lab": "UCSB AI Group",
+    "source_url": "https://nlp.cs.ucsb.edu/people.html",
+    "source_chain": [
+      "https://nlp.cs.ucsb.edu/people.html",
+      "https://www.gyikoo.me/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 388,
+    "why": [
+      "The bold serif name and restrained green accents create a clear, formal identity on a spacious white canvas.",
+      "A tightly aligned research statement, small metric row and two rectangular action buttons balance the portrait without extra visual clutter."
+    ],
+    "borrow": "Build hierarchy with type size and alignment first, then use one accent color for the key actions and research terms.",
+    "caveat": "Publication counts are optional; do not add statistics unless they help your visitor.",
+    "rank": 68,
+    "screenshot": "screenshots/068-388.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Zayne Sprague",
+    "university": "NYU",
+    "url": "https://zaynesprague.com/",
+    "resolved_url": "https://zaynesprague.com/",
+    "lab": "UT NLP",
+    "source_url": "https://www.nlp.utexas.edu/",
+    "source_chain": [
+      "https://www.nlp.utexas.edu/",
+      "https://zaynesprague.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 246,
+    "why": [
+      "Large, stacked serif lettering gives the name a clear silhouette across a spacious warm background.",
+      "Gold type, a thin portrait frame, and restrained controls maintain a consistent paper-like palette."
+    ],
+    "borrow": "Let a strong name treatment and a modest portrait carry the introduction, with plenty of space around both.",
+    "caveat": "Several pale controls have weak contrast; retain the composition while making actions easier to read.",
+    "rank": 69,
+    "screenshot": "screenshots/069-246.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Giovanni Monea",
+    "university": "Cornell",
+    "url": "https://giovannimonea.com/",
+    "resolved_url": "https://giovannimonea.com/",
+    "lab": "Cornell NLP",
+    "source_url": "https://nlp.cornell.edu/people/",
+    "source_chain": [
+      "https://nlp.cornell.edu/people/",
+      "https://giovannimonea.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 99,
+    "why": [
+      "Two dark columns give biography and publications equal visibility without mixing their content.",
+      "A rough-edged portrait cutout softens the otherwise strict typography and horizontal rules."
+    ],
+    "borrow": "Separate personal context from research output in parallel columns, and add one informal image treatment for personality.",
+    "caveat": "",
+    "rank": 70,
+    "screenshot": "screenshots/070-99.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Bob Tianqi Wei",
+    "university": "MIT",
+    "url": "https://bobtianqiwei.com",
+    "resolved_url": "https://bobtianqiwei.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/bobwei/overview/",
+      "https://bobtianqiwei.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 175,
+    "why": [
+      "Full-screen product photography makes material, scale, and texture the first impression.",
+      "Small navigation and an unobtrusive signature leave the central object almost uninterrupted."
+    ],
+    "borrow": "If your work creates physical artifacts, lead with an excellent photograph instead of a long biography.",
+    "caveat": "The opening image gives little research context; visitors need to continue into the work.",
+    "rank": 71,
+    "screenshot": "screenshots/071-175.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Matthew Retchin",
+    "university": "Harvard",
+    "url": "https://www.mhr.ai",
+    "resolved_url": "https://www.mhr.ai/",
+    "lab": "Metareflection Lab",
+    "source_url": "https://metareflection.seas.harvard.edu/people",
+    "source_chain": [
+      "https://metareflection.seas.harvard.edu/people",
+      "https://www.mhr.ai"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 143,
+    "why": [
+      "Large serif text makes both the introduction and research explanation feel deliberate and easy to notice.",
+      "Offset section labels and broad vertical gaps create rhythm without enclosing every section in a box."
+    ],
+    "borrow": "Use a narrow label column beside your main text to organize a compact academic site with very little decoration.",
+    "caveat": "",
+    "rank": 72,
+    "screenshot": "screenshots/072-143.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Antoine Lafrance",
+    "university": "Polytechnique Montreal",
+    "url": "https://antoine-lafrance.github.io/",
+    "resolved_url": "https://antoine-lafrance.github.io/",
+    "lab": "Sarath Chandar Research Group",
+    "source_url": "https://chandar-lab.github.io/people/",
+    "source_chain": [
+      "https://chandar-lab.github.io/people/",
+      "https://antoine-lafrance.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": "https://github.com/Antoine-Lafrance/Antoine-Lafrance.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 297,
+    "why": [
+      "The familiar Windows XP desktop is used consistently across the background, profile window, research windows and taskbar.",
+      "Separate window frames make the biography and current projects feel like parts of one recognizable interface."
+    ],
+    "borrow": "Use a familiar interface metaphor consistently, but keep the important content visible without extra navigation.",
+    "caveat": "Overlapping windows and small controls can make mobile browsing difficult; simplify the metaphor on narrow screens.",
+    "rank": 73,
+    "screenshot": "screenshots/073-297.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Clicked the public Antoine welcome button to enter the simulated desktop; no credentials or account required."
+  },
+  {
+    "name": "Siyi Gu",
+    "university": "Yale",
+    "url": "https://carriegu0818.github.io/",
+    "resolved_url": "https://carriegu0818.github.io/",
+    "lab": "Yale NLP Lab",
+    "source_url": "https://nlp.cs.yale.edu/team/",
+    "source_chain": [
+      "https://nlp.cs.yale.edu/team/",
+      "https://carriegu0818.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/carriegu0818/carriegu0818.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 517,
+    "why": [
+      "An asymmetric arched portrait frame gives the spacious biography a distinct silhouette.",
+      "Soft blue and lilac gradients stay in the background while a saturated blue button leads the actions."
+    ],
+    "borrow": "Make one image shape memorable and keep the rest of the layout calm.",
+    "caveat": "",
+    "rank": 74,
+    "screenshot": "screenshots/074-517.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Usha Bhalla",
+    "university": "Harvard",
+    "url": "https://ushabhalla.github.io/",
+    "resolved_url": "https://ushabhalla.github.io/",
+    "lab": "Visual Computing Group",
+    "source_url": "https://vcg.seas.harvard.edu/people",
+    "source_chain": [
+      "https://vcg.seas.harvard.edu/people",
+      "https://ushabhalla.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": "https://github.com/ushabhalla/ushabhalla.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 153,
+    "why": [
+      "Hand-drawn lettering, an illustrated portrait and botanical shapes establish a highly personal identity.",
+      "The plain research text contrasts effectively with the large organic artwork."
+    ],
+    "borrow": "Combine one custom illustration style with an otherwise straightforward academic page.",
+    "caveat": "At this desktop capture the large plant competes with the research column; keep artwork clear of text.",
+    "rank": 75,
+    "screenshot": "screenshots/075-153.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Yuzhe You",
+    "university": "Waterloo",
+    "url": "https://www.yuzheyou.com/",
+    "resolved_url": "https://www.yuzheyou.com/",
+    "lab": "HCI Lab",
+    "source_url": "https://hci.cs.uwaterloo.ca/people/",
+    "source_chain": [
+      "https://hci.cs.uwaterloo.ca/people/",
+      "https://www.yuzheyou.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 513,
+    "why": [
+      "A miniature landscape supplies a memorable focal image above an otherwise compact academic profile.",
+      "Dark gray surfaces, white text and restrained colored links give the many details a consistent setting."
+    ],
+    "borrow": "Use a personal scene or illustration as the signature element, then keep the research sections orderly.",
+    "caveat": "",
+    "rank": 76,
+    "screenshot": "screenshots/076-513.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Daniel Wenzel",
+    "university": "MIT",
+    "url": "https://wenzeldaniel.com/",
+    "resolved_url": "https://wenzeldaniel.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/wnzldnl/overview/",
+      "https://wenzeldaniel.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 180,
+    "why": [
+      "Three tightly controlled columns turn a large body of work into a typographic index.",
+      "Small images and contrasting project-name treatments appear inline with text, so the portfolio demonstrates its typographic interests directly."
+    ],
+    "borrow": "Let the form of your portfolio express your discipline, while keeping its underlying column structure simple.",
+    "caveat": "The deliberately dense index requires more effort to scan than a conventional project gallery.",
+    "rank": 77,
+    "screenshot": "screenshots/077-180.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Hao-Pu Shang",
+    "university": "Nanjing University",
+    "url": "http://www.lamda.nju.edu.cn/shanghp/",
+    "resolved_url": "http://www.lamda.nju.edu.cn/shanghp/",
+    "lab": "LAMDA",
+    "source_url": "https://www.lamda.nju.edu.cn/PhD_students.ashx",
+    "source_chain": [
+      "https://www.lamda.nju.edu.cn/PhD_students.ashx",
+      "http://www.lamda.nju.edu.cn/shanghp/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 252,
+    "why": [
+      "The generous serif name and short research statement provide a clear focal point beside the portrait.",
+      "A quiet off-white surface and repeated fine rules connect the introduction to three concise research areas."
+    ],
+    "borrow": "Turn research interests into a small number of clearly separated summaries beneath the hero.",
+    "caveat": "",
+    "rank": 78,
+    "screenshot": "screenshots/078-252.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Ilona Demler",
+    "university": "Caltech",
+    "url": "https://ilonademler.com/",
+    "resolved_url": "https://ilonademler.com/",
+    "lab": "Perona",
+    "source_url": "https://www.vision.caltech.edu/team/",
+    "source_chain": [
+      "https://www.vision.caltech.edu/team/",
+      "https://ilonademler.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 12,
+    "why": [
+      "A compact introduction balances a large circular portrait, with a slim navigation rail leaving most of the width for content.",
+      "Olive text and pale green link pills unify the illustrated publication cards below."
+    ],
+    "borrow": "Give publications a consistent image-and-title card format while keeping the personal introduction brief.",
+    "caveat": "",
+    "rank": 79,
+    "screenshot": "screenshots/079-12.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Lauren Hyoseo Yoon",
+    "university": "Caltech",
+    "url": "https://lauren-h-yoon.github.io/",
+    "resolved_url": "https://lauren-h-yoon.github.io/",
+    "lab": "Yue",
+    "source_url": "https://www.yisongyue.com/group",
+    "source_chain": [
+      "https://www.yisongyue.com/group",
+      "https://lauren-h-yoon.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": "https://github.com/lauren-h-yoon/lauren-h-yoon.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages host matches repository; verified public GitHub API metadata",
+    "id": 14,
+    "why": [
+      "A full-body portrait and compact biography share a carefully aligned, narrow central column.",
+      "Very light rules and date columns give the updates a quiet rhythm with little visual clutter."
+    ],
+    "borrow": "For a restrained academic site, invest in spacing, portrait proportion, and consistent timeline alignment.",
+    "caveat": "The desktop text is quite small; increase body size while preserving the narrow reading measure.",
+    "rank": 80,
+    "screenshot": "screenshots/080-14.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Mateo Guaman Castro",
+    "university": "University of Washington",
+    "url": "https://www.mateoguaman.com",
+    "resolved_url": "https://www.mateoguaman.com/",
+    "lab": "Robot Learning Lab",
+    "source_url": "https://robotlearning.cs.washington.edu/people/",
+    "source_chain": [
+      "https://robotlearning.cs.washington.edu/people/",
+      "https://www.mateoguaman.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 473,
+    "why": [
+      "Oversized sans-serif headings and exposed grid rules create a confident architectural layout.",
+      "Separate biography, background, research and contact columns make the information structure visible."
+    ],
+    "borrow": "Let typography and a deliberate grid do the visual work instead of colors or effects.",
+    "caveat": "The narrow body columns feel dense; allow more width when adapting them.",
+    "rank": 81,
+    "screenshot": "screenshots/081-473.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Matthew Hull",
+    "university": "Georgia Tech",
+    "url": "https://matthewdhull.github.io",
+    "resolved_url": "https://matthewdhull.github.io/",
+    "lab": "Polo Club",
+    "source_url": "https://poloclub.github.io/",
+    "source_chain": [
+      "https://poloclub.github.io/",
+      "https://matthewdhull.github.io"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": "https://github.com/matthewdhull/matthewdhull.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 129,
+    "why": [
+      "Gold headings and cyan navigation remain distinct against the deep blue background.",
+      "A colored dot field adds a recognizable visual identity while a translucent news panel protects the text."
+    ],
+    "borrow": "Use a decorative background with solid or translucent reading surfaces where the content becomes dense.",
+    "caveat": "Keep background detail away from small text.",
+    "rank": 82,
+    "screenshot": "screenshots/082-129.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Matthew Leung",
+    "university": "Harvard",
+    "url": "https://mchleung.com",
+    "resolved_url": "https://mchleung.com/",
+    "lab": "Charbonneau Astronomy Group",
+    "source_url": "https://sites.harvard.edu/charbonneau/directory/matthew-leung/?cp-dir-id=972",
+    "source_chain": [
+      "https://sites.harvard.edu/charbonneau/directory/matthew-leung/?cp-dir-id=972",
+      "https://mchleung.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 142,
+    "why": [
+      "A full-screen Milky Way photograph directly connects the visual identity to astrophysics.",
+      "The centered name, short affiliation, and single light button stay legible within the darkest part of the image."
+    ],
+    "borrow": "Choose subject-specific photography and keep the text overlay short enough for the image to retain its impact.",
+    "caveat": "",
+    "rank": 83,
+    "screenshot": "screenshots/083-142.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Max Du",
+    "university": "Stanford",
+    "url": "https://maximiliandu.com/",
+    "resolved_url": "https://maximiliandu.com/",
+    "lab": "Robotics and Embodied Artificial Intelligence Lab",
+    "source_url": "https://real.stanford.edu/lab.html",
+    "source_chain": [
+      "https://real.stanford.edu/lab.html",
+      "https://maximiliandu.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 325,
+    "why": [
+      "A layered Polaroid-style photograph adds personal context to the research introduction.",
+      "The pale lavender canvas and muted teal links connect the portrait treatment with the rest of the page."
+    ],
+    "borrow": "Give one ordinary element, such as the portrait, a distinctive treatment and keep the remaining layout simple.",
+    "caveat": "",
+    "rank": 84,
+    "screenshot": "screenshots/084-325.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Nishant Sharma",
+    "university": "Polytechnique Montreal",
+    "url": "https://sevendaystoglory.github.io/",
+    "resolved_url": "https://sevendaystoglory.github.io/",
+    "lab": "Sarath Chandar Research Group",
+    "source_url": "https://chandar-lab.github.io/people/",
+    "source_chain": [
+      "https://chandar-lab.github.io/people/",
+      "https://sevendaystoglory.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/sevendaystoglory/sevendaystoglory.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 298,
+    "why": [
+      "A contour-like research graphic adds visual interest that relates to optimization rather than generic decoration.",
+      "A slim portrait sidebar and serif publication headings make the dense research information easy to locate."
+    ],
+    "borrow": "Use a figure from your research as a secondary visual, alongside an uncomplicated navigation rail.",
+    "caveat": "Background symbols and fine details can distract from reading; keep them subtle and optional.",
+    "rank": 85,
+    "screenshot": "screenshots/085-298.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Qinglin Yang",
+    "university": "Zhejiang University",
+    "url": "https://seasidegargantua.xyz/",
+    "resolved_url": "https://seasidegargantua.xyz/",
+    "lab": "Xiaowei Zhou research group",
+    "source_url": "https://xzhou.me/group",
+    "source_chain": [
+      "https://xzhou.me/group",
+      "https://seasidegargantua.xyz/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 519,
+    "why": [
+      "Typewriter-style headings, a subtle grid background, and rust-colored controls establish a coherent research-notebook character.",
+      "The main identity panel balances a short research statement with a black-hole illustration and a compact project callout."
+    ],
+    "borrow": "Choose a visual language that reflects how you think about your research, then repeat it in headings and small controls.",
+    "caveat": "",
+    "rank": 86,
+    "screenshot": "screenshots/086-519.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Runjia Li",
+    "university": "Oxford",
+    "url": "https://runjiali-rl.github.io/",
+    "resolved_url": "https://runjiali-rl.github.io/",
+    "lab": "Torr Vision Group",
+    "source_url": "https://torrvision.com/people",
+    "source_chain": [
+      "https://torrvision.com/people",
+      "https://runjiali-rl.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 284,
+    "why": [
+      "The sand-colored introduction, compact portrait and plain black headings establish a warm but restrained profile.",
+      "Experience is presented in a short horizontal band, followed by publication rows with useful images and concise descriptions."
+    ],
+    "borrow": "Keep the hero compact so visitors can see professional context and a representative project on the first screen.",
+    "caveat": "",
+    "rank": 87,
+    "screenshot": "screenshots/087-284.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Sarah Pratt",
+    "university": "University of Washington",
+    "url": "https://sarahpratt.github.io/",
+    "resolved_url": "https://sarahpratt.github.io/",
+    "lab": "RAIVN Lab",
+    "source_url": "https://raivn.cs.washington.edu/people/",
+    "source_chain": [
+      "https://raivn.cs.washington.edu/people/",
+      "https://sarahpratt.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Experimental",
+    "website_repo": "https://github.com/sarahpratt/sarahpratt.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 481,
+    "why": [
+      "The image-selection game uses hand-framed photographs, pixel art and a focused yellow accent as one playful system.",
+      "The site navigation remains clear above the activity, so the research site still has an obvious structure."
+    ],
+    "borrow": "A short demonstration can introduce your research more memorably than a generic welcome paragraph.",
+    "caveat": "Keep an obvious skip route for visitors who want the biography or publications immediately.",
+    "rank": 88,
+    "screenshot": "screenshots/088-481.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Summer Eunhyung Ann",
+    "university": "UChicago",
+    "url": "https://summer-ann.com/",
+    "resolved_url": "https://summer-ann.com/",
+    "lab": "UChicago NLP",
+    "source_url": "https://chicagohai.github.io/people/",
+    "source_chain": [
+      "https://chicagohai.github.io/people/",
+      "https://summer-ann.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 401,
+    "why": [
+      "The huge two-line name creates a memorable focal point with very little ornament.",
+      "A single blue heart and the small latest-paper row soften the otherwise strict typographic layout."
+    ],
+    "borrow": "Use a bold nameplate, one personal mark and one current piece of work.",
+    "caveat": "The pale supporting copy is harder to read than the strong headline.",
+    "rank": 89,
+    "screenshot": "screenshots/089-401.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Ying Wang",
+    "university": "NYU",
+    "url": "https://yingwangg.github.io/",
+    "resolved_url": "https://yingwangg.github.io/",
+    "lab": "CILVR",
+    "source_url": "https://wp.nyu.edu/cilvr/cilvr-people/",
+    "source_chain": [
+      "https://wp.nyu.edu/cilvr/cilvr-people/",
+      "https://yingwangg.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/YingWANGG/YingWANGG.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 245,
+    "why": [
+      "Handwritten name and section headings contrast with calm, readable serif body text.",
+      "A fine paper grid and neatly aligned dates make the page feel like a personal research notebook."
+    ],
+    "borrow": "Use expressive typography only for short headings and keep dates in a consistent column.",
+    "caveat": "",
+    "rank": 90,
+    "screenshot": "screenshots/090-245.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Lingdong Huang",
+    "university": "MIT",
+    "url": "https://lingdong.works",
+    "resolved_url": "https://lingdong.works/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/lingdong/overview/",
+      "https://lingdong.works"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Image-led",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 199,
+    "why": [
+      "A regular thumbnail grid lets very different creative-coding projects coexist without visual disorder.",
+      "Titles, short descriptions, dates, and project links repeat in the same places, while a timeline offers another visible organizing layer."
+    ],
+    "borrow": "Build a project archive around consistent thumbnail proportions and compact metadata rather than long introductory text.",
+    "caveat": "This is a strong archive pattern; a visitor seeking a conventional academic biography needs another page.",
+    "rank": 91,
+    "screenshot": "screenshots/091-199.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Yufeng Zhao",
+    "university": "MIT",
+    "url": "https://www.yufengzhao.com/",
+    "resolved_url": "https://www.yufengzhao.com/",
+    "lab": "MIT Media Lab",
+    "source_url": "https://www.media.mit.edu/people/?filter=student",
+    "source_chain": [
+      "https://www.media.mit.edu/people/?filter=student",
+      "https://www.media.mit.edu/people/yufengz/overview/",
+      "https://www.yufengzhao.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Dark",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 223,
+    "why": [
+      "A persistent-looking identity column and repeated project rows give an eclectic media portfolio a clear structure.",
+      "Large thumbnail crops, concise summaries, and restrained yellow highlights keep the dark page visually energetic but readable."
+    ],
+    "borrow": "For diverse projects, keep each row structurally identical and let the imagery provide the variation.",
+    "caveat": "",
+    "rank": 92,
+    "screenshot": "screenshots/092-223.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Anka Reuel",
+    "university": "Stanford",
+    "url": "http://ankareuel.com/",
+    "resolved_url": "http://ankareuel.com/",
+    "lab": "Stanford Trustworthy AI Research",
+    "source_url": "https://stairlab.stanford.edu/members/anka_reuel.html",
+    "source_chain": [
+      "https://stairlab.stanford.edu/members/anka_reuel.html",
+      "http://ankareuel.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 315,
+    "why": [
+      "A circular speaking portrait and oversized name create one concentrated focal point on a largely white screen.",
+      "The mint portrait halo supplies a restrained color signature while contact navigation stays unobtrusive."
+    ],
+    "borrow": "Start with a strong portrait-and-name composition, then remove everything that weakens that first impression.",
+    "caveat": "The opening reveals little research detail, so it needs a clear route into the substantive content.",
+    "rank": 93,
+    "screenshot": "screenshots/093-315.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Sophie Wang",
+    "university": "MIT",
+    "url": "https://www.sophielwang.com/",
+    "resolved_url": "https://www.sophielwang.com/",
+    "lab": "Phillip Isola Research Group",
+    "source_url": "https://web.mit.edu/phillipi/",
+    "source_chain": [
+      "https://web.mit.edu/phillipi/",
+      "https://www.sophielwang.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 214,
+    "why": [
+      "An illustrated vintage computer and a script nameplate create a friendly, recognizable personal identity.",
+      "A small gold decorative divider and matching links connect the illustration to the otherwise simple biography and updates."
+    ],
+    "borrow": "Choose one illustration that reflects your interests and repeat its palette sparingly in links and dividers.",
+    "caveat": "The delicate gold links and small body text should be darkened or enlarged when borrowing this style.",
+    "rank": 94,
+    "screenshot": "screenshots/094-214.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Zhirui (Raymond) Xia",
+    "university": "UC San Diego",
+    "url": "https://raymondxzr.github.io/",
+    "resolved_url": "https://raymondxzr.github.io/",
+    "lab": "Rose Yu Group",
+    "source_url": "https://roseyu.com/",
+    "source_chain": [
+      "https://roseyu.com/",
+      "https://raymondxzr.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": "https://github.com/Raymondxzr/Raymondxzr.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 384,
+    "why": [
+      "The oversized serif name and softly framed portrait give the main panel a clear visual center.",
+      "Warm neutral surfaces, broad spacing and restrained reddish buttons make the navigation, biography and research tags feel related."
+    ],
+    "borrow": "Give your main profile panel a strong type scale, then keep secondary controls quiet and consistent.",
+    "caveat": "Several pill-shaped controls compete for attention; simplify them when adapting this pattern.",
+    "rank": 95,
+    "screenshot": "screenshots/095-384.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Advait Bhat",
+    "university": "University of Washington",
+    "url": "https://advaitmb.com/",
+    "resolved_url": "https://advaitmb.com/",
+    "lab": "Behavioral Data Science Group",
+    "source_url": "https://behavioral-data.github.io/",
+    "source_chain": [
+      "https://behavioral-data.github.io/",
+      "https://behavioral-data.github.io/people/advaitbhat/",
+      "https://advaitmb.com/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Minimal academic",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 456,
+    "why": [
+      "A narrow white reading column sits inside pale pink margins with delicate guide-like rules.",
+      "Serif body text and lightly patterned project panels create a notebook-like identity without heavy images."
+    ],
+    "borrow": "Use a restrained page grid and subtle texture to make a text-first site feel intentional.",
+    "caveat": "The fine rules and pale text treatments should be strengthened if they become hard to read.",
+    "rank": 96,
+    "screenshot": "screenshots/096-456.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Dylan Zhang",
+    "university": "UIUC",
+    "url": "https://dylanzsz.github.io/",
+    "resolved_url": "https://dylanzsz.github.io/",
+    "lab": "Alta Lab",
+    "source_url": "https://haopeng-nlp.github.io/group/",
+    "source_chain": [
+      "https://haopeng-nlp.github.io/group/",
+      "https://dylanzsz.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/DylanZSZ/dylanzsz.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 406,
+    "why": [
+      "A large serif research statement gives the page a clear opening, with an initials tile balancing the opposite column.",
+      "Purple links and controls connect a pale lavender hero to the darker research section underneath."
+    ],
+    "borrow": "Use a clear light-to-dark section transition to separate your short research promise from its detailed explanation.",
+    "caveat": "The gradient and initials tile are familiar patterns; add project-specific imagery for a more individual result.",
+    "rank": 97,
+    "screenshot": "screenshots/097-406.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Feiyang Wu",
+    "university": "Georgia Tech",
+    "url": "https://feiyangwu.com",
+    "resolved_url": "https://feiyangwu.com/",
+    "lab": "IDAR",
+    "source_url": "https://lab-idar.gatech.edu/members/",
+    "source_chain": [
+      "https://lab-idar.gatech.edu/members/",
+      "https://feiyangwu.com"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Editorial",
+    "website_repo": null,
+    "repo_license": null,
+    "repo_verification": null,
+    "id": 123,
+    "why": [
+      "A narrow news rail separates updates from the research introduction without adding heavy cards.",
+      "Wide publication thumbnails and serif identity typography give the page a journal-like balance of reading and browsing."
+    ],
+    "borrow": "Keep dated news in a secondary column and use the full width below for visual research highlights.",
+    "caveat": "",
+    "rank": 98,
+    "screenshot": "screenshots/098-123.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Jenny Ma",
+    "university": "Columbia",
+    "url": "https://jennygzma.github.io/",
+    "resolved_url": "https://jennygzma.github.io/",
+    "lab": "DAPLab",
+    "source_url": "https://daplab.cs.columbia.edu/people",
+    "source_chain": [
+      "https://daplab.cs.columbia.edu/people",
+      "https://jennygzma.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/jennygzma/jennygzma.github.io",
+    "repo_license": null,
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 82,
+    "why": [
+      "Cream paper, mint monospaced headings, and a candid travel photograph create a cohesive personal-notebook feel.",
+      "Small illustrated research markers and consistently outlined resource links add character to the publication list."
+    ],
+    "borrow": "Let a few recurring illustrations and one accent color personalize a conventional research list.",
+    "caveat": "Monospaced body copy is slower to read in long paragraphs; keep the biography concise.",
+    "rank": 99,
+    "screenshot": "screenshots/099-82.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  },
+  {
+    "name": "Junyu Guo",
+    "university": "UC Berkeley",
+    "url": "https://jamesjunyuguo.github.io/",
+    "resolved_url": "https://jamesjunyuguo.github.io/",
+    "lab": "SAIL",
+    "source_url": "https://sail-research-lab.github.io/group.html",
+    "source_chain": [
+      "https://sail-research-lab.github.io/group.html",
+      "https://jamesjunyuguo.github.io/"
+    ],
+    "checked_on": "2026-10-29",
+    "style": "Colorful",
+    "website_repo": "https://github.com/JamesJunyuGuo/JamesJunyuGuo.github.io",
+    "repo_license": "MIT",
+    "repo_verification": "GitHub Pages owner/repository identity with public repository API verification",
+    "id": 360,
+    "why": [
+      "The cream hero card and warm orange accents soften a concise research introduction without obscuring it.",
+      "Large name typography, a clean portrait and a prominent research button make the intended reading order obvious."
+    ],
+    "borrow": "Use a warm palette with one clearly dominant action and leave enough room around the portrait and introduction.",
+    "caveat": "",
+    "rank": 100,
+    "screenshot": "screenshots/100-360.jpg",
+    "screenshot_date": "2026-10-29",
+    "screenshot_viewport": "1440 × 1000",
+    "live_http_status": 200,
+    "capture_note": "Desktop entrance, with motion frozen at capture time."
+  }
+]

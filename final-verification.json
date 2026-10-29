@@ -1,0 +1,41 @@
+{
+  "checked_on": "2026-10-29",
+  "unique_personal_websites": 2281,
+  "institutions": 72,
+  "design_picks": 521,
+  "unique_website_source_repositories": 1309,
+  "expanded_2000_target_met": true,
+  "earlier_100_per_named_university_target_met": false,
+  "remaining_coverage_gap": "Caltech:60 accepted current graduate websites",
+  "screenshot_previews_present": 2281,
+  "rendered_desktop_review": "Every included personal site reviewed; shortlist notes describe observed visual details.",
+  "source_last_hop_exact_href_or_public_roster_field_matches": 2279,
+  "documented_malformed_source_href_repairs": [
+    {
+      "name": "Ilona Demler",
+      "url": "https://ilonademler.com/",
+      "source_url": "https://www.vision.caltech.edu/team/",
+      "source_href": "http://https//ilonademler.com/",
+      "resolution": "Removed a duplicate malformed scheme from the observed lab hyperlink; personal destination rendered and reviewed."
+    },
+    {
+      "name": "Tristan Thrush",
+      "url": "http://www.tristanthrush.com/",
+      "source_url": "https://crfm.stanford.edu/people.html",
+      "source_href": "https://http://www.tristanthrush.com/",
+      "resolution": "Removed a duplicate malformed scheme from the observed lab hyperlink; personal destination rendered and reviewed."
+    }
+  ],
+  "duplicate_aliases_removed": 8,
+  "catalog_checks": [
+    "Counts and URL uniqueness",
+    "All preview files present and decodable",
+    "Source chains populated",
+    "Desktop and390px mobile rendering",
+    "Visible preview image loading",
+    "Search, filters, paging, saved examples and list view",
+    "No browser JavaScript errors",
+    "ZIP archive CRC and entry-count checks"
+  ],
+  "status_audit": "Reviewed current roster and rendered biography evidence; excluded completed-degree, former-student and ambiguous cases. Public pages are the evidence, not independently certified enrollment."
+}
