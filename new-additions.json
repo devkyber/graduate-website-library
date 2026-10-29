@@ -4829,8 +4829,8 @@
     "design_note": "Fine rules, monospaced identity details, and a two-column grid organize biography, writing, and recent activity with a distinctive print-like rhythm.",
     "style": "Editorial",
     "github_profile": null,
-    "website_repo": null,
-    "repo_verification": null,
+    "website_repo": "https://github.com/dcao/website",
+    "repo_verification": "Verified current Lume website source: README describes the personal website; index.vto matches David Minh-Duy Cao's current Berkeley biography, unusual grid, photo credit, blog and recent-work sections, live Berkeley clock, and Last.fm component. It also references the cao.sh custom domain.",
     "notes": "",
     "repo_license": null,
     "template_repo": null,
@@ -4839,7 +4839,12 @@
     "origin": "top5-expansion",
     "review_batch": "2026-10-29-focused-expansion",
     "id": 2445,
-    "is_new": true
+    "is_new": true,
+    "repo_evidence_urls": [
+      "https://github.com/dcao/website/blob/master/README.md",
+      "https://github.com/dcao/website/blob/master/index.vto",
+      "https://cao.sh/"
+    ]
   },
   {
     "name": "Karim Benharrak",

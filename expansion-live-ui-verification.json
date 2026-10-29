@@ -1,0 +1,21 @@
+{
+  "url": "https://devkyber.github.io/graduate-website-library/",
+  "total": 2459,
+  "new_additions": 178,
+  "anonymous_http_checks": {
+    "/": 200,
+    "counts.json": 200,
+    "source-register.json": 200,
+    "all-links.txt": 200,
+    "website-urls-only.txt": 200,
+    "top-100/top-100-graduate-websites.html": 200,
+    "new-additions-links.txt": 200
+  },
+  "live_browser_checks": [
+    "Main gallery shows latest count and loaded screenshots",
+    "Stanford deep link displays 171 profiles",
+    "New-additions view displays 178 profiles",
+    "Ranked top-100 link opens",
+    "No JavaScript errors"
+  ]
+}

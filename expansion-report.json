@@ -54,10 +54,10 @@
     }
   },
   "new_design_picks": 65,
-  "new_website_repositories": 100,
+  "new_website_repositories": 101,
   "scope": "Targeted lab-source expansion focused on Stanford, MIT, Harvard, UC Berkeley, and Caltech. These are the five institutions originally requested, not a claim about a universal ranking.",
   "caltech_review": "Reviewed lab and institute rosters plus linked directory profiles; no additional qualifying current graduate personal websites survived the provenance and quality checks. Caltech remains at 60.",
-  "review_limits": "New additions received a fresh desktop visual review and current graduate-status check. Existing collection entries were retained with their prior evidence except the explicitly updated profiles. Top-100 ranking is unchanged; it predates this expansion.",
+  "review_limits": "New additions received a fresh desktop visual review and current graduate-status check. Existing collection entries retain their prior provenance evidence except the explicitly updated profiles. The top-100 ranking was reranked across all 2,459 records on 2026-10-29, including the new additions, with fresh desktop screenshots and design observations for ranked websites. This visual reranking is not a new enrollment or full external-link audit of every collection entry.",
   "final_review_exclusions": [
     {
       "name": "Parth Sarthi",

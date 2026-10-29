@@ -1,17 +1,20 @@
 {
   "sites": 100,
-  "institutions": 37,
-  "website_repositories": 51,
+  "institutions": 33,
+  "website_repositories": 53,
   "styles": {
-    "Colorful": 14,
-    "Editorial": 37,
+    "Editorial": 41,
+    "Colorful": 17,
     "Image-led": 16,
-    "Experimental": 11,
-    "Minimal academic": 8,
-    "Dark": 14
+    "Experimental": 14,
+    "Dark": 9,
+    "Minimal academic": 3
   },
   "fresh_screenshots": 100,
   "date": "2026-10-29",
-  "screened": 2281,
-  "finalists": 152
+  "screened": 2459,
+  "finalists": 177,
+  "nominations": 163,
+  "new_to_top100": 30,
+  "from_new_additions": 17
 }

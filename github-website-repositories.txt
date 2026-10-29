@@ -54,6 +54,10 @@ Angchen Xie — Carnegie Mellon
 Website: https://angchenxie.github.io/
 Source: https://github.com/AngchenXie/angchenxie.github.io
 
+Angélica M. Bonilla Fominaya — Carnegie Mellon
+Website: https://abfominaya.com/
+Source: https://github.com/monacuca/abfominaya.github.io
+
 Anjana Ramachandran — Carnegie Mellon
 Website: https://anjana2123.github.io/
 Source: https://github.com/anjana2123/anjana2123.github.io
@@ -338,6 +342,10 @@ Nathan Wu — Harvard
 Website: https://nathanhwu.github.io/
 Source: https://github.com/nathanhwu/nathanhwu.github.io
 
+Sonia Murthy — Harvard
+Website: https://www.soniamurthy.com/
+Source: https://github.com/skmur/skmur.github.io
+
 Usha Bhalla — Harvard
 Website: https://ushabhalla.github.io/
 Source: https://github.com/ushabhalla/ushabhalla.github.io
@@ -402,6 +410,10 @@ Benjamin Cohen-Wang — MIT
 Website: https://bencw99.github.io
 Source: https://github.com/bencw99/bencw99.github.io
 
+Bob Tianqi Wei — MIT
+Website: https://bobtianqiwei.com
+Source: https://github.com/bobtianqiwei/bobtianqiwei.github.io
+
 Cedric Honnet — MIT
 Website: http://honnet.eu
 Source: https://github.com/honnet/honnet.github.io
@@ -409,6 +421,10 @@ Source: https://github.com/honnet/honnet.github.io
 Elinor Poole-Dayan — MIT
 Website: https://elinorp-d.github.io/
 Source: https://github.com/elinorp-d/elinorp-d.github.io
+
+Eric Chen — MIT
+Website: https://people.csail.mit.edu/echen
+Source: https://github.com/echen01/echen01.github.io
 
 Eric Ming Chen — MIT
 Website: https://echen01.github.io/
@@ -642,6 +658,10 @@ Ria Doshi — Stanford
 Website: https://riadoshi.github.io/
 Source: https://github.com/riadoshi/riadoshi.github.io
 
+Harsh Kumar — Toronto
+Website: https://harsh-kumar.com/
+Source: https://github.com/harsh-kumar9/harsh-kumar9.github.io
+
 Jessica Bo — Toronto
 Website: https://jessica-bo.github.io/
 Source: https://github.com/jessica-bo/jessica-bo.github.io
@@ -717,6 +737,10 @@ Source: https://github.com/NarekHarutyu/narekharutyu.github.io
 Rachel Freedman — UC Berkeley
 Website: https://rachelfreedman.github.io/
 Source: https://github.com/RachelFreedman/rachelfreedman.github.io
+
+Shiyi Cao — UC Berkeley
+Website: https://shiyicao.com/
+Source: https://github.com/caoshiyi/caoshiyi.github.io
 
 Wenjie (Jeff) Li — UC Berkeley
 Website: https://jeffwli.github.io/
@@ -1021,6 +1045,10 @@ Source: https://github.com/carriegu0818/carriegu0818.github.io
 Hao Yu — Zhejiang University
 Website: https://ritianyu.github.io/
 Source: https://github.com/RitianYu/ritianyu.github.io
+
+Qinglin Yang — Zhejiang University
+Website: https://seasidegargantua.xyz/
+Source: https://github.com/seasideGargantua/seasideGargantua.github.io
 
 Ruoxi Guo — Zhejiang University
 Website: https://17373355.github.io
@@ -5629,6 +5657,10 @@ Source: https://github.com/rbsaul/rbsaul.github.io
 Alan Wang — UC Berkeley
 Website: https://urd00m.github.io/
 Source: https://github.com/urd00m/urd00m.github.io
+
+David Minh-Duy Cao — UC Berkeley
+Website: https://cao.sh/
+Source: https://github.com/dcao/website
 
 Meng Chen — UC Berkeley
 Website: https://meng-chen.com/

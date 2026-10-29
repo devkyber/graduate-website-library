@@ -1,0 +1,708 @@
+{
+  "date": "2026-10-29",
+  "screened": 2459,
+  "new_to_top100": 30,
+  "from_new_additions": 17,
+  "entries": [
+    {
+      "id": 2301,
+      "name": "Saehui Hwang",
+      "rank": 1,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 512,
+      "name": "Sejal Agarwal",
+      "rank": 2,
+      "previous_rank": 1,
+      "new_library_addition": false
+    },
+    {
+      "id": 2446,
+      "name": "Karim Benharrak",
+      "rank": 3,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 377,
+      "name": "Jamie Lee",
+      "rank": 4,
+      "previous_rank": 9,
+      "new_library_addition": false
+    },
+    {
+      "id": 473,
+      "name": "Mateo Guaman Castro",
+      "rank": 5,
+      "previous_rank": 81,
+      "new_library_addition": false
+    },
+    {
+      "id": 84,
+      "name": "Mengyuan Millie Wu",
+      "rank": 6,
+      "previous_rank": 7,
+      "new_library_addition": false
+    },
+    {
+      "id": 2302,
+      "name": "Matthew Caren",
+      "rank": 7,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 393,
+      "name": "Christina Chance",
+      "rank": 8,
+      "previous_rank": 44,
+      "new_library_addition": false
+    },
+    {
+      "id": 139,
+      "name": "Jianna So",
+      "rank": 9,
+      "previous_rank": 6,
+      "new_library_addition": false
+    },
+    {
+      "id": 15,
+      "name": "Sevan Brodjian",
+      "rank": 10,
+      "previous_rank": 12,
+      "new_library_addition": false
+    },
+    {
+      "id": 366,
+      "name": "Narek Harutyunyan",
+      "rank": 11,
+      "previous_rank": 2,
+      "new_library_addition": false
+    },
+    {
+      "id": 228,
+      "name": "Victor Livernoche",
+      "rank": 12,
+      "previous_rank": 10,
+      "new_library_addition": false
+    },
+    {
+      "id": 193,
+      "name": "Jyothish Pari",
+      "rank": 13,
+      "previous_rank": 25,
+      "new_library_addition": false
+    },
+    {
+      "id": 245,
+      "name": "Ying Wang",
+      "rank": 14,
+      "previous_rank": 90,
+      "new_library_addition": false
+    },
+    {
+      "id": 297,
+      "name": "Antoine Lafrance",
+      "rank": 15,
+      "previous_rank": 73,
+      "new_library_addition": false
+    },
+    {
+      "id": 176,
+      "name": "Bowen Zhu",
+      "rank": 16,
+      "previous_rank": 4,
+      "new_library_addition": false
+    },
+    {
+      "id": 2406,
+      "name": "Jéa Adams Redai",
+      "rank": 17,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 310,
+      "name": "Jingwei (Chris) Zuo",
+      "rank": 18,
+      "previous_rank": 58,
+      "new_library_addition": false
+    },
+    {
+      "id": 49,
+      "name": "Sidney Nimako",
+      "rank": 19,
+      "previous_rank": 15,
+      "new_library_addition": false
+    },
+    {
+      "id": 233,
+      "name": "Weichen Fan",
+      "rank": 20,
+      "previous_rank": 39,
+      "new_library_addition": false
+    },
+    {
+      "id": 365,
+      "name": "Mrunal Sarvaiya",
+      "rank": 21,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 481,
+      "name": "Sarah Pratt",
+      "rank": 22,
+      "previous_rank": 88,
+      "new_library_addition": false
+    },
+    {
+      "id": 164,
+      "name": "Phillip (Yuseung) Lee",
+      "rank": 23,
+      "previous_rank": 28,
+      "new_library_addition": false
+    },
+    {
+      "id": 325,
+      "name": "Max Du",
+      "rank": 24,
+      "previous_rank": 84,
+      "new_library_addition": false
+    },
+    {
+      "id": 1501,
+      "name": "Adithya Bhaskar",
+      "rank": 25,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 312,
+      "name": "Alexa Tartaglini",
+      "rank": 26,
+      "previous_rank": 57,
+      "new_library_addition": false
+    },
+    {
+      "id": 78,
+      "name": "Arvind Raghavan",
+      "rank": 27,
+      "previous_rank": 32,
+      "new_library_addition": false
+    },
+    {
+      "id": 42,
+      "name": "Kexin Shi",
+      "rank": 28,
+      "previous_rank": 8,
+      "new_library_addition": false
+    },
+    {
+      "id": 214,
+      "name": "Sophie Wang",
+      "rank": 29,
+      "previous_rank": 94,
+      "new_library_addition": false
+    },
+    {
+      "id": 211,
+      "name": "Saetbyeol Leeyouk",
+      "rank": 30,
+      "previous_rank": 24,
+      "new_library_addition": false
+    },
+    {
+      "id": 411,
+      "name": "Pardis Sadat Zahraei",
+      "rank": 31,
+      "previous_rank": 30,
+      "new_library_addition": false
+    },
+    {
+      "id": 2424,
+      "name": "Holly Jackson",
+      "rank": 32,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 44,
+      "name": "Oscar Luo",
+      "rank": 33,
+      "previous_rank": 18,
+      "new_library_addition": false
+    },
+    {
+      "id": 137,
+      "name": "Gustaf Ahdritz",
+      "rank": 34,
+      "previous_rank": 20,
+      "new_library_addition": false
+    },
+    {
+      "id": 2350,
+      "name": "Nathanael Jo",
+      "rank": 35,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 494,
+      "name": "Tuan Trung Dao",
+      "rank": 36,
+      "previous_rank": 54,
+      "new_library_addition": false
+    },
+    {
+      "id": 469,
+      "name": "Katelyn Mei",
+      "rank": 37,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 181,
+      "name": "Dünya Baradari",
+      "rank": 38,
+      "previous_rank": 17,
+      "new_library_addition": false
+    },
+    {
+      "id": 357,
+      "name": "Francisca Vasconcelos",
+      "rank": 39,
+      "previous_rank": 47,
+      "new_library_addition": false
+    },
+    {
+      "id": 239,
+      "name": "XiuYu Zhang",
+      "rank": 40,
+      "previous_rank": 16,
+      "new_library_addition": false
+    },
+    {
+      "id": 316,
+      "name": "Bobby Yan",
+      "rank": 41,
+      "previous_rank": 46,
+      "new_library_addition": false
+    },
+    {
+      "id": 426,
+      "name": "John Robertson",
+      "rank": 42,
+      "previous_rank": 21,
+      "new_library_addition": false
+    },
+    {
+      "id": 30,
+      "name": "Arthur Jakobsson",
+      "rank": 43,
+      "previous_rank": 13,
+      "new_library_addition": false
+    },
+    {
+      "id": 438,
+      "name": "Yao Teng",
+      "rank": 44,
+      "previous_rank": 42,
+      "new_library_addition": false
+    },
+    {
+      "id": 374,
+      "name": "Wenjie (Jeff) Li",
+      "rank": 45,
+      "previous_rank": 40,
+      "new_library_addition": false
+    },
+    {
+      "id": 362,
+      "name": "Kaihua Hou",
+      "rank": 46,
+      "previous_rank": 50,
+      "new_library_addition": false
+    },
+    {
+      "id": 330,
+      "name": "Ziwen Chen",
+      "rank": 47,
+      "previous_rank": 56,
+      "new_library_addition": false
+    },
+    {
+      "id": 2443,
+      "name": "Hila Mor",
+      "rank": 48,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 153,
+      "name": "Usha Bhalla",
+      "rank": 49,
+      "previous_rank": 75,
+      "new_library_addition": false
+    },
+    {
+      "id": 285,
+      "name": "Theo Wolf",
+      "rank": 50,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 2418,
+      "name": "Ryan Seaman",
+      "rank": 51,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 2447,
+      "name": "Vivian Chan",
+      "rank": 52,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 2445,
+      "name": "David Minh-Duy Cao",
+      "rank": 53,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 519,
+      "name": "Qinglin Yang",
+      "rank": 54,
+      "previous_rank": 86,
+      "new_library_addition": false
+    },
+    {
+      "id": 133,
+      "name": "Catherine Yeh",
+      "rank": 55,
+      "previous_rank": 19,
+      "new_library_addition": false
+    },
+    {
+      "id": 204,
+      "name": "Mengying (Cathy) Fang",
+      "rank": 56,
+      "previous_rank": 64,
+      "new_library_addition": false
+    },
+    {
+      "id": 238,
+      "name": "Leheng Sheng",
+      "rank": 57,
+      "previous_rank": 27,
+      "new_library_addition": false
+    },
+    {
+      "id": 412,
+      "name": "Rajarshi Haldar",
+      "rank": 58,
+      "previous_rank": 29,
+      "new_library_addition": false
+    },
+    {
+      "id": 2450,
+      "name": "Samia Menon",
+      "rank": 59,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 2412,
+      "name": "Fiona Qu",
+      "rank": 60,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 298,
+      "name": "Nishant Sharma",
+      "rank": 61,
+      "previous_rank": 85,
+      "new_library_addition": false
+    },
+    {
+      "id": 194,
+      "name": "Kenneth Browder",
+      "rank": 62,
+      "previous_rank": 11,
+      "new_library_addition": false
+    },
+    {
+      "id": 1180,
+      "name": "Sheer Karny",
+      "rank": 63,
+      "previous_rank": 37,
+      "new_library_addition": false
+    },
+    {
+      "id": 2304,
+      "name": "Henry Robbins",
+      "rank": 64,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 2303,
+      "name": "Elizabeth Childs",
+      "rank": 65,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 278,
+      "name": "Austin Andrews",
+      "rank": 66,
+      "previous_rank": 45,
+      "new_library_addition": false
+    },
+    {
+      "id": 191,
+      "name": "Hyunwoo Ryu",
+      "rank": 67,
+      "previous_rank": 3,
+      "new_library_addition": false
+    },
+    {
+      "id": 514,
+      "name": "Fern Limprayoon",
+      "rank": 68,
+      "previous_rank": 26,
+      "new_library_addition": false
+    },
+    {
+      "id": 118,
+      "name": "Chenhao Li",
+      "rank": 69,
+      "previous_rank": 22,
+      "new_library_addition": false
+    },
+    {
+      "id": 160,
+      "name": "Jisung Hwang",
+      "rank": 70,
+      "previous_rank": 35,
+      "new_library_addition": false
+    },
+    {
+      "id": 406,
+      "name": "Dylan Zhang",
+      "rank": 71,
+      "previous_rank": 97,
+      "new_library_addition": false
+    },
+    {
+      "id": 504,
+      "name": "Maryam Hashemzadeh",
+      "rank": 72,
+      "previous_rank": 52,
+      "new_library_addition": false
+    },
+    {
+      "id": 59,
+      "name": "Zheyuan Hu",
+      "rank": 73,
+      "previous_rank": 5,
+      "new_library_addition": false
+    },
+    {
+      "id": 262,
+      "name": "Tao Hu",
+      "rank": 74,
+      "previous_rank": 38,
+      "new_library_addition": false
+    },
+    {
+      "id": 2384,
+      "name": "Rebecca Lin",
+      "rank": 75,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 105,
+      "name": "Shankar Padmanabhan",
+      "rank": 76,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 169,
+      "name": "Abinitha Gourabathina",
+      "rank": 77,
+      "previous_rank": 59,
+      "new_library_addition": false
+    },
+    {
+      "id": 217,
+      "name": "Ticha Sethapakdi",
+      "rank": 78,
+      "previous_rank": 66,
+      "new_library_addition": false
+    },
+    {
+      "id": 151,
+      "name": "Sonia Murthy",
+      "rank": 79,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 88,
+      "name": "Riya Sahni",
+      "rank": 80,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 404,
+      "name": "Chirag Rastogi",
+      "rank": 81,
+      "previous_rank": 33,
+      "new_library_addition": false
+    },
+    {
+      "id": 513,
+      "name": "Yuzhe You",
+      "rank": 82,
+      "previous_rank": 76,
+      "new_library_addition": false
+    },
+    {
+      "id": 413,
+      "name": "Sagnik Mukherjee",
+      "rank": 83,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 401,
+      "name": "Summer Eunhyung Ann",
+      "rank": 84,
+      "previous_rank": 89,
+      "new_library_addition": false
+    },
+    {
+      "id": 69,
+      "name": "Qingwei Ben",
+      "rank": 85,
+      "previous_rank": 31,
+      "new_library_addition": false
+    },
+    {
+      "id": 143,
+      "name": "Matthew Retchin",
+      "rank": 86,
+      "previous_rank": 72,
+      "new_library_addition": false
+    },
+    {
+      "id": 487,
+      "name": "Vivek Ramanujan",
+      "rank": 87,
+      "previous_rank": 67,
+      "new_library_addition": false
+    },
+    {
+      "id": 427,
+      "name": "Kaijing Ma",
+      "rank": 88,
+      "previous_rank": 14,
+      "new_library_addition": false
+    },
+    {
+      "id": 172,
+      "name": "Antonis Christou",
+      "rank": 89,
+      "previous_rank": 60,
+      "new_library_addition": false
+    },
+    {
+      "id": 302,
+      "name": "Ching-Yi Tsai",
+      "rank": 90,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 456,
+      "name": "Advait Bhat",
+      "rank": 91,
+      "previous_rank": 96,
+      "new_library_addition": false
+    },
+    {
+      "id": 27,
+      "name": "Angélica M. Bonilla Fominaya",
+      "rank": 92,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 184,
+      "name": "Eric Chen",
+      "rank": 93,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 201,
+      "name": "Manaswi Mishra",
+      "rank": 94,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 329,
+      "name": "Yanjie Ze",
+      "rank": 95,
+      "previous_rank": null,
+      "new_library_addition": false
+    },
+    {
+      "id": 305,
+      "name": "Lauren Wang",
+      "rank": 96,
+      "previous_rank": 51,
+      "new_library_addition": false
+    },
+    {
+      "id": 2319,
+      "name": "Jing Shang",
+      "rank": 97,
+      "previous_rank": null,
+      "new_library_addition": true
+    },
+    {
+      "id": 161,
+      "name": "Juil Koo",
+      "rank": 98,
+      "previous_rank": 61,
+      "new_library_addition": false
+    },
+    {
+      "id": 421,
+      "name": "Hirona Arai",
+      "rank": 99,
+      "previous_rank": 34,
+      "new_library_addition": false
+    },
+    {
+      "id": 2453,
+      "name": "Parker Ziegler",
+      "rank": 100,
+      "previous_rank": null,
+      "new_library_addition": true
+    }
+  ]
+}

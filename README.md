@@ -15,17 +15,19 @@ A visual reference library of **2,459 graduate-student personal websites**, disc
 - [Structured source register](source-register.json)
 - [University counts](counts.json)
 - [Expansion report](expansion-report.json) and [new website links](new-additions-links.txt)
+- [Historical baseline verification](baseline-final-verification.json) — the original 2,281-record audit, preserved unchanged; its counts do not describe the expanded collection or new ranking
+- [Expansion UI verification](expansion-ui-verification.json) and [expansion live UI verification](expansion-live-ui-verification.json) — historical checks of the 2,459-record gallery, performed before this top-100 reranking
 
 The gallery can also be downloaded with **Code → Download ZIP** and opened locally using `index.html`. Keep the image folders beside the HTML files.
 
 ## Collection
 
-- 2,459 unique personal websites across 72 institutions
+- 2,459 website reference records across 72 institutions
 - 587 visually selected design examples
-- 1,414 verified public website repositories
-- A separate editorial top 100, with 100 full-size desktop screenshots and 51 website repositories
+- 1,422 records with verified public website repositories
+- A separate editorial top 100, with 100 full-size desktop screenshots and 53 website repositories, representing 33 institutions
 
-The current expansion adds 178 websites to the recorded 2,281-site baseline and prioritizes Stanford, MIT, Harvard, UC Berkeley, and Caltech. Caltech remains at 60 after a further source review; no additional qualifying sites were added there. University prestige is not used to rank designs. Graduate affiliation and lab provenance are checked against public pages; pages can change after the recorded review date. The collection includes both distinctive portfolios and conventional academic websites. The top-100 ranking is retained from the earlier collection and has not been reranked against the additions.
+The current expansion adds 178 websites to the recorded 2,281-site baseline and prioritizes Stanford, MIT, Harvard, UC Berkeley, and Caltech. Caltech remains at 60 after a further source review; no additional qualifying sites were added there. University prestige is not used to rank designs. Graduate affiliation and lab provenance are checked against public pages; pages can change after the recorded review date. The collection includes both distinctive portfolios and conventional academic websites. The top 100 was reranked across all 2,459 records on 2026-10-29, including the new additions.
 
 ## Provenance and review
 

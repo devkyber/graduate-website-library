@@ -1,0 +1,14 @@
+{
+  "total": 2459,
+  "new_additions": 178,
+  "passed": [
+    "Full library count, first-page cards, and script execution",
+    "New-additions filter survives link navigation and reload",
+    "All five university deep links display correct complete counts",
+    "Focus-five and verified-repository filters; source details",
+    "Name search, list/grid controls, and pagination",
+    "Round-trip full-library/top-100 navigation",
+    "390px mobile layout without horizontal overflow; no JavaScript errors"
+  ],
+  "errors": []
+}

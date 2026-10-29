@@ -1,14 +1,18 @@
 Graduate website reference library — checked 29 October 2026
 
-2459 unique personal websites; 72 institutions; 587 visual shortlist picks; 1414 matched public website repositories.
+2459 unique personal websites; 72 institutions; 587 visual shortlist picks; 1422 matched public website repositories.
 
 This update adds 178 personal websites to the recorded baseline of 2281. The starting artifact contained 2,281, rather than the 2,282 mentioned in the request. See expansion-report.json for exact university changes and updated existing profiles.
+
+Historical verification scope
+baseline-final-verification.json preserves the original 2,281-record collection audit unchanged. Its counts and source-link checks apply only to that baseline, not to the expanded 2,459-record collection or the new top-100 ranking. Current collection totals are recorded in counts.json and expansion-report.json; the reranking has its own top-100 verification report.
+expansion-ui-verification.json and expansion-live-ui-verification.json preserve the later 2,459-record gallery UI checks. They predate this top-100 reranking and do not assert a new enrollment or source-provenance audit of every entry.
 
 Discovery and eligibility
 Personal links were discovered through university lab and research-group rosters, sometimes through an exact link on a member profile. Source chains are preserved. Current graduate affiliation was checked against those sources and the personal biography. A newer completed-degree, undergraduate-only, or postdoctoral/employment-only biography was grounds for exclusion. Prior lab discovery can lead to a graduate at another institution; current affiliation is shown. A small number of earlier entries explicitly on graduate-study leave remain labeled.
 
 Visual selection
-Every included site has a rendered desktop screenshot review. New additions received fresh visual review and specific design observations. Readable conventional academic layouts are included alongside distinctive portfolios; design picks highlight stronger visual ideas. This is not a complete mobile or accessibility audit of external sites. The separate top-100 editorial ranking is preserved from the earlier collection and has not been reranked against these new additions.
+Every included site has a rendered desktop screenshot review. New additions received fresh visual review and specific design observations. Readable conventional academic layouts are included alongside distinctive portfolios; design picks highlight stronger visual ideas. This is not a complete mobile or accessibility audit of external sites. The separate top-100 editorial ranking was reranked across all 2,459 records on 2026-10-29, including the new additions. Every ranked website has a fresh desktop screenshot and design observations.
 
 Repositories
 GitHub Pages matches use public repository identity and enabled Pages, or matching public website source files. Custom-domain matches use CNAME files, explicit source links, or matching source content. Per-entry matching evidence is recorded. General GitHub profiles are separate from website repositories. Where no license was recorded, the interface says so; screenshots and linked content belong to their authors.

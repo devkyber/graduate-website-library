@@ -730,12 +730,17 @@
     "design_note": "Italic serif headings, fine rules, and a restrained project grid create a calm editorial portfolio; useful when projects deserve more space than a biography.",
     "style": "Typographic portfolio",
     "github_profile": null,
-    "website_repo": null,
+    "website_repo": "https://github.com/monacuca/abfominaya.github.io",
     "repo_license": null,
-    "repo_verification": null,
+    "repo_verification": "Verified public Next.js website repository: root CNAME is exactly abfominaya.com and the repository contains src/app, public assets, and the deployment configuration for the reviewed custom domain.",
     "template_repo": null,
     "origin": "baseline",
-    "id": 27
+    "id": 27,
+    "repo_evidence_urls": [
+      "https://github.com/monacuca/abfominaya.github.io/blob/master/CNAME",
+      "https://github.com/monacuca/abfominaya.github.io/tree/master/src",
+      "https://abfominaya.com/"
+    ]
   },
   {
     "name": "Anjana Ramachandran",
@@ -4090,12 +4095,17 @@
     "design_note": "A custom illustrated portrait and scattered celestial shapes make a distinctive dark research portfolio; the author states PhD leave.",
     "style": "Dark illustrated",
     "github_profile": null,
-    "website_repo": null,
+    "website_repo": "https://github.com/skmur/skmur.github.io",
     "repo_license": null,
-    "repo_verification": null,
+    "repo_verification": "Verified current website source: CNAME is soniamurthy.com; index.html identifies Sonia Murthy and contains the portrait, grain overlay, purple flower, and background shapes visible in the current capture.",
     "template_repo": null,
     "origin": "baseline",
-    "id": 151
+    "id": 151,
+    "repo_evidence_urls": [
+      "https://github.com/skmur/skmur.github.io/blob/main/CNAME",
+      "https://github.com/skmur/skmur.github.io/blob/main/index.html",
+      "https://www.soniamurthy.com/"
+    ]
   },
   {
     "name": "Sunny Qin",
@@ -4743,12 +4753,17 @@
     "design_note": "Large product imagery and spare overlay navigation suitable for industrial design.",
     "style": "Academic profile",
     "github_profile": null,
-    "website_repo": null,
+    "website_repo": "https://github.com/bobtianqiwei/bobtianqiwei.github.io",
     "repo_license": null,
-    "repo_verification": null,
+    "repo_verification": "Verified current personal website repository: CNAME is bobtianqiwei.com, index.html identifies Bob Tianqi Wei, and the repository contains the portfolio pages, video assets, styles, and scripts.",
     "template_repo": null,
     "origin": "root-final.json",
-    "id": 175
+    "id": 175,
+    "repo_evidence_urls": [
+      "https://github.com/bobtianqiwei/bobtianqiwei.github.io/blob/main/CNAME",
+      "https://github.com/bobtianqiwei/bobtianqiwei.github.io/blob/main/index.html",
+      "https://bobtianqiwei.com/"
+    ]
   },
   {
     "name": "Bowen Zhu",
@@ -4993,12 +5008,18 @@
     "design_note": "Portrait-led introduction followed by a compact visual research gallery.",
     "style": "Project portfolio",
     "github_profile": "https://github.com/echen01",
-    "website_repo": null,
+    "website_repo": "https://github.com/echen01/echen01.github.io",
     "repo_license": null,
-    "repo_verification": null,
+    "repo_verification": "Verified mirror source: the CSAIL page and GitHub Pages page have normalized visible text exactly matching the public repository index.html, with identical author identity and research content. Both pages declare https://echen01.github.io/ as canonical; the CSAIL lab discovery chain is preserved.",
     "template_repo": null,
     "origin": "root-final.json",
-    "id": 184
+    "id": 184,
+    "repo_evidence_urls": [
+      "https://github.com/echen01/echen01.github.io/blob/main/index.html",
+      "https://people.csail.mit.edu/echen/",
+      "https://echen01.github.io/",
+      "https://www.csail.mit.edu/person/eric-chen"
+    ]
   },
   {
     "name": "Eric Ming Chen",
@@ -6073,7 +6094,7 @@
     "design_pick": true,
     "design_note": "Dark searchable archive with concise project summaries and media thumbnails.",
     "style": "Project portfolio",
-    "github_profile": "https://github.com/j3lte",
+    "github_profile": null,
     "website_repo": null,
     "repo_license": null,
     "repo_verification": null,
@@ -9110,12 +9131,17 @@
     "design_note": "Very large serif name, small offset portrait, and generous white space give the page an editorial feel.",
     "style": "Editorial",
     "github_profile": "https://github.com/harsh-kumar9",
-    "website_repo": null,
+    "website_repo": "https://github.com/harsh-kumar9/harsh-kumar9.github.io",
     "repo_license": null,
-    "repo_verification": null,
+    "repo_verification": "Verified current website source: CNAME is harsh-kumar.com and index.html names Harsh Kumar with matching Toronto PhD biography, live-domain Open Graph URLs, CSS, and publication content.",
     "template_repo": null,
     "origin": "mit-final-accepted.json",
-    "id": 335
+    "id": 335,
+    "repo_evidence_urls": [
+      "https://github.com/harsh-kumar9/harsh-kumar9.github.io/blob/master/CNAME",
+      "https://github.com/harsh-kumar9/harsh-kumar9.github.io/blob/master/index.html",
+      "https://harsh-kumar.com/"
+    ]
   },
   {
     "name": "Jessica Bo",
@@ -10082,12 +10108,17 @@
     "design_note": "Soft lavender color, restrained serif lettering, and a centered timeline make the page calm and legible.",
     "style": "Clean academic",
     "github_profile": null,
-    "website_repo": null,
+    "website_repo": "https://github.com/caoshiyi/caoshiyi.github.io",
     "repo_license": null,
-    "repo_verification": null,
+    "repo_verification": "Verified current website source: CNAME is shiyicao.com and index.html identifies Shiyi Cao with the current Berkeley PhD description, light/dark theme code, and matching styles and assets.",
     "template_repo": null,
     "origin": "baseline",
-    "id": 371
+    "id": 371,
+    "repo_evidence_urls": [
+      "https://github.com/caoshiyi/caoshiyi.github.io/blob/master/CNAME",
+      "https://github.com/caoshiyi/caoshiyi.github.io/blob/master/index.html",
+      "https://shiyicao.com/"
+    ]
   },
   {
     "name": "Shuo Yang",
@@ -14093,12 +14124,17 @@
     "design_note": "Warm monospaced identity card and an interactive black-hole illustration.",
     "style": "Creative portfolio",
     "github_profile": "https://github.com/seasideGargantua",
-    "website_repo": null,
+    "website_repo": "https://github.com/seasideGargantua/seasideGargantua.github.io",
     "repo_license": null,
-    "repo_verification": null,
+    "repo_verification": "Verified deployed website code: CNAME is seasideGargantua.xyz and index.html matches the live Hexo site, its hostname configuration, and current main.css/retro.css assets. This repository contains the generated website files.",
     "template_repo": null,
     "origin": "root-final.json",
-    "id": 519
+    "id": 519,
+    "repo_evidence_urls": [
+      "https://github.com/seasideGargantua/seasideGargantua.github.io/blob/main/CNAME",
+      "https://github.com/seasideGargantua/seasideGargantua.github.io/blob/main/index.html",
+      "https://seasidegargantua.xyz/"
+    ]
   },
   {
     "name": "Ruoxi Guo",
@@ -66647,8 +66683,8 @@
     "design_note": "Fine rules, monospaced identity details, and a two-column grid organize biography, writing, and recent activity with a distinctive print-like rhythm.",
     "style": "Editorial",
     "github_profile": null,
-    "website_repo": null,
-    "repo_verification": null,
+    "website_repo": "https://github.com/dcao/website",
+    "repo_verification": "Verified current Lume website source: README describes the personal website; index.vto matches David Minh-Duy Cao's current Berkeley biography, unusual grid, photo credit, blog and recent-work sections, live Berkeley clock, and Last.fm component. It also references the cao.sh custom domain.",
     "notes": "",
     "repo_license": null,
     "template_repo": null,
@@ -66657,7 +66693,12 @@
     "origin": "top5-expansion",
     "review_batch": "2026-10-29-focused-expansion",
     "id": 2445,
-    "is_new": true
+    "is_new": true,
+    "repo_evidence_urls": [
+      "https://github.com/dcao/website/blob/master/README.md",
+      "https://github.com/dcao/website/blob/master/index.vto",
+      "https://cao.sh/"
+    ]
   },
   {
     "name": "Karim Benharrak",

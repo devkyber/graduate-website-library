@@ -513,6 +513,7 @@ Website source code: https://github.com/AngchenXie/angchenxie.github.io
 Angélica M. Bonilla Fominaya
 https://abfominaya.com/
 Lab source: https://graphics.cs.cmu.edu/people/
+Website source code: https://github.com/monacuca/abfominaya.github.io
 
 Anjali Kantharuban
 https://www.anjaliruban.com/
@@ -3109,6 +3110,7 @@ Website source code: https://github.com/sohiniu/sohiniu.github.io
 Sonia Murthy
 https://www.soniamurthy.com/
 Lab source: https://www.cocodev.org/people
+Website source code: https://github.com/skmur/skmur.github.io
 
 Sunny Qin
 https://sunnytqin.github.io/
@@ -3695,6 +3697,7 @@ Lab source: https://vm-web.pdos.csail.mit.edu/people/
 Bob Tianqi Wei
 https://bobtianqiwei.com
 Lab source: https://www.media.mit.edu/people/?filter=student
+Website source code: https://github.com/bobtianqiwei/bobtianqiwei.github.io
 
 Bowen Zhu
 https://bowenzhu.mit.edu
@@ -3817,6 +3820,7 @@ Website source code: https://github.com/elinorp-d/elinorp-d.github.io
 Eric Chen
 https://people.csail.mit.edu/echen
 Lab source: https://www.csail.mit.edu/people/?roleFacets=Grad%20Students
+Website source code: https://github.com/echen01/echen01.github.io
 
 Eric Ming Chen
 https://echen01.github.io/
@@ -7488,6 +7492,7 @@ Lab source: https://pairlab.github.io/people/
 Harsh Kumar
 https://harsh-kumar.com/
 Lab source: https://csslab.cs.toronto.edu/people/
+Website source code: https://github.com/harsh-kumar9/harsh-kumar9.github.io
 
 Jessica Bo
 https://jessica-bo.github.io/
@@ -7860,6 +7865,7 @@ Website source code: https://github.com/davidchuyaya/davidchuyaya.github.io
 David Minh-Duy Cao
 https://cao.sh/
 Lab source: https://hci.berkeley.edu/
+Website source code: https://github.com/dcao/website
 
 David Wu
 https://davidxwu.github.io/
@@ -8336,6 +8342,7 @@ Lab source: https://bair.berkeley.edu/people/students
 Shiyi Cao
 https://shiyicao.com/
 Lab source: https://bair.berkeley.edu/people/students
+Website source code: https://github.com/caoshiyi/caoshiyi.github.io
 
 Shreyas Kapur
 https://shreyaskapur.com
@@ -11450,6 +11457,7 @@ Website source code: https://github.com/Li-xingXiao/homepage
 Qinglin Yang
 https://seasidegargantua.xyz/
 Lab source: https://xzhou.me/group
+Website source code: https://github.com/seasideGargantua/seasideGargantua.github.io
 
 Ruoxi Guo
 https://17373355.github.io

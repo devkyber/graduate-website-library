@@ -1,0 +1,926 @@
+{
+  "checked_at": "2026-10-29T03:11:06.157462+00:00",
+  "scope": "Independent static artifact consistency audit of the regenerated ranked100. Does not replace the browser UI audit or live external enrollment/repository checks.",
+  "result": "passed",
+  "checks": [
+    {
+      "name": "Exactly 100 entries, unique stable IDs, and consecutive ranks",
+      "passed": true
+    },
+    {
+      "name": "Export order matches final-order.json",
+      "passed": true
+    },
+    {
+      "name": "100 unique website URLs",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "100 unique normalized website URLs",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "100 unique normalized resolved URLs",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Confirmed Eric Chen alias excluded",
+      "passed": true
+    },
+    {
+      "name": "Selected IDs preserve master identity, lab source chain, status evidence, and notes",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Design notes match selected nominations and documented editorial corrections",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Fresh metadata matches selected identity, URL, resolved URL, capture date, viewport, and HTTP200",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "All 100 exported screenshots exactly match central fresh bytes and decode at1440x1000",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "All website source links are repository URLs with verification evidence",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Embedded gallery JSON exactly equals ranked-100.json",
+      "passed": true
+    },
+    {
+      "name": "All 100 cards have correct rank anchors, links, visible design notes, provenance, and image assets",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "HTML element IDs are unique",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Every static local anchor and relative asset resolves",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Counts match exported records and assets",
+      "passed": true,
+      "details": {
+        "sites": 100,
+        "institutions": 33,
+        "website_repositories": 53,
+        "fresh_screenshots": 100,
+        "styles": {
+          "Editorial": 41,
+          "Colorful": 17,
+          "Image-led": 16,
+          "Experimental": 14,
+          "Dark": 9,
+          "Minimal academic": 3
+        },
+        "screened": 2459
+      }
+    },
+    {
+      "name": "Compact link download matches exact ranking order",
+      "passed": true
+    },
+    {
+      "name": "Plaintext design-note download contains every selected entry and observation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Repository download contains exactly the verified website repositories",
+      "passed": true
+    }
+  ],
+  "artifact_sha256": {
+    "ranked-100.json": "e45707f24638dcdf12e6c9537ebf259ff28790a37d58cdae9687aedc9557cd11",
+    "top-100-graduate-websites.html": "15c09eaf4ad3190978597eb751bffb006605ec3b2bd193d0812b9a63bd52ba18",
+    "counts.json": "ae4229366e88f3a067c56a0b7225b7ea874801d776942d2cad94f30b02d76c44",
+    "final-order.json": "4085037caf8cda7969e582eef7c028c6616bfe5e8481dc50b315e5990d99fbe6"
+  },
+  "selected_ids": [
+    2301,
+    512,
+    2446,
+    377,
+    473,
+    84,
+    2302,
+    393,
+    139,
+    15,
+    366,
+    228,
+    193,
+    245,
+    297,
+    176,
+    2406,
+    310,
+    49,
+    233,
+    365,
+    481,
+    164,
+    325,
+    1501,
+    312,
+    78,
+    42,
+    214,
+    211,
+    411,
+    2424,
+    44,
+    137,
+    2350,
+    494,
+    469,
+    181,
+    357,
+    239,
+    316,
+    426,
+    30,
+    438,
+    374,
+    362,
+    330,
+    2443,
+    153,
+    285,
+    2418,
+    2447,
+    2445,
+    519,
+    133,
+    204,
+    238,
+    412,
+    2450,
+    2412,
+    298,
+    194,
+    1180,
+    2304,
+    2303,
+    278,
+    191,
+    514,
+    118,
+    160,
+    406,
+    504,
+    59,
+    262,
+    2384,
+    105,
+    169,
+    217,
+    151,
+    88,
+    404,
+    513,
+    413,
+    401,
+    69,
+    143,
+    487,
+    427,
+    172,
+    302,
+    456,
+    27,
+    184,
+    201,
+    329,
+    305,
+    2319,
+    161,
+    421,
+    2453
+  ],
+  "screenshots": [
+    {
+      "id": 2301,
+      "rank": 1,
+      "screenshot": "screenshots/001-2301.jpg",
+      "sha256": "4a802356cd7580fd2f0548ee961e84b4fc7c94714f5cb679e1157d4f74fdc525",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 512,
+      "rank": 2,
+      "screenshot": "screenshots/002-512.jpg",
+      "sha256": "67128b9554cea705f7a4869fa9ed4a1ec281d21821ae20a5eea9e4340daae130",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2446,
+      "rank": 3,
+      "screenshot": "screenshots/003-2446.jpg",
+      "sha256": "ceefee0a9042941a4fb8e2b9325ec0f5ba83a3d7594522e2f0595fdeb7422498",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 377,
+      "rank": 4,
+      "screenshot": "screenshots/004-377.jpg",
+      "sha256": "d507a325f605d075e0c2b895d31aa0a9bb045bbe5b402382ed50daa5b0d26328",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 473,
+      "rank": 5,
+      "screenshot": "screenshots/005-473.jpg",
+      "sha256": "8051730c3840e79658661f123c823140441ef4906c5a35bc25561c7a47c45596",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 84,
+      "rank": 6,
+      "screenshot": "screenshots/006-84.jpg",
+      "sha256": "ad34723ca43a30a0ad166cf6a6b6e4f2d4062c3561ea54b7899fb2d598ff162a",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2302,
+      "rank": 7,
+      "screenshot": "screenshots/007-2302.jpg",
+      "sha256": "3286950b95e2c71a077e6faf5fc45471d86620fa61ed6f5c08bac5b39631902d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 393,
+      "rank": 8,
+      "screenshot": "screenshots/008-393.jpg",
+      "sha256": "95c12b8af162a8ef6d6a9672b0ee380f8bff545830db7773a757aeae34aa47b9",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 139,
+      "rank": 9,
+      "screenshot": "screenshots/009-139.jpg",
+      "sha256": "8582ee8bc7e074c1378c2fa5a23d2205441845376ea1cfcc17686f26b063c88d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 15,
+      "rank": 10,
+      "screenshot": "screenshots/010-15.jpg",
+      "sha256": "005f7567d39f4ea97b772d7013dbdf3bb7b50f9a1c33d98cc20f7377e957624d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 366,
+      "rank": 11,
+      "screenshot": "screenshots/011-366.jpg",
+      "sha256": "4e042d39e8f356f750085c8e46c7e9368a8cef5106bbff0cdddd20e9ba7412d6",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 228,
+      "rank": 12,
+      "screenshot": "screenshots/012-228.jpg",
+      "sha256": "1cf750fd641fa3d58d5b2fb5a1f51de38f56dedbf0849409238b80729d495f82",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 193,
+      "rank": 13,
+      "screenshot": "screenshots/013-193.jpg",
+      "sha256": "ddeb2a71553e086dda92e68ad60ac24be238969e83dc71c37146e4ff6e8ca303",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 245,
+      "rank": 14,
+      "screenshot": "screenshots/014-245.jpg",
+      "sha256": "767977cfdf30fb43d6513c3a704e8b4c8db485b03eb0c12974ae7f5e78734a28",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 297,
+      "rank": 15,
+      "screenshot": "screenshots/015-297.jpg",
+      "sha256": "92acc709655cb0f00161732511971bbcaf927d447f758052edf16b486fd587a5",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 176,
+      "rank": 16,
+      "screenshot": "screenshots/016-176.jpg",
+      "sha256": "0cd49f4411d2bae4e174e0da4f7d3e9cc0ec61e5381481513414448473f2717d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2406,
+      "rank": 17,
+      "screenshot": "screenshots/017-2406.jpg",
+      "sha256": "1bbf02cf914eba432dc4c757db0619ab1037bbbd5b4c17e7e2c7a5016ac58cf8",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 310,
+      "rank": 18,
+      "screenshot": "screenshots/018-310.jpg",
+      "sha256": "dab15da7eafe47c8c1c40c8e4849465afe7db84144231d7c89fbf30d7982fe1d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 49,
+      "rank": 19,
+      "screenshot": "screenshots/019-49.jpg",
+      "sha256": "6846eaa91a2b5cb4ef90c8050f4fe486d56f64c480306fe42662b2eff152eb62",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 233,
+      "rank": 20,
+      "screenshot": "screenshots/020-233.jpg",
+      "sha256": "aacf413d0973f036b9ef9419120780af4476bcdc8cd225888c553e324c41dc04",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 365,
+      "rank": 21,
+      "screenshot": "screenshots/021-365.jpg",
+      "sha256": "ed4881798fa22fc3faed0ac872d1e29be358d59714400967b37733a9f91bfdf6",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 481,
+      "rank": 22,
+      "screenshot": "screenshots/022-481.jpg",
+      "sha256": "a89c72f11abcfdc41a16f39ba28858a8d6c6f42e80ca4928f7f4df682048cdb9",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 164,
+      "rank": 23,
+      "screenshot": "screenshots/023-164.jpg",
+      "sha256": "bb47a734f91368fa2cb1b46635b5134fbf57fc68d517ad1333cb56e45285d9ae",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 325,
+      "rank": 24,
+      "screenshot": "screenshots/024-325.jpg",
+      "sha256": "96401f94028107c3dac81c80fd39f909b86fb99294e6d840f7bfa8812fa4698e",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 1501,
+      "rank": 25,
+      "screenshot": "screenshots/025-1501.jpg",
+      "sha256": "ce5dbbf2777ca04237ed2066555491e671eefd2dd36448020dfb020d74cab247",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 312,
+      "rank": 26,
+      "screenshot": "screenshots/026-312.jpg",
+      "sha256": "59bf963395d925861dfda9a2ddc1c46bf28c1354ef929528a5f8e80540b8e2c9",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 78,
+      "rank": 27,
+      "screenshot": "screenshots/027-78.jpg",
+      "sha256": "8229756b8a14e96c0fe9cad72c924f1c13808dd3e70c7d55978512deeadecbc0",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 42,
+      "rank": 28,
+      "screenshot": "screenshots/028-42.jpg",
+      "sha256": "e9f234069f6d4d518c8548f6ba30f3d94d3da91aab9e88bfd729b7a3784f2801",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 214,
+      "rank": 29,
+      "screenshot": "screenshots/029-214.jpg",
+      "sha256": "d2011841f50e3c355252fefad9349131c4e8eef7385d65e582da688d0bc9c418",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 211,
+      "rank": 30,
+      "screenshot": "screenshots/030-211.jpg",
+      "sha256": "1aa2a5a00808b28028e9c0c94f4a27c49156eb0b2db9c36c4ace5d3451994d1f",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 411,
+      "rank": 31,
+      "screenshot": "screenshots/031-411.jpg",
+      "sha256": "419dd9aedf8c8de0b1fff505392416e2df2625717826f3970801240c5f0e4c11",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2424,
+      "rank": 32,
+      "screenshot": "screenshots/032-2424.jpg",
+      "sha256": "8a84fbcb7abe988a0d78ec2444ecdd9982c135f163c933fd06505a7503c9bbb1",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 44,
+      "rank": 33,
+      "screenshot": "screenshots/033-44.jpg",
+      "sha256": "dfcb749f605b6f3517da9d23ccfbe455b3abea681e06e819092fc102d3da9726",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 137,
+      "rank": 34,
+      "screenshot": "screenshots/034-137.jpg",
+      "sha256": "60ae0a5861d9187018254abf9160317fea32f7cab7ad6ee56093aa13bbe82a83",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2350,
+      "rank": 35,
+      "screenshot": "screenshots/035-2350.jpg",
+      "sha256": "fa5729eaea53e3965faf7ed7f908a5b905bd2d1b27ab477e1b379b9c7e934d41",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 494,
+      "rank": 36,
+      "screenshot": "screenshots/036-494.jpg",
+      "sha256": "dcaf7d1a560939b8f37e1969107ef997aaf86654909e8c517ccecac29fa29300",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 469,
+      "rank": 37,
+      "screenshot": "screenshots/037-469.jpg",
+      "sha256": "13f6154c5f418589c121b1c1fc965c27986f4e289b79c55d918bea865c160683",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 181,
+      "rank": 38,
+      "screenshot": "screenshots/038-181.jpg",
+      "sha256": "c555249f6721ec8caca1ccf3cd8f3b5fbfb6db18ceb7ddfffb04fbdfee6abc1e",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 357,
+      "rank": 39,
+      "screenshot": "screenshots/039-357.jpg",
+      "sha256": "0044a939fb8fbdd8924f9a5fde838c4701411cfd14eb0e8cb7c224e2575a1fab",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 239,
+      "rank": 40,
+      "screenshot": "screenshots/040-239.jpg",
+      "sha256": "d1e8dfe43aadb54cd0ac58cdfa4a4f8e08e9ffd2bd02e28740b0ceb56776277f",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 316,
+      "rank": 41,
+      "screenshot": "screenshots/041-316.jpg",
+      "sha256": "5c3a778ddcf148a5a5bef93a64c028f645784b727c5319760072aa073154d939",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 426,
+      "rank": 42,
+      "screenshot": "screenshots/042-426.jpg",
+      "sha256": "4cbb0eb8c0119534df36920811f33ec85771b4f7303b4f1f58d31f82dbe172ba",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 30,
+      "rank": 43,
+      "screenshot": "screenshots/043-30.jpg",
+      "sha256": "4990a26a1bd6f6e8565367c175477f2d86465a8216e58b0e5a1c1dfd298874d9",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 438,
+      "rank": 44,
+      "screenshot": "screenshots/044-438.jpg",
+      "sha256": "259ca1393e3ebf2e16fe30843b22a8deda921abc84e08de117acf7e26bc04658",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 374,
+      "rank": 45,
+      "screenshot": "screenshots/045-374.jpg",
+      "sha256": "52a7af17b71476fa93c43569c4e982e0b6c68bb976982a5642010a0a06f72996",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 362,
+      "rank": 46,
+      "screenshot": "screenshots/046-362.jpg",
+      "sha256": "d35bc6e199637161e5c16733416a9dfd69ecaa210c8f8d014a3ecb60354ac2e9",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 330,
+      "rank": 47,
+      "screenshot": "screenshots/047-330.jpg",
+      "sha256": "fe988277bdcf6e7b1fb237e8d2728bbae1431de10d82d054c564656076ef78a1",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2443,
+      "rank": 48,
+      "screenshot": "screenshots/048-2443.jpg",
+      "sha256": "a82f23fb2ec0470f9020a8961e30d6ce19ccd4bec11cf8ae1fd25d61dbfc02bc",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 153,
+      "rank": 49,
+      "screenshot": "screenshots/049-153.jpg",
+      "sha256": "ac2931cd8ec1b23329109417cef45a2f04f65037f6ea94dc531c38af21b387ea",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 285,
+      "rank": 50,
+      "screenshot": "screenshots/050-285.jpg",
+      "sha256": "1cd5d3b787b488111de4a4df3d9f09c05bf6a9205bec219c1f95e3d74f41075a",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2418,
+      "rank": 51,
+      "screenshot": "screenshots/051-2418.jpg",
+      "sha256": "05183385c71aea5d8a28b9075ee9b68be85517c85740f6ab3112ae9d5fa15d0a",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2447,
+      "rank": 52,
+      "screenshot": "screenshots/052-2447.jpg",
+      "sha256": "e5beac333004dee54957bcd8a554ec2ee8aa42e904f96e340cb5b628f33f45aa",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2445,
+      "rank": 53,
+      "screenshot": "screenshots/053-2445.jpg",
+      "sha256": "c43be21496409149a2a981e8eb35c539d77e7162179f0e6ad97dffa442cd9475",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 519,
+      "rank": 54,
+      "screenshot": "screenshots/054-519.jpg",
+      "sha256": "ee654d9e2832cbe5da092904d20cf5c921cb4b71e5556b76b6fa95b9515521d5",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 133,
+      "rank": 55,
+      "screenshot": "screenshots/055-133.jpg",
+      "sha256": "5df523f4b061929075fcde5302113bcb5b41c83a8f386f0291461b47da3eccd3",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 204,
+      "rank": 56,
+      "screenshot": "screenshots/056-204.jpg",
+      "sha256": "3f6a161f8cf5b4efbe12c76e72d820c1011ab375e1540a158a5723b30082034b",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 238,
+      "rank": 57,
+      "screenshot": "screenshots/057-238.jpg",
+      "sha256": "2551529f281c5bf573ab98570dd9f8b070653eac22e09bfa35bdaf21f1b478f9",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 412,
+      "rank": 58,
+      "screenshot": "screenshots/058-412.jpg",
+      "sha256": "0b8655c991db164b925ed3059c780ff1d6b75a7b80bdab351ca081a2f018e9d2",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2450,
+      "rank": 59,
+      "screenshot": "screenshots/059-2450.jpg",
+      "sha256": "54c8a604b71abfac7b7da3f7963509105e0dd0a7b11adf6a18fa4d62b1ff01e2",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2412,
+      "rank": 60,
+      "screenshot": "screenshots/060-2412.jpg",
+      "sha256": "58f3008b4ea1809a288d33147c7e2c61198404b57d5f5b4f3b39f9f0cad85090",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 298,
+      "rank": 61,
+      "screenshot": "screenshots/061-298.jpg",
+      "sha256": "18d3f93974976c074eedf53a68101c64d9307f65b6ad5defa862f9843fe5c03f",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 194,
+      "rank": 62,
+      "screenshot": "screenshots/062-194.jpg",
+      "sha256": "3ab5359616d9b642127620185588d186bf99ac806ad4e9975d445283d11e4656",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 1180,
+      "rank": 63,
+      "screenshot": "screenshots/063-1180.jpg",
+      "sha256": "ea539c4304c16fc2c9010136ba634d97a4b449b450893b493414a85d1afc4a87",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2304,
+      "rank": 64,
+      "screenshot": "screenshots/064-2304.jpg",
+      "sha256": "2a262696e56457d2c27b9a97788f3e97098eb734bde85f8c3133578d87e6e6ef",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2303,
+      "rank": 65,
+      "screenshot": "screenshots/065-2303.jpg",
+      "sha256": "8247d2deac12ddfc9a25736bf9c06ad3809170d8c4caf7f6cfb0790040474026",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 278,
+      "rank": 66,
+      "screenshot": "screenshots/066-278.jpg",
+      "sha256": "269997694bd8ee1e0eda6d109ef9f07e4fa37fae53447134ccfa4c96cbf2a99f",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 191,
+      "rank": 67,
+      "screenshot": "screenshots/067-191.jpg",
+      "sha256": "ecc79b76511fa76787c1a9e2ab1e49850a4a363b8b1b1cc6bc06f2ce83413dda",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 514,
+      "rank": 68,
+      "screenshot": "screenshots/068-514.jpg",
+      "sha256": "1b264ce8ad7a8c9876066a77dea81ea92aade19a302dbda3118b84d5dee14ecc",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 118,
+      "rank": 69,
+      "screenshot": "screenshots/069-118.jpg",
+      "sha256": "a03e66e13bba08a63be3cfd1a2b73fbb8e311cda9276b9ff46b7a4f8bbaae0db",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 160,
+      "rank": 70,
+      "screenshot": "screenshots/070-160.jpg",
+      "sha256": "7c641f579acab585c7b406b802468228d8775957c2fd7e3cb164d14748f16321",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 406,
+      "rank": 71,
+      "screenshot": "screenshots/071-406.jpg",
+      "sha256": "5f3fee7b19240414c2a0bdd96c5baaced2c62c278a8f9c211ea76e4ffd34aeb1",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 504,
+      "rank": 72,
+      "screenshot": "screenshots/072-504.jpg",
+      "sha256": "1459d540941cd6f15344b093646980e9acb4d4466f3e8a465b95256c3d6c6996",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 59,
+      "rank": 73,
+      "screenshot": "screenshots/073-59.jpg",
+      "sha256": "34068f24851b9d12d235f27943d8928ceb69844b289392efee3da61ca87b2e02",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 262,
+      "rank": 74,
+      "screenshot": "screenshots/074-262.jpg",
+      "sha256": "ade560bb5556cd7ac184e7130a6579300301eefb9b3614ac78e825c743cc1d5d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2384,
+      "rank": 75,
+      "screenshot": "screenshots/075-2384.jpg",
+      "sha256": "ba092055e5a51a09af6bf7e45387435c693b2a9b96e3eee63219cbed593854af",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 105,
+      "rank": 76,
+      "screenshot": "screenshots/076-105.jpg",
+      "sha256": "59e4c507e36852fb3b5c91820ea227b932ea79f995950df1a84b6f8535a5bf80",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 169,
+      "rank": 77,
+      "screenshot": "screenshots/077-169.jpg",
+      "sha256": "a48669784de4728ce9f4746f09bf302c5882870cb85f49af2983b0e55e928b28",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 217,
+      "rank": 78,
+      "screenshot": "screenshots/078-217.jpg",
+      "sha256": "1aad3e0a23469a732d38d9d98e4c2d93d0300310ba366c43fbe07933c32fcc4e",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 151,
+      "rank": 79,
+      "screenshot": "screenshots/079-151.jpg",
+      "sha256": "bf655b2bc572a984809f27e708df538761f8c920894f00fcbd3c7d31e9832a58",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 88,
+      "rank": 80,
+      "screenshot": "screenshots/080-88.jpg",
+      "sha256": "98e3de898474c72531c3c3292ab6122a0d6e82212c6aacf2664f25239040df28",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 404,
+      "rank": 81,
+      "screenshot": "screenshots/081-404.jpg",
+      "sha256": "150c9d77b7d3a6b955a31377781d992fa2d852d47a2605a1593a9cd94c30e85d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 513,
+      "rank": 82,
+      "screenshot": "screenshots/082-513.jpg",
+      "sha256": "46a75b3e0a5419ade968d61e66cf5191efbde3ba60bd416a3cd075618d93fa3d",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 413,
+      "rank": 83,
+      "screenshot": "screenshots/083-413.jpg",
+      "sha256": "981ad1769fb54a691c31350acd2ed83bdb901364eb497c51db95f3d85e878d39",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 401,
+      "rank": 84,
+      "screenshot": "screenshots/084-401.jpg",
+      "sha256": "7bee714a8c6b51188eb90cb53b30c393985dbd68d52cb57d50779eea9a34734b",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 69,
+      "rank": 85,
+      "screenshot": "screenshots/085-69.jpg",
+      "sha256": "e935560e330e878a4ce606595704a984f91dbdfb667c3107fb857395fc4e7740",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 143,
+      "rank": 86,
+      "screenshot": "screenshots/086-143.jpg",
+      "sha256": "583e5fd83bd8658fa528765a6c910bf3f80bd680bc81c6137f7761f7bd9a68b5",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 487,
+      "rank": 87,
+      "screenshot": "screenshots/087-487.jpg",
+      "sha256": "c518ca09df58c8db56be1689e2259a3d747ec959a15f36094295da519f75b794",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 427,
+      "rank": 88,
+      "screenshot": "screenshots/088-427.jpg",
+      "sha256": "7f089682fcb68c423595d420c954f195d828d526af44c2bd4f76d17ea6070550",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 172,
+      "rank": 89,
+      "screenshot": "screenshots/089-172.jpg",
+      "sha256": "6b732c64df0acc1e05357f851feea3704de2c16e40495adae0734425bee3e4db",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 302,
+      "rank": 90,
+      "screenshot": "screenshots/090-302.jpg",
+      "sha256": "9229ca73a96dfa3699fa75ca06326f1873f8186902f8ddd5ed87da428e8cd54a",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 456,
+      "rank": 91,
+      "screenshot": "screenshots/091-456.jpg",
+      "sha256": "7b0a5861a06b3ddb995fb2b0ae06c6a957cd1f06f89ce674f2282dbb34565e9a",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 27,
+      "rank": 92,
+      "screenshot": "screenshots/092-27.jpg",
+      "sha256": "f5b7db752cbfa8d8d3ab1c5d611dadf21e9ef05eb9c99307d428b4a253f44cb2",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 184,
+      "rank": 93,
+      "screenshot": "screenshots/093-184.jpg",
+      "sha256": "06697ca5cf6f7c8b555462998476e74a598205681f4223cf3f7f6d7a235095ea",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 201,
+      "rank": 94,
+      "screenshot": "screenshots/094-201.jpg",
+      "sha256": "0ad6469f8c0cea4e1fc247144417ac3ff036ca69956139f7406cae854c6e7ffd",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 329,
+      "rank": 95,
+      "screenshot": "screenshots/095-329.jpg",
+      "sha256": "0c819c23da1632bde55bf897e1361087e17a10a360f55da503bcba32f0761d2e",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 305,
+      "rank": 96,
+      "screenshot": "screenshots/096-305.jpg",
+      "sha256": "d09aff7c28f1303ffbd8790758f31b5d2c865d80bf882e20baff8a2c80e90e07",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2319,
+      "rank": 97,
+      "screenshot": "screenshots/097-2319.jpg",
+      "sha256": "360f724f0b7eeeee89efbd1042d0d5cf765c920a7febf232b2ea2f0e46aedbd1",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 161,
+      "rank": 98,
+      "screenshot": "screenshots/098-161.jpg",
+      "sha256": "fabb8f21ac0ce88b78c39034f62b8d113b5710ac6622a9a17c04fcff0fa541c6",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 421,
+      "rank": 99,
+      "screenshot": "screenshots/099-421.jpg",
+      "sha256": "6c35a174ce3546de0445c7a176a202476035a82ab00634b19922398810483896",
+      "matches_central_fresh": true
+    },
+    {
+      "id": 2453,
+      "rank": 100,
+      "screenshot": "screenshots/100-2453.jpg",
+      "sha256": "a3155cf1b44d7c730614cbc7d7b05efffb96486af688b7ac795569f731e397ff",
+      "matches_central_fresh": true
+    }
+  ],
+  "repository_count": 53,
+  "audit_boundaries": [
+    "Repository structure and existing verification evidence were checked; repositories were not refetched by this static audit.",
+    "Screenshots match central fresh files byte for byte; prior visual judgments are not rescored by this script.",
+    "Source provenance and notes are preserved from the master collection; current enrollment is not independently certified."
+  ]
+}
