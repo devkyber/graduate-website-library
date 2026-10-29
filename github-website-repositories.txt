@@ -34,6 +34,10 @@ Lauren Hyoseo Yoon — Caltech
 Website: https://lauren-h-yoon.github.io/
 Source: https://github.com/lauren-h-yoon/lauren-h-yoon.github.io
 
+Sevan Brodjian — Caltech
+Website: https://www.sevanb.net/
+Source: https://github.com/SevanBrodjian/SevanBNet-frontend
+
 Bruno Kacper Mlodozeniec — Cambridge
 Website: https://brunokm.github.io/
 Source: https://github.com/BrunoKM/brunokm.github.io
@@ -97,6 +101,10 @@ Source: https://github.com/Keithllin/Keithllin.github.io
 Sarvesh Patil — Carnegie Mellon
 Website: https://servo97.github.io/
 Source: https://github.com/Servo97/Servo97.github.io
+
+Sidney Nimako — Carnegie Mellon
+Website: https://snibo.me
+Source: https://github.com/snibo13/snibo13.github.io
 
 Simran Khanuja — Carnegie Mellon
 Website: https://simran-khanuja.github.io/
@@ -314,6 +322,10 @@ Haoyu Han — Harvard
 Website: https://hyhan0118.github.io/
 Source: https://github.com/hyhan0118/hyhan0118.github.io
 
+Jianna So — Harvard
+Website: https://www.jiannaso.com/
+Source: https://github.com/jiannaso/jiso.design
+
 Leander Lauenburg — Harvard
 Website: https://lauenburg.github.io/
 Source: https://github.com/Lauenburg/lauenburg.github.io
@@ -413,6 +425,10 @@ Source: https://github.com/demireal/demireal.github.io
 Jyothish Pari — MIT
 Website: https://jyopari.github.io
 Source: https://github.com/jyopari/jyopari.github.io
+
+Kenneth Browder — MIT
+Website: https://kennethb.me
+Source: https://github.com/pandanautinspace/pandanautinspace.github.io
 
 Kimia Hamidieh — MIT
 Website: https://kimiah.github.io/
@@ -601,6 +617,10 @@ Source: https://github.com/wjzhang5464/wjzhang5464.github.io
 Zhaoying Pan — Purdue
 Website: https://zhaoyingpan.github.io/index.html
 Source: https://github.com/zhaoyingpan/zhaoyingpan.github.io
+
+Jingwei (Chris) Zuo — Rice
+Website: https://jingwei-zuo.com
+Source: https://github.com/Dr-Left/dr-left.github.io
 
 Aditya Kothari — Stanford
 Website: https://kothari1.github.io/
@@ -985,6 +1005,10 @@ Source: https://github.com/HyperPotatoNeo/HyperPotatoNeo.github.io
 Adam Saunders — Vanderbilt
 Website: https://saundersresearch.github.io/
 Source: https://github.com/saundersresearch/saundersresearch.github.io
+
+Sejal Agarwal — Waterloo
+Website: https://sejalagarwal.ca/
+Source: https://github.com/sejal-agarwal/sejal-notebook-portfolio
 
 Haojun Shi — Yale
 Website: https://stonehj05.github.io/
@@ -3826,10 +3850,6 @@ Jiaxun Li — UC Berkeley
 Website: https://aaron-jx-li.github.io/
 Source: https://github.com/aaron-jx-li/aaron-jx-li.github.io
 
-Jongho Park — UC Berkeley
-Website: https://jerryjonghopark.github.io/
-Source: https://github.com/jerryjonghopark/jerryjonghopark.github.io
-
 JoonHo Lee — UC Berkeley
 Website: https://jhlee0513.github.io/
 Source: https://github.com/JHLee0513/JHLee0513.github.io
@@ -3857,6 +3877,10 @@ Source: https://github.com/mayank31398/mayank31398.github.io
 Melissa Pan — UC Berkeley
 Website: https://melissa-pan.github.io/
 Source: https://github.com/melissa-pan/melissa-pan.github.io
+
+Mert Cemri — UC Berkeley
+Website: https://mert-cemri.github.io/
+Source: https://github.com/mert-cemri/mert-cemri.github.io
 
 Minhyuk Seo — UC Berkeley
 Website: https://dbd05088.github.io/
@@ -3897,10 +3921,6 @@ Source: https://github.com/skejriwal44/skejriwal44.github.io
 Sidhika Balachandar — UC Berkeley
 Website: https://sidhikabalachandar.github.io/
 Source: https://github.com/sidhikabalachandar/sidhikabalachandar.github.io
-
-Sijun Tan — UC Berkeley
-Website: https://jeffreysijuntan.github.io/
-Source: https://github.com/jeffreysijuntan/jeffreysijuntan.github.io
 
 Simeon Adebola — UC Berkeley
 Website: https://simeonoa.github.io/
@@ -5233,3 +5253,403 @@ Source: https://github.com/Echoo113/Echoo113.github.io
 Lixing Xiao — Zhejiang University
 Website: https://li-xingxiao.github.io/homepage/
 Source: https://github.com/Li-xingXiao/homepage
+
+Bill Yen — Stanford
+Website: https://www.billyen33.com/
+Source: https://github.com/billyen33/billyen33.github.io
+
+Chae Young Lee — Stanford
+Website: https://stanford.edu/~chae/
+Source: https://github.com/chaeyoung-lee/chaeyoung-lee.github.io
+
+Sydney Yan — Stanford
+Website: https://sydneyyan.github.io
+Source: https://github.com/sydneyyan/sydneyyan.github.io
+
+Abby Hartley — Stanford
+Website: https://abbyhartley.github.io/
+Source: https://github.com/abbyhartley/abbyhartley.github.io
+
+Shiye Su — Stanford
+Website: https://ssu53.github.io/
+Source: https://github.com/ssu53/ssu53.github.io
+
+Alejandro Lozano — Stanford
+Website: https://alejandro-lozano-dev.github.io/alejandro/
+Source: https://github.com/alejandro-lozano-dev/alejandro
+
+Fiona Cai — Stanford
+Website: https://fionacai.com/
+Source: https://github.com/fionaxc/fionaxc.github.io
+
+Saehui Hwang — Stanford
+Website: https://saehuihwang.github.io/
+Source: https://github.com/saehuihwang/saehuihwang.github.io
+
+Matthew Caren — Stanford
+Website: https://matthewcaren.github.io//
+Source: https://github.com/matthewcaren/matthewcaren.github.io
+
+Elizabeth Childs — Stanford
+Website: http://www.elchilds.su.domains
+Source: https://github.com/liberty293/liberty293.github.io
+
+Nicole Meister — Stanford
+Website: https://nicolemeister.github.io/
+Source: https://github.com/nicolemeister/nicolemeister.github.io
+
+Chenglei Si — Stanford
+Website: https://noviscl.github.io/
+Source: https://github.com/noviscl/noviscl.github.io
+
+Xiang Lisa Li — Stanford
+Website: https://xiangli1999.github.io/
+Source: https://github.com/xiangli1999/xiangli1999.github.io
+
+Jiyuan Tan — Stanford
+Website: https://jiyuan-tan.github.io/
+Source: https://github.com/jiyuan-tan/jiyuan-tan.github.io
+
+Shiangyi Lin — Stanford
+Website: https://shiangyilin.github.io/
+Source: https://github.com/shiangyilin/shiangyilin.github.io
+
+Keertana Chidambaram — Stanford
+Website: https://keertanavc.github.io/
+Source: https://github.com/keertanavc/keertanavc.github.io
+
+Ayush Sawarni — Stanford
+Website: https://sawarniayush.github.io/
+Source: https://github.com/sawarniayush/sawarniayush.github.io
+
+Thomas Deng — Stanford
+Website: https://thomasdeng2027.github.io/
+Source: https://github.com/thomasdeng2027/thomasdeng2027.github.io
+
+Megha Srivastava — Stanford
+Website: https://web.stanford.edu/~meghas/
+Source: https://github.com/meghabyte/meghabyte.github.io
+
+Jing Shang — Stanford
+Website: https://jshang21.github.io/
+Source: https://github.com/jshang21/jshang21.github.io
+
+Bryan Park — Stanford
+Website: https://bryan1292929.github.io/
+Source: https://github.com/bryan1292929/bryan1292929.github.io
+
+Anastasia Lyulina — Stanford
+Website: https://alyulina.github.io/
+Source: https://github.com/alyulina/alyulina.github.io
+
+James Ferrare — Stanford
+Website: https://jamesferrare.github.io/
+Source: https://github.com/jamesferrare/jamesferrare.github.io
+
+John (Jack) Dinsmore — Stanford
+Website: https://jack-dinsmore.github.io/
+Source: https://github.com/jack-dinsmore/jack-dinsmore.github.io
+
+Lindsay Popowski — Stanford
+Website: https://lipopowski.github.io/
+Source: https://github.com/lipopowski/lipopowski.github.io
+
+Seojin Lee — Stanford
+Website: https://slee20512.github.io/
+Source: https://github.com/slee20512/slee20512.github.io
+
+Elizabeth Jiwon Im — Stanford
+Website: https://imelizabeth.github.io
+Source: https://github.com/imelizabeth/imelizabeth.github.io
+
+Shayan Talaei — Stanford
+Website: https://shayantalaei.com
+Source: https://github.com/ShayanTalaei/ShayanTalaei.github.io
+
+Verity Yu Qing Lua — Stanford
+Website: https://vyqlua.github.io/
+Source: https://github.com/vyqlua/vyqlua.github.io
+
+Senem Işık — Stanford
+Website: https://senemashak.github.io/
+Source: https://github.com/senemashak/senemashak.github.io
+
+Zhilei Bei — MIT
+Website: https://zhileibei.github.io
+Source: https://github.com/zhileibei/zhileibei.github.io
+
+Adithya Bhaskara — MIT
+Website: https://officialadithya.github.io
+Source: https://github.com/officialadithya/officialadithya.github.io
+
+Yubo Cai — MIT
+Website: https://yubocai-poly.github.io/
+Source: https://github.com/yubocai-poly/yubocai-poly.github.io
+
+Xiaoyang Cao — MIT
+Website: https://xiaoyangcao1113.github.io/
+Source: https://github.com/XiaoyangCao1113/XiaoyangCao1113.github.io
+
+Peter G. Chang — MIT
+Website: https://petergchang.github.io/
+Source: https://github.com/petergchang/petergchang.github.io
+
+James Y. Chen — MIT
+Website: https://james-y-chen.github.io
+Source: https://github.com/james-y-chen/james-y-chen.github.io
+
+Yan Dai — MIT
+Website: https://yandaichn.github.io/
+Source: https://github.com/yandaichn/yandaichn.github.io
+
+Peter W. Hoffman — MIT
+Website: https://peter-w-hoffman.github.io/
+Source: https://github.com/peter-w-hoffman/peter-w-hoffman.github.io
+
+Valentio Iverson — MIT
+Website: https://valentioiverson.github.io/
+Source: https://github.com/valentioiverson/valentioiverson.github.io
+
+Nathanael Jo — MIT
+Website: https://nathanaj99.github.io/
+Source: https://github.com/nathanaj99/nathanaj99.github.io
+
+Sulekha Kishore — MIT
+Website: https://sukishore12.github.io/
+Source: https://github.com/sukishore12/sukishore12.github.io
+
+Youngjae Min — MIT
+Website: https://youngjae-min.github.io/
+Source: https://github.com/youngjae-min/youngjae-min.github.io
+
+Khai Nguyen — MIT
+Website: https://xkhainguyen.github.io/
+Source: https://github.com/xkhainguyen/xkhainguyen.github.io
+
+Chanwoo Park — MIT
+Website: https://chanwoo-park-official.github.io/
+Source: https://github.com/chanwoo-park-official/chanwoo-park-official.github.io
+
+Manuel Quintero Coronel — MIT
+Website: https://manuelquinteroc.github.io/
+Source: https://github.com/manuelquinteroc/manuelquinteroc.github.io
+
+Amit Rajaraman — MIT
+Website: https://amitrajaraman.github.io/
+Source: https://github.com/amitrajaraman/amitrajaraman.github.io
+
+Shahzar Rizvi — MIT
+Website: https://shahzarrizvi.github.io/
+Source: https://github.com/shahzarrizvi/shahzarrizvi.github.io
+
+Alok Shah — MIT
+Website: http://alokshah04.github.io
+Source: https://github.com/alokshah04/alokshah04.github.io
+
+Hongwei Tu — MIT
+Website: https://liamt01.github.io/
+Source: https://github.com/LiamT01/liamt01.github.io
+
+Sasha Voitovych — MIT
+Website: https://sashavoitovych.github.io/
+Source: https://github.com/sashavoitovych/sashavoitovych.github.io
+
+Jia Wan — MIT
+Website: https://jw3479.github.io/
+Source: https://github.com/jw3479/jw3479.github.io
+
+Yufeng Wu — MIT
+Website: https://yufeng-wu.github.io/
+Source: https://github.com/yufeng-wu/yufeng-wu.github.io
+
+Yuhan Ye — MIT
+Website: https://yeyuhanyyh.github.io/
+Source: https://github.com/yeyuhanyyh/yeyuhanyyh.github.io
+
+Kai S. Yun — MIT
+Website: https://kaiyun717.github.io/
+Source: https://github.com/kaiyun717/kaiyun717.github.io
+
+Songyuan Zhang — MIT
+Website: https://syzhang092218-source.github.io
+Source: https://github.com/syzhang092218-source/syzhang092218-source.github.io
+
+Cai Zhou — MIT
+Website: https://zhouc20.github.io/zhouc.ai
+Source: https://github.com/zhouc20/zhouc.ai
+
+Julie Zhu — MIT
+Website: https://qianyu-zhu.github.io/
+Source: https://github.com/qianyu-zhu/qianyu-zhu.github.io
+
+Ying Feng — MIT
+Website: https://yinggggfeng.github.io/
+Source: https://github.com/YinggggFeng/YinggggFeng.github.io
+
+Junhong Lin — MIT
+Website: https://junhongmit.github.io/
+Source: https://github.com/junhongmit/junhongmit.github.io
+
+Lichen Zhang — MIT
+Website: https://lczh.github.io/
+Source: https://github.com/lczh/lczh.github.io
+
+Ben Holmes — MIT
+Website: https://bencw12.github.io/
+Source: https://github.com/bencw12/bencw12.github.io
+
+Dongjae Lee — MIT
+Website: https://dongjaelee1.github.io/
+Source: https://github.com/dongjaelee1/dongjaelee1.github.io
+
+Sanjit Bhat — MIT
+Website: https://sanjit-bhat.github.io/
+Source: https://github.com/sanjit-bhat/sanjit-bhat.github.io
+
+Yun-Sheng Chang — MIT
+Website: https://yunshengtw.github.io/
+Source: https://github.com/yunshengtw/yunshengtw.github.io
+
+Steven Roche — MIT
+Website: https://sroche14.github.io/
+Source: https://github.com/SRoche14/SRoche14.github.io
+
+Qijia Zhou — Harvard
+Website: https://qijiazhou.github.io
+Source: https://github.com/qijiazhou/qijiazhou.github.io
+
+Briony Waite — Harvard
+Website: https://briwaite.github.io/
+Source: https://github.com/briwaite/briwaite.github.io
+
+Bobby Sparks — Harvard
+Website: https://rbzsparks.github.io/
+Source: https://github.com/rbzsparks/rbzsparks.github.io
+
+Lucy Liu — Harvard
+Website: https://lliu12.github.io/
+Source: https://github.com/lliu12/lliu12.github.io
+
+Abigail M. Jackson — Harvard
+Website: https://abigailmjackson.github.io
+Source: https://github.com/abigailmjackson/abigailmjackson.github.io
+
+Zilin Dai — Harvard
+Website: https://tc4451.github.io/
+Source: https://github.com/TC4451/TC4451.github.io
+
+Meriel Doyle — Harvard
+Website: https://mcd710.github.io
+Source: https://github.com/mcd710/mcd710.github.io
+
+Yuanze Liu — Harvard
+Website: https://yuanzeliu.github.io
+Source: https://github.com/yuanzeliu/yuanzeliu.github.io
+
+Ryan Seaman — Harvard
+Website: https://rpseaman.com/
+Source: https://github.com/RPSeaman/RPSeaman.github.io
+
+Mark Bedaywi — UC Berkeley
+Website: https://markbedaywi.ca/
+Source: https://github.com/Supermac30/supermac30.github.io
+
+Yuhang Cai — UC Berkeley
+Website: https://willcai7.github.io/
+Source: https://github.com/willcai7/willcai7.github.io
+
+Josh Davis — UC Berkeley
+Website: https://jxshdavis.github.io/
+Source: https://github.com/jxshdavis/jxshdavis.github.io
+
+Yihan Geng — UC Berkeley
+Website: https://yihan04.github.io/
+Source: https://github.com/yihan04/yihan04.github.io
+
+Haozhe Jiang — UC Berkeley
+Website: https://astro-eric.github.io
+Source: https://github.com/Astro-Eric/Astro-Eric.github.io
+
+Juno Kim — UC Berkeley
+Website: https://junokim1.github.io/
+Source: https://github.com/junokim1/junokim1.github.io
+
+Brian Lee — UC Berkeley
+Website: https://bl-ee.github.io/
+Source: https://github.com/bl-ee/bl-ee.github.io
+
+Kunjun Li — UC Berkeley
+Website: https://kunjun-li.github.io/
+Source: https://github.com/Kunjun-Li/kunjun-li.github.io
+
+Inioluwa Deborah Raji — UC Berkeley
+Website: https://rajiinio.github.io/
+Source: https://github.com/rajiinio/rajiinio.github.io
+
+Ricardo J. Sandoval — UC Berkeley
+Website: https://ricardojsandoval.github.io/
+Source: https://github.com/RicardoJSandoval/RicardoJSandoval.github.io
+
+Lucas Schwengber — UC Berkeley
+Website: https://lucas-schwengber.github.io/
+Source: https://github.com/Lucas-Schwengber/lucas-schwengber.github.io
+
+Annie Ulichney — UC Berkeley
+Website: https://aulichney.github.io/
+Source: https://github.com/aulichney/aulichney.github.io
+
+Anqi Wang — UC Berkeley
+Website: https://anqiwang02.github.io/
+Source: https://github.com/anqiwang02/anqiwang02.github.io
+
+Xuelin Yang — UC Berkeley
+Website: http://xyang23.github.io
+Source: https://github.com/xyang23/xyang23.github.io
+
+Zeyu Yun — UC Berkeley
+Website: https://zeyuyun1.github.io/
+Source: https://github.com/zeyuyun1/zeyuyun1.github.io
+
+Boru Chen — UC Berkeley
+Website: https://bluechen8.github.io/
+Source: https://github.com/bluechen8/bluechen8.github.io
+
+Sizhe Chen — UC Berkeley
+Website: https://sizhe-chen.github.io/
+Source: https://github.com/Sizhe-Chen/Sizhe-Chen.github.io
+
+Ryan Lehmkuhl — UC Berkeley
+Website: https://ryanleh.me/
+Source: https://github.com/ryanleh/ryanleh.github.io
+
+Rebecca Saul — UC Berkeley
+Website: https://rbsaul.github.io/
+Source: https://github.com/rbsaul/rbsaul.github.io
+
+Alan Wang — UC Berkeley
+Website: https://urd00m.github.io/
+Source: https://github.com/urd00m/urd00m.github.io
+
+Meng Chen — UC Berkeley
+Website: https://meng-chen.com/
+Source: https://github.com/Casardo-Chen/casardo-chen.github.io
+
+Nicole Goridkov — UC Berkeley
+Website: https://goridkov.github.io/
+Source: https://github.com/goridkov/goridkov.github.io
+
+Kevin Ma — UC Berkeley
+Website: https://kevinma1515.github.io/
+Source: https://github.com/kevinma1515/kevinma1515.github.io
+
+Deepthi Bannai — UC Berkeley
+Website: https://dbannai.github.io/
+Source: https://github.com/dbannai/dbannai.github.io
+
+Chad Harper — UC Berkeley
+Website: https://chadharper.github.io/
+Source: https://github.com/chadHarper/chadHarper.github.io
+
+Tejasvi Kothapalli — UC Berkeley
+Website: https://tejasvikothapalli.github.io/
+Source: https://github.com/tejasvikothapalli/tejasvikothapalli.github.io

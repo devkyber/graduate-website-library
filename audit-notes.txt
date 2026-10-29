@@ -1,25 +1,21 @@
-Graduate website reference library
-Checked 29 October 2026
+Graduate website reference library — checked 29 October 2026
 
-2281 unique personal websites; 72 university/institute affiliations; 521 visual shortlist picks; 1309 matched public website repositories.
+2459 unique personal websites; 72 institutions; 587 visual shortlist picks; 1414 matched public website repositories.
 
-Method
-University lab and research-group rosters were used to discover the personal links. Some links were followed through a lab member profile or a redirect; the source chain is included. Current graduate affiliation was checked against the roster and personal biography. A newer completed-degree or postdoctoral/employment biography was grounds for exclusion, unless the author explicitly also identified as a current graduate student. A small number explicitly on PhD leave are labeled. Previous-lab discovery can lead to a current graduate at a different university; the current affiliation is shown.
+This update adds 178 personal websites to the recorded baseline of 2281. The starting artifact contained 2,281, rather than the 2,282 mentioned in the request. See expansion-report.json for exact university changes and updated existing profiles.
 
-Every included site has a rendered desktop screenshot review. The shortlist records specific visual observations; the broader collection includes conventional, readable academic layouts as well as distinctive creative portfolios. This was not a complete accessibility or mobile audit of each external website.
+Discovery and eligibility
+Personal links were discovered through university lab and research-group rosters, sometimes through an exact link on a member profile. Source chains are preserved. Current graduate affiliation was checked against those sources and the personal biography. A newer completed-degree, undergraduate-only, or postdoctoral/employment-only biography was grounds for exclusion. Prior lab discovery can lead to a graduate at another institution; current affiliation is shown. A small number of earlier entries explicitly on graduate-study leave remain labeled.
 
-GitHub source links were matched from the GitHub Pages host and repository path, then checked through the public repository API for repository identity and Pages enabled. General GitHub profile links are separate. A repository match does not imply a license to reuse every image or personal text.
+Visual selection
+Every included site has a rendered desktop screenshot review. New additions received fresh visual review and specific design observations. Readable conventional academic layouts are included alongside distinctive portfolios; design picks highlight stronger visual ideas. This is not a complete mobile or accessibility audit of external sites. The separate top-100 editorial ranking is preserved from the earlier collection and has not been reranked against these new additions.
 
-URL, redirect and name-within-university duplicates were removed. No faculty, postdoctoral-only, undergraduate-only, generic institutional profile, parked-domain, or error-page entries were intentionally included. Public pages can be stale or change after checking; review dates are recorded.
+Repositories
+GitHub Pages matches use public repository identity and enabled Pages, or matching public website source files. Custom-domain matches use CNAME files, explicit source links, or matching source content. Per-entry matching evidence is recorded. General GitHub profiles are separate from website repositories. Where no license was recorded, the interface says so; screenshots and linked content belong to their authors.
 
-Coverage is broad, not an assertion that every lab at each university was visited. Counts vary by institution. Caltech has 60 accepted entries; the earlier target of 100 for every named university remains unmet there. The expanded target of at least 2,000 overall is met.
+Quality and limits
+URLs, resolved URLs, and names within an institution were reconciled. Existing IDs remain stable. Moved sites update an existing person instead of increasing the count. New sites with placeholder content, broken rendering, or unsupported graduate status were excluded. Older entries retain their earlier checks unless listed as updated; this expansion did not revalidate every external link in the whole collection. Public pages can change after review.
 
-Files
-graduate-website-library.html — searchable preview gallery, works offline after unzipping
-all-links.txt — named links with lab provenance and repository matches
-website-urls-only.txt — one personal website URL per line
-github-website-repositories.txt — website / source-code pairs
-design-shortlist.txt — selected visual examples and observations
-source-register.json — full compact data
-counts.json — university counts
-previews/ — local screenshot thumbnails
+Coverage is broad, not an assertion that every lab was visited. The five focus institutions are Stanford, MIT, Harvard, UC Berkeley, and Caltech, reflecting the original request. The Caltech pass found no additional eligible personal sites; its total stays 60, below the original per-university target of 100. The overall target of at least 2,000 remains met.
+
+Browse graduate-website-library.html locally, or the public GitHub Pages index.html. all-links.txt contains named links; website-urls-only.txt contains one URL per line. source-register.json contains provenance, screenshot paths, and repository matches. new-additions.json and new-additions-links.txt isolate the new material.

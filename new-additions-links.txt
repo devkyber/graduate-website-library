@@ -1,0 +1,989 @@
+Rohith Kuditipudi — Stanford
+https://web.stanford.edu/~rohithk/
+Lab source: https://web.stanford.edu/~jduchi/group.html
+A small circular portrait balances a narrow biography; publication titles form a simple blue-link reading column.
+
+Saminul Haque — Stanford
+https://web.stanford.edu/~saminulh/
+Lab source: https://web.stanford.edu/~jduchi/group.html
+Serif typography, a right-aligned portrait, and bulleted publications keep a long research list compact.
+
+Yifan Zhu — Stanford
+https://fanzhuyifan.github.io
+Lab source: https://web.stanford.edu/~jduchi/group.html
+A thin gray navigation rail and ruled section headings give the compact research summary a familiar academic structure.
+
+Emily Goodwin — Stanford
+https://emilygoodwin.github.io/
+Lab source: https://alpslab.stanford.edu/people.html
+The portrait and contact links occupy a quiet left column while updates and publications share one clear reading column.
+
+Bill Yen — Stanford
+https://www.billyen33.com/
+Lab source: https://s4lab.stanford.edu/people
+A green navigation rail contrasts with a forest photograph background; boxed project highlights lead into the technical work.
+Website source code: https://github.com/billyen33/billyen33.github.io
+
+Jasmin Falconer — Stanford
+https://jasminfalconer.sites.stanford.edu/
+Lab source: https://s4lab.stanford.edu/people
+A wide landscape photograph carries a small introduction card, followed by three illustrated paths into research and mentoring.
+
+Geneva Ecola — Stanford
+https://www.genevaecola.com/
+Lab source: https://s4lab.stanford.edu/people
+Lavender navigation, generous spacing, and white research cards soften a dense technical biography without losing hierarchy.
+
+Jida Zhang — Stanford
+https://giddazhang.github.io/
+Lab source: https://s4lab.stanford.edu/people
+The bilingual name, small portrait, and restrained blue links make the publication list easy to scan.
+
+Chae Young Lee — Stanford
+https://stanford.edu/~chae/
+Lab source: https://s4lab.stanford.edu/people
+A compact portrait header gives way to image-and-text publication rows, making wireless sensing projects tangible.
+Website source code: https://github.com/chaeyoung-lee/chaeyoung-lee.github.io
+
+Sydney Yan — Stanford
+https://sydneyyan.github.io
+Lab source: https://s4lab.stanford.edu/people
+A warm beige biography panel sits beside stacked personal photographs, with a thin top navigation and ample white space.
+Website source code: https://github.com/sydneyyan/sydneyyan.github.io
+
+Steven Cao — Stanford
+https://stevenxcao.github.io/
+Lab source: https://statsml.stanford.edu/students.html
+A compact profile leads into a two-column grid of illustrated recent papers, making research the first visual destination.
+
+Abby Hartley — Stanford
+https://abbyhartley.github.io/
+Lab source: https://kipac.stanford.edu/people/graduate-students-0
+An expansive nebula hero transitions into a blue gradient biography, connecting the astronomy research and art portfolio visually.
+Website source code: https://github.com/abbyhartley/abbyhartley.github.io
+
+Min Woo Sun — Stanford
+https://minwoosun.github.io/
+Lab source: https://marvl.stanford.edu/people.html
+Small, colorful paper figures punctuate a narrow publication column beneath a very compact portrait and biography.
+
+Mark Endo — Stanford
+https://web.stanford.edu/~markendo/
+Lab source: https://marvl.stanford.edu/people.html
+A small headshot header and widely separated research rows give each paper figure its own readable space.
+
+Leon Liangyu Chen — Stanford
+https://cliangyu.com/
+Lab source: https://marvl.stanford.edu/people.html
+The biography wraps around a tall portrait and gives way to illustrated publication summaries with blue title links.
+
+Shiye Su — Stanford
+https://ssu53.github.io/
+Lab source: https://marvl.stanford.edu/people.html
+Pale green framing and a prominent illustrated image lend personality to otherwise spare research typography.
+Website source code: https://github.com/ssu53/ssu53.github.io
+
+Alejandro Lozano — Stanford
+https://alejandro-lozano-dev.github.io/alejandro/
+Lab source: https://marvl.stanford.edu/people.html
+A faint network diagram frames translucent white biography and news panels, adding texture while preserving a clear reading area.
+Website source code: https://github.com/alejandro-lozano-dev/alejandro
+
+Fiona Cai — Stanford
+https://fionacai.com/
+Lab source: https://marvl.stanford.edu/people.html
+Lowercase headings and a tall personal photograph produce a relaxed introduction above a clean, compact publication list.
+Website source code: https://github.com/fionaxc/fionaxc.github.io
+
+Yujie Tao — Stanford
+https://yujietao.me
+Lab source: https://shape.stanford.edu/people/
+A circular portrait anchors the biography; publication rows pair large demonstration thumbnails with concise project descriptions.
+
+Saehui Hwang — Stanford
+https://saehuihwang.github.io/
+Lab source: https://shape.stanford.edu/people/
+Oversized blue serif name lettering, a warm cream background, and a sky-blue strip of project images create a memorable opening.
+Website source code: https://github.com/saehuihwang/saehuihwang.github.io
+
+Matthew Caren — Stanford
+https://matthewcaren.github.io//
+Lab source: https://shape.stanford.edu/people/
+Heavy black rules, oversized split name typography, and terse multi-column introductions establish a distinctive artist-researcher identity.
+Website source code: https://github.com/matthewcaren/matthewcaren.github.io
+
+Elizabeth Childs — Stanford
+http://www.elchilds.su.domains
+Lab source: https://charm.stanford.edu/Main/People
+A persistent profile sidebar supports a large illustrated project hero and rounded information cards with clear calls into the work.
+Website source code: https://github.com/liberty293/liberty293.github.io
+
+Henry Robbins — Stanford
+https://henryrobbins.com/
+Lab source: https://vitercik.github.io/group/
+A narrow ruled sidebar, grayscale portrait, and three-column experience cards turn a research résumé into a coherent visual system.
+
+Yingxi Li — Stanford
+https://yingxi-li.github.io/
+Lab source: https://vitercik.github.io/group/
+The photograph shares a row with the opening biography, followed by clearly separated publication and internship sections.
+
+Anders Wikum — Stanford
+https://anders-wikum.github.io/
+Lab source: https://vitercik.github.io/group/
+Selected publications use bright diagram thumbnails beneath a quiet biography and compact top navigation.
+
+Yu He — Stanford
+https://dransyhe.github.io/
+Lab source: https://vitercik.github.io/group/
+A left portrait rail and lavender research-interest callout separate identity, current focus, and chronological news.
+
+Nicole Meister — Stanford
+https://nicolemeister.github.io/
+Lab source: https://thashim.github.io/
+A wide personal photograph balances the introduction, and pale yellow highlights draw attention to a featured research paper.
+Website source code: https://github.com/nicolemeister/nicolemeister.github.io
+
+Chenglei Si — Stanford
+https://noviscl.github.io/
+Lab source: https://thashim.github.io/
+A slim left-aligned layout, bracketed navigation labels, and an informal photograph give a dense research biography a personal tone.
+Website source code: https://github.com/noviscl/noviscl.github.io
+
+Xiang Lisa Li — Stanford
+https://xiangli1999.github.io/
+Lab source: https://thashim.github.io/
+A portrait at the edge of the biography and generous gaps between paper entries keep the long research page approachable.
+Website source code: https://github.com/xiangli1999/xiangli1999.github.io
+
+Jiyuan Tan — Stanford
+https://jiyuan-tan.github.io/
+Lab source: https://www.vsyrgkanis.com/
+A bright floral banner introduces the profile, while three compact research cards summarize distinct research directions.
+Website source code: https://github.com/jiyuan-tan/jiyuan-tan.github.io
+
+Shiangyi Lin — Stanford
+https://shiangyilin.github.io/
+Lab source: https://www.vsyrgkanis.com/
+The standard profile rail is kept sparse, leaving the main column to prioritize publications and teaching.
+Website source code: https://github.com/shiangyilin/shiangyilin.github.io
+
+Keertana Chidambaram — Stanford
+https://keertanavc.github.io/
+Lab source: https://www.vsyrgkanis.com/
+A slim identity sidebar and small uppercase section labels create an orderly rhythm across news and publication entries.
+Website source code: https://github.com/keertanavc/keertanavc.github.io
+
+Ayush Sawarni — Stanford
+https://sawarniayush.github.io/
+Lab source: https://www.vsyrgkanis.com/
+A small circular portrait and vertical social links reserve most of the width for structured interests and publications.
+Website source code: https://github.com/sawarniayush/sawarniayush.github.io
+
+Jikai Jin — Stanford
+https://jkjin.com/
+Lab source: https://www.vsyrgkanis.com/
+A pale cyan canvas, serif italic name, and unusually generous negative space make the introductory research statement stand out.
+
+Thomas Deng — Stanford
+https://thomasdeng2027.github.io/
+Lab source: https://iprl.stanford.edu/
+An oversized circular portrait and pale cream canvas frame blue section labels and white project cards.
+Website source code: https://github.com/thomasdeng2027/thomasdeng2027.github.io
+
+Megha Srivastava — Stanford
+https://web.stanford.edu/~meghas/
+Lab source: https://iliad.stanford.edu/people/
+A compact serif header, green navigation links, and a pale blue updates panel organize a text-heavy research introduction.
+Website source code: https://github.com/meghabyte/meghabyte.github.io
+
+Aditya Ghosh — Stanford
+https://ghoshadi.github.io/
+Lab source: https://web.stanford.edu/~swager/team.html
+A warm off-white canvas and three equal research cards provide a concise visual summary beside a neatly aligned portrait.
+
+Jing Shang — Stanford
+https://jshang21.github.io/
+Lab source: https://web.stanford.edu/~swager/team.html
+A fine-line portrait and city skyline share the hero with a concise biography, followed by a restrained slate footer.
+Website source code: https://github.com/jshang21/jshang21.github.io
+
+Bryan Park — Stanford
+https://bryan1292929.github.io/
+Lab source: https://web.stanford.edu/~swager/team.html
+A small landscape portrait sits above a text-first profile, with crisp subheads separating articles, notes, and employment history.
+Website source code: https://github.com/bryan1292929/bryan1292929.github.io
+
+Anastasia Lyulina — Stanford
+https://alyulina.github.io/
+Lab source: https://bgoodlab.github.io/people/
+A high-contrast serif name, pink navigation accent, and monochrome cutout portrait give the short biography an editorial feel.
+Website source code: https://github.com/alyulina/alyulina.github.io
+
+James Ferrare — Stanford
+https://jamesferrare.github.io/
+Lab source: https://bgoodlab.github.io/people/
+A thin dark navigation bar and a large rounded travel portrait frame an approachable, concise research biography.
+Website source code: https://github.com/jamesferrare/jamesferrare.github.io
+
+John McEnany — Stanford
+https://sites.google.com/view/john-mcenany-research/
+Lab source: https://bgoodlab.github.io/people/
+A dark photographic title band and a large outdoor portrait introduce clearly separated education and publication sections.
+
+John (Jack) Dinsmore — Stanford
+https://jack-dinsmore.github.io/
+Lab source: https://kipac.stanford.edu/people/graduate-students-0
+Centered serif typography, a subtle gold rule, and a square portrait establish a simple, coherent research landing page.
+Website source code: https://github.com/jack-dinsmore/jack-dinsmore.github.io
+
+Delon Shen — Stanford
+https://delonshen.com
+Lab source: https://kipac.stanford.edu/people/graduate-students-0
+Bold serif section labels and a numbered publication list present a compact text-first alternative to image-heavy portfolios.
+
+Lindsay Popowski — Stanford
+https://lipopowski.github.io/
+Lab source: https://sml.stanford.edu/about-people
+A narrow news column sits beside the portrait-led biography, allowing updates and longer research context to coexist above the fold.
+Website source code: https://github.com/lipopowski/lipopowski.github.io
+
+Seojin Lee — Stanford
+https://slee20512.github.io/
+Lab source: https://vpnl.stanford.edu/people
+Green navigation accents and a large oval portrait soften the readable, text-first account of research questions.
+Website source code: https://github.com/slee20512/slee20512.github.io
+
+Elizabeth Jiwon Im — Stanford
+https://imelizabeth.github.io
+Lab source: https://vpnl.stanford.edu/people
+A pale mint canvas, oval portrait, and fine pink accents give the research biography and news list a gentle visual identity.
+Website source code: https://github.com/imelizabeth/imelizabeth.github.io
+
+Abhinav Chinta — Stanford
+https://abhinavchinta.com
+Lab source: https://ldr.stanford.edu/people/
+A narrow biography column and tiny portrait lead into dated news and cleanly separated publications.
+
+Shayan Talaei — Stanford
+https://shayantalaei.com
+Lab source: https://ldr.stanford.edu/people/
+A portrait sidebar collects advisors and mentees, leaving the main column free for research context and selected publications.
+Website source code: https://github.com/ShayanTalaei/ShayanTalaei.github.io
+
+Dhruba Ghosh — Stanford
+https://djghosh13.github.io/
+Lab source: https://people.csail.mit.edu/ludwigs/group.html
+A large oval portrait and muted blue links give the spacious AcademicPages biography a clear profile-to-content hierarchy.
+
+Verity Yu Qing Lua — Stanford
+https://vyqlua.github.io/
+Lab source: https://culture-emotion-lab.stanford.edu/people/members
+A pastel watercolor background surrounds a charcoal profile panel, with blue link accents and a compact personal introduction.
+Website source code: https://github.com/vyqlua/vyqlua.github.io
+
+Senem Işık — Stanford
+https://senemashak.github.io/
+Lab source: https://ldr.stanford.edu/people/
+Warm cream paper coloring, serif headings, and an asymmetric research-and-notes layout create a calm editorial reading experience.
+Website source code: https://github.com/senemashak/senemashak.github.io
+
+Akshat Agarwal — MIT
+https://www.aaagarwal.com/
+Lab source: https://lids.mit.edu/people/students
+Compact bio and portrait split, large black contact icons, and a sparse publications navigation.
+
+Rui Ai — MIT
+https://air-8.github.io
+Lab source: https://lids.mit.edu/people/students
+Traditional research CV with thin pale-blue section bands and a dense, consistent bibliography.
+
+Meshal Alharbi — MIT
+https://www.malharbi.me
+Lab source: https://lids.mit.edu/people/students
+Clean sans-serif biography, portrait at right, and compact publication titles with small action buttons.
+
+Zhilei Bei — MIT
+https://zhileibei.github.io
+Lab source: https://lids.mit.edu/people/students
+Slim portrait sidebar, generous body width, bold research headings, and a clear top navigation.
+Website source code: https://github.com/zhileibei/zhileibei.github.io
+
+Adithya Bhaskara — MIT
+https://officialadithya.github.io
+Lab source: https://lids.mit.edu/people/students
+White academic profile with a dated news table, a single large portrait, and a burgundy footer rule.
+Website source code: https://github.com/officialadithya/officialadithya.github.io
+
+Aron Brenner — MIT
+https://www.aronbrenner.com/
+Lab source: https://lids.mit.edu/people/students
+Research-first white page with a narrow author rail and clearly separated About, Research, and Publications sections.
+
+Yubo Cai — MIT
+https://yubocai-poly.github.io/
+Lab source: https://lids.mit.edu/people/students
+Warm cream background, lightly tinted biography panel, serif greeting, and a narrow identity sidebar.
+Website source code: https://github.com/yubocai-poly/yubocai-poly.github.io
+
+Xiaoyang Cao — MIT
+https://xiaoyangcao1113.github.io/
+Lab source: https://lids.mit.edu/people/students
+Large serif name, quiet pink links, an offset portrait, and a tab row above image-led publications.
+Website source code: https://github.com/XiaoyangCao1113/XiaoyangCao1113.github.io
+
+Peter G. Chang — MIT
+https://petergchang.github.io/
+Lab source: https://lids.mit.edu/people/students
+ASCII-art masthead, cream background, monospace body, and brightly colored inline links create a distinctive retro page.
+Website source code: https://github.com/petergchang/petergchang.github.io
+
+James Y. Chen — MIT
+https://james-y-chen.github.io
+Lab source: https://lids.mit.edu/people/students
+Compact identity row, a short research question list, and illustrated publications with colored venue badges.
+Website source code: https://github.com/james-y-chen/james-y-chen.github.io
+
+Yan Dai — MIT
+https://yandaichn.github.io/
+Lab source: https://lids.mit.edu/people/students
+Circular portrait, high-density dated news, and fine section rules organize a text-heavy research CV.
+Website source code: https://github.com/yandaichn/yandaichn.github.io
+
+Marc Franquesa Monés — MIT
+https://marcfm.com
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Small circular portrait and short dated news entries keep a lightweight biography page compact.
+
+Kimia Hassibi — MIT
+https://sites.mit.edu/hassibi/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+MIT-red masthead and a large portrait anchor an individually authored WordPress academic profile.
+
+Peter W. Hoffman — MIT
+https://peter-w-hoffman.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Black-and-white portrait, short introduction, and image-led selected publications keep attention on the work.
+Website source code: https://github.com/peter-w-hoffman/peter-w-hoffman.github.io
+
+Kai M. Hung — MIT
+https://kaimhung.dev
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+A lavender announcement strip separates the biographical introduction from the dated research news.
+
+Valentio Iverson — MIT
+https://valentioiverson.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Portrait and personal links sit in a left rail, while research themes receive a separate main-column section.
+Website source code: https://github.com/valentioiverson/valentioiverson.github.io
+
+Nathanael Jo — MIT
+https://nathanaj99.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Warm paper background, bold all-caps name, circular portrait, and a two-column research map create a clear editorial hierarchy.
+Website source code: https://github.com/nathanaj99/nathanaj99.github.io
+
+Sulekha Kishore — MIT
+https://sukishore12.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Cream identity rail, large serif section headings, and modular research blocks make the content easy to browse.
+Website source code: https://github.com/sukishore12/sukishore12.github.io
+
+Abhinav Kumar — MIT
+https://abhinavkumar.info/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Narrow centered column, circular portrait, muted pink navigation, and a research statement before the publication list.
+
+Haiwen Li — MIT
+https://haiwenli.dev/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Strong sans-serif identity, generous white space, education cards, and a distinct recent-publications section.
+
+Jiarui Li — MIT
+https://jiaruili.com
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Small portrait at right and a long dated news table lead into the research bibliography.
+
+Arya Maheshwari — MIT
+https://amaheshwari.com
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Small photo sidebar and two-column biography/publications structure use restrained serif headings.
+
+Youngjae Min — MIT
+https://youngjae-min.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Centered circular portrait and biography lead directly into a compact illustrated research gallery.
+Website source code: https://github.com/youngjae-min/youngjae-min.github.io
+
+Khai Nguyen — MIT
+https://xkhainguyen.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Short research agenda and pale-blue open-source panel separate the work from a long news list.
+Website source code: https://github.com/xkhainguyen/xkhainguyen.github.io
+
+Chanwoo Park — MIT
+https://chanwoo-park-official.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Full-width personal photograph, large white name, and a narrow portrait overlapping the navigation create a memorable hero.
+Website source code: https://github.com/chanwoo-park-official/chanwoo-park-official.github.io
+
+Phevos Paschalidis — MIT
+https://sites.mit.edu/phevosp/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+MIT-red header, large landscape portrait, and prominent CV button make a simple academic profile easy to navigate.
+
+Francisco Pernice — MIT
+https://sites.google.com/view/franciscopernice/home
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Dark geometric name banner contrasts with a sparse white biographical page and a large portrait.
+
+Manuel Quintero Coronel — MIT
+https://manuelquinteroc.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Warm-colored links, a playful outdoor portrait, and a fixed profile rail frame a chronological news section.
+Website source code: https://github.com/manuelquinteroc/manuelquinteroc.github.io
+
+Amit Rajaraman — MIT
+https://amitrajaraman.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+A narrow essay-like introduction, circular inset portrait, and blue inline links make a personal text-first homepage.
+Website source code: https://github.com/amitrajaraman/amitrajaraman.github.io
+
+Shahzar Rizvi — MIT
+https://shahzarrizvi.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Spacious biography and publications navigation, a right-hand portrait, and muted pink links.
+Website source code: https://github.com/shahzarrizvi/shahzarrizvi.github.io
+
+Alok Shah — MIT
+http://alokshah04.github.io
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Compact biographical split, landscape portrait, and distinct sections for research, projects, and teaching.
+Website source code: https://github.com/alokshah04/alokshah04.github.io
+
+Oswin So — MIT
+https://oswinso.xyz/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+A clear name header, right-hand portrait, pink links, and a dated news list make a readable robotics profile.
+
+Ashkan Soleymani — MIT
+https://ashkansoleymani.lids.mit.edu/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Dark fixed profile sidebar, understated serif name, and a separate news section form a disciplined academic layout.
+
+Hongwei Tu — MIT
+https://liamt01.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Short introduction and large portrait lead into badge-marked publications and a separate latest-posts section.
+Website source code: https://github.com/LiamT01/liamt01.github.io
+
+Sasha Voitovych — MIT
+https://sashavoitovych.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Large portrait and a compact Highlights block lead into an ordered, text-led publication list.
+Website source code: https://github.com/sashavoitovych/sashavoitovych.github.io
+
+Jia Wan — MIT
+https://jw3479.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Very narrow centered reading column, a large portrait, and a separate research introduction preserve a simple hierarchy.
+Website source code: https://github.com/jw3479/jw3479.github.io
+
+Zekai Wang — MIT
+https://zekai.site
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Large sans-serif name, right-hand portrait, and colored publication badges with small paper actions.
+
+Yufeng Wu — MIT
+https://yufeng-wu.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+A fixed identity rail and consistent research-figure thumbnails organize news and papers.
+Website source code: https://github.com/yufeng-wu/yufeng-wu.github.io
+
+Yuhan Ye — MIT
+https://yeyuhanyyh.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Cream paper-like background, thin horizontal rules, and compact text-first publications recall a traditional research CV.
+Website source code: https://github.com/yeyuhanyyh/yeyuhanyyh.github.io
+
+Eric Yang Yu — MIT
+https://ericyangyu.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Pale-blue biography and news panels with alternating dated rows make the page easy to scan.
+
+Mingxin Yu — MIT
+https://mingxiny.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Large portrait sidebar, separate materials and education columns, and aligned recent-news dates.
+
+Kai S. Yun — MIT
+https://kaiyun717.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Rounded news panel and a compact image-led research list sit below a conventional photo-and-bio introduction.
+Website source code: https://github.com/kaiyun717/kaiyun717.github.io
+
+Songyuan Zhang — MIT
+https://syzhang092218-source.github.io
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Soft profile sidebar, inset personal photograph, and separated news and research navigation.
+Website source code: https://github.com/syzhang092218-source/syzhang092218-source.github.io
+
+Cai Zhou — MIT
+https://zhouc20.github.io/zhouc.ai
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Small formal portrait in a left rail, long research statement, and clear keyword and news sections.
+Website source code: https://github.com/zhouc20/zhouc.ai
+
+Julie Zhu — MIT
+https://qianyu-zhu.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Compact personal introduction with a large portrait, a detailed news list, and separate publications navigation.
+Website source code: https://github.com/qianyu-zhu/qianyu-zhu.github.io
+
+Fan Chen — MIT
+https://sites.google.com/view/chen-fan
+Lab source: https://toc.csail.mit.edu/Students
+Black canvas, serif section labels, large portrait, and carefully spaced biographical and awards blocks.
+
+Ying Feng — MIT
+https://yinggggfeng.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Minimal introduction and portrait lead into neatly separated Manuscripts and Publications lists with small venue labels.
+Website source code: https://github.com/YinggggFeng/YinggggFeng.github.io
+
+Jaehyun Koo — MIT
+http://people.csail.mit.edu/koosaga/
+Lab source: https://toc.csail.mit.edu/Students
+Handwritten HTML-style research CV with a compact photograph, blue resource links, and chronological publications.
+
+John Kuszmaul — MIT
+https://sites.google.com/view/johnkuszmaul
+Lab source: https://toc.csail.mit.edu/Students
+Large light-blue name, scenic portrait, and a centered bibliography provide a spare scholarly layout.
+
+Megan Le — MIT
+http://megankle.com
+Lab source: https://toc.csail.mit.edu/Students
+Large portrait and concise biographical opening are paired with a clean Research, CV, and Miscellaneous navigation.
+
+Rebecca Lin — MIT
+https://rebeccayelin.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Editorial serif typography, an offset scenic portrait, and spacious visual project rows connect making and computing.
+
+Junhong Lin — MIT
+https://junhongmit.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Raised portrait card, warm off-white canvas, rounded specialty panels, and compact navigation create a polished research dashboard.
+Website source code: https://github.com/junhongmit/junhongmit.github.io
+
+Kendall Nakai — MIT
+https://kendallnakai.com
+Lab source: https://toc.csail.mit.edu/Students
+Small lowercase identity, a single colored blossom mark, and text-only publications make an intentionally spare page.
+
+Jakob Nogler — MIT
+https://jakob-nogler.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Plain black-and-white profile combines a single portrait and an extensive, consistently formatted bibliography.
+
+Ted Pyne — MIT
+https://sites.google.com/view/tedpyne/home
+Lab source: https://toc.csail.mit.edu/Students
+Simple photograph-and-biography introduction above a readable selected-publications list.
+
+Nathan Sheffield — MIT
+https://nathan-sheffield.github.io/about/
+Lab source: https://toc.csail.mit.edu/Students
+Deep violet palette, serif poetry quotation, monochrome portrait, and fine rules give the page a literary identity.
+
+Shuo Wang — MIT
+https://sites.google.com/view/shuowang2002/home
+Lab source: https://toc.csail.mit.edu/Students
+Dark geometric header, an atmospheric blue photograph, and restrained teal publication links distinguish the page.
+
+Lichen Zhang — MIT
+https://lczh.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Traditional dense scholarly bibliography, blue links, and a compact portrait retain a simple hand-authored layout.
+Website source code: https://github.com/lczh/lczh.github.io
+
+Baltasar Dinis — MIT
+http://bsdinis.site/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Dark terminal-like background, monospace text, and blue publication/resource links make a compact systems-research page.
+
+Ben Holmes — MIT
+https://bencw12.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Monospace biography and large grey publication panels give the page a coherent technical-notebook style.
+Website source code: https://github.com/bencw12/bencw12.github.io
+
+Benny Rubin — MIT
+https://bennycrubin.com/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Large Overview heading, a small centered portrait, grey masthead, and narrow body column give a clear modern hierarchy.
+
+Derek Leung — MIT
+https://people.csail.mit.edu/dtl/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Playful blue polka-dot background surrounds a compact personal biography and simple sidebar navigation.
+
+Dongjae Lee — MIT
+https://dongjaelee1.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Sparse centered research profile with muted pink links, clear publication subsections, and small venue labels.
+Website source code: https://github.com/dongjaelee1/dongjaelee1.github.io
+
+Gohar Irfan Chaudhry — MIT
+http://goharirfan.me
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Dense text-first systems bibliography with conventional blue links emphasizes immediate access to papers.
+
+Sanjit Bhat — MIT
+https://sanjit-bhat.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Photo-and-biography introduction leads into badge-coded publications with concise resource buttons.
+Website source code: https://github.com/sanjit-bhat/sanjit-bhat.github.io
+
+Upamanyu Sharma — MIT
+https://people.csail.mit.edu/upamanyu/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Compact portrait and affiliation block precede a consistently numbered, text-first bibliography.
+
+Yun-Sheng Chang — MIT
+https://yunshengtw.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+White hand-authored page pairs a short biography with clear author and publication information.
+Website source code: https://github.com/yunshengtw/yunshengtw.github.io
+
+Shao Yuan Chew Chia — MIT
+https://shaoyuan.cc/
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
+Small illustrated robot logo, friendly serif headings, scenic portrait, and a large explanatory research figure make a personal robotics portfolio.
+
+Thomas Cohn — MIT
+https://tommycohn.com/
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
+Categorized identity sidebar, rounded news panel, and image-led featured publications create a complete research-and-hobbies portfolio.
+
+Arif Kerem Dayı — MIT
+https://keremdayi.com/
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
+Pale-blue panels, slim portrait rail, and crisp typography give the biography and research list a polished structure.
+
+Adam Wei — MIT
+http://adamwei.com
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
+Large circular portrait and a clearly separated biography, interests, and education layout form a conventional academic CV.
+
+Steven Roche — MIT
+https://sroche14.github.io/
+Lab source: https://acl.mit.edu/people/
+Large portrait, substantial research biography, and dated updates lead to a separate publications section.
+Website source code: https://github.com/SRoche14/SRoche14.github.io
+
+Jéa Adams Redai — Harvard
+https://jearedai.com
+Lab source: https://seanandrews.github.io/group/
+A huge serif name and compact monospaced labels create a clear hierarchy on a warm graph-paper background. The adjacent scale diagram ties the visual identity directly to astronomy; borrow that connection between research subject and page ornament. The spacious hero delays the biography below the first screen.
+
+Qijia Zhou — Harvard
+https://qijiazhou.github.io
+Lab source: https://seanandrews.github.io/group/
+A compact portrait and contact rail keep identity separate from the short welcome text. The restrained white page and direct Research, CV, Outreach, and For Fun navigation are useful for a small academic site, although the home page offers little visual variety.
+Website source code: https://github.com/qijiazhou/qijiazhou.github.io
+
+Isaias Ghezae — Harvard
+https://isaiasghezae.github.io/
+Lab source: https://www.intergroupneurosciencelaboratory.com/people
+A large cutout portrait blends into the warm page background, balancing the narrow biography beside it. Serif headings, a thin navigation rule, and restrained rust-colored links give an ordinary academic introduction a coherent editorial character.
+
+Briony Waite — Harvard
+https://briwaite.github.io/
+Lab source: https://sites.harvard.edu/harvardlds/our-labs/snedeker-lab/snedeker-lab-members/
+The left identity column keeps contact information separate from the research narrative. A large photograph with a puppet adds personal context to the language-development research, while the simple blue links and conventional headings keep the page easy to scan.
+Website source code: https://github.com/briwaite/briwaite.github.io
+
+Bobby Sparks — Harvard
+https://rbzsparks.github.io/
+Lab source: https://sites.harvard.edu/harvardlds/our-labs/thomas-lab/thomas-lab-members/
+An illustrated portrait and pale blue background make the page recognizable, while the charcoal navigation bar anchors the top. The narrow centered reading column is orderly; the dense text and repeated centered subheadings provide a useful reminder to leave more space between research topics.
+Website source code: https://github.com/rbzsparks/rbzsparks.github.io
+
+Lucy Liu — Harvard
+https://lliu12.github.io/
+Lab source: https://softmath.seas.harvard.edu/team-members/
+The introduction and portrait form a quiet two-column header, followed by a strong Research heading and fine horizontal rule. Each publication pairs an image on the left with its citation and Paper / Code links on the right, making the work easier to browse than a text-only bibliography.
+Website source code: https://github.com/lliu12/lliu12.github.io
+
+Fiona Qu — Harvard
+http://www.fionaqu.com/
+Lab source: https://www.deboramarkslab.com/members
+A hand-drawn wordmark and scientific cartoons create a personal visual voice without filling the page with decoration. The left navigation separates zines, ceramics, and other creative work from a sparse scientific biography; borrow the use of original artwork to connect professional and personal interests. Light gray text is less prominent than the illustrations.
+
+Abigail M. Jackson — Harvard
+https://abigailmjackson.github.io
+Lab source: https://www.deboramarkslab.com/members
+A circular portrait, centered affiliation, and prominent contact icons form a clear identity block. The adjacent biography and paired Interests / Education columns organize different kinds of information without a long uninterrupted CV, although justified body text creates some uneven word spacing.
+Website source code: https://github.com/abigailmjackson/abigailmjackson.github.io
+
+Zilin Dai — Harvard
+https://tc4451.github.io/
+Lab source: https://www.deboramarkslab.com/members
+A white introduction card on a pale gray background groups the portrait, short research summary, CV, and contact links. A separate two-column Education / Experience panel makes credentials easy to compare; the small logos help distinguish institutions without dominating the page.
+Website source code: https://github.com/TC4451/TC4451.github.io
+
+Matthew E. Dardet — Harvard
+https://matthewdardet.com
+Lab source: https://dlabss.harvard.edu/researchers
+Warm off-white, readable serif body text, and a narrow portrait column give the page a quiet scholarly tone. A small illustrated avatar and dark red links add personality while the short navigation and generous outer margins keep the introduction focused.
+
+Meriel Doyle — Harvard
+https://mcd710.github.io
+Lab source: https://cultural-dynamics-lab.github.io/people.html
+The portrait and contact sidebar stay visually separate from two short biography paragraphs, giving the page a direct reading order. The restrained palette and limited top navigation work well for a concise academic introduction, although the very sparse home page shows little research imagery.
+Website source code: https://github.com/mcd710/mcd710.github.io
+
+Yuanze Liu — Harvard
+https://yuanzeliu.github.io
+Lab source: https://cultural-dynamics-lab.github.io/people.html
+Serif headings, dark red accents, and thin rules give the familiar academic sidebar layout a consistent identity. The research questions are presented as separate, clearly ruled rows beneath the biography, making the intellectual agenda easier to skim than another paragraph.
+Website source code: https://github.com/yuanzeliu/yuanzeliu.github.io
+
+Ryan Seaman — Harvard
+https://rpseaman.com/
+Lab source: https://hidivelab.org/team/members
+An oversized three-line headline balances a large rectangular portrait, with a single rust accent identifying the health-technology theme. Warm off-white, thin rules, and compact monospaced section labels create a consistent hierarchy; the degree and research focus are clearly summarized in a strip below the hero.
+Website source code: https://github.com/RPSeaman/RPSeaman.github.io
+
+Aidan D. Chambers — Harvard
+https://aidandc.co/
+Lab source: https://lppc.physics.harvard.edu/people/aidan-chambers
+A large centered serif name and one-sentence introduction give way to a grid of research and personal-project thumbnails. The small navigation divides physics, music, and miscellaneous work clearly; borrow the image-led project index, while considering a shorter hero to bring those examples into view sooner.
+
+Mark Bedaywi — UC Berkeley
+https://markbedaywi.ca/
+Lab source: https://statml.berkeley.edu/
+A narrow reading column, rectangular portrait, and restrained magenta links give the biography and selected papers a clear order.
+Website source code: https://github.com/Supermac30/supermac30.github.io
+
+Yuhang Cai — UC Berkeley
+https://willcai7.github.io/
+Lab source: https://statml.berkeley.edu/
+A large monochrome illustrated portrait balances a concise biography, with generous white space and a quiet navigation bar.
+Website source code: https://github.com/willcai7/willcai7.github.io
+
+Josh Davis — UC Berkeley
+https://jxshdavis.github.io/
+Lab source: https://statml.berkeley.edu/
+A persistent profile sidebar separates contact details from research interests and writing in the main column.
+Website source code: https://github.com/jxshdavis/jxshdavis.github.io
+
+Yihan Geng — UC Berkeley
+https://yihan04.github.io/
+Lab source: https://statml.berkeley.edu/
+A round portrait and compact sidebar leave a wide reading column for research summaries and publication links.
+Website source code: https://github.com/yihan04/yihan04.github.io
+
+Holly Jackson — UC Berkeley
+https://holly-jackson.com/
+Lab source: https://statml.berkeley.edu/
+Monospaced project rows with restrained thumbnails sit beside a separate biography column, giving the page an archival character.
+
+Haozhe Jiang — UC Berkeley
+https://astro-eric.github.io
+Lab source: https://statml.berkeley.edu/
+An oversized blue name, asymmetrical portrait frame, and pale cool background make the opening personal without obscuring the research introduction.
+Website source code: https://github.com/Astro-Eric/Astro-Eric.github.io
+
+Juno Kim — UC Berkeley
+https://junokim1.github.io/
+Lab source: https://statml.berkeley.edu/
+A teal identity column gives contact details a clear home while the white main column organizes research with repeated section markers.
+Website source code: https://github.com/junokim1/junokim1.github.io
+
+Brian Lee — UC Berkeley
+https://bl-ee.github.io/
+Lab source: https://statml.berkeley.edu/
+A compact serif biography and portrait lead into a single research section with large margins and minimal interface decoration.
+Website source code: https://github.com/bl-ee/bl-ee.github.io
+
+Kunjun Li — UC Berkeley
+https://kunjun-li.github.io/
+Lab source: https://statml.berkeley.edu/
+Pale blue research cards pair small visual summaries with titles and compact paper links in a consistent vertical rhythm.
+Website source code: https://github.com/Kunjun-Li/kunjun-li.github.io
+
+Drew Nguyen — UC Berkeley
+https://drewtnguyen.github.io/
+Lab source: https://statml.berkeley.edu/
+A substantial portrait anchors the biography while clear headings lead readers into research and teaching.
+
+Inioluwa Deborah Raji — UC Berkeley
+https://rajiinio.github.io/
+Lab source: https://statml.berkeley.edu/
+A restrained one-column layout and a contextual speaking photograph keep a substantial biography easy to follow.
+Website source code: https://github.com/rajiinio/rajiinio.github.io
+
+Ricardo J. Sandoval — UC Berkeley
+https://ricardojsandoval.github.io/
+Lab source: https://statml.berkeley.edu/
+A large portrait and a short adjacent research statement create an uncluttered opening with a simple route to photography.
+Website source code: https://github.com/RicardoJSandoval/RicardoJSandoval.github.io
+
+Lucas Schwengber — UC Berkeley
+https://lucas-schwengber.github.io/
+Lab source: https://statml.berkeley.edu/
+A dark blue identity banner provides a strong opening, then switches to white sections with thin rules and compact research tabs.
+Website source code: https://github.com/Lucas-Schwengber/lucas-schwengber.github.io
+
+Annie Ulichney — UC Berkeley
+https://aulichney.github.io/
+Lab source: https://statml.berkeley.edu/
+A small portrait column, serif reading text, and abundant white space give the selected papers a calm scholarly presentation.
+Website source code: https://github.com/aulichney/aulichney.github.io
+
+Anqi Wang — UC Berkeley
+https://anqiwang02.github.io/
+Lab source: https://statml.berkeley.edu/
+A dark post sidebar contrasts with a quiet cream biography, using muted olive headings and a consistent editorial grid.
+Website source code: https://github.com/anqiwang02/anqiwang02.github.io
+
+Xuelin Yang — UC Berkeley
+http://xyang23.github.io
+Lab source: https://statml.berkeley.edu/
+A compact profile header leaves room for a concise research list and publication rows illustrated with research figures.
+Website source code: https://github.com/xyang23/xyang23.github.io
+
+Zeyu Yun — UC Berkeley
+https://zeyuyun1.github.io/
+Lab source: https://statml.berkeley.edu/
+A single large personal photograph sits inside generous white margins, with small research, gallery, and CV links kept above it.
+Website source code: https://github.com/zeyuyun1/zeyuyun1.github.io
+
+Boru Chen — UC Berkeley
+https://bluechen8.github.io/
+Lab source: https://security.cs.berkeley.edu/
+A familiar portrait sidebar and chronological news list keep contact details and academic updates easy to scan.
+Website source code: https://github.com/bluechen8/bluechen8.github.io
+
+Sizhe Chen — UC Berkeley
+https://sizhe-chen.github.io/
+Lab source: https://security.cs.berkeley.edu/
+A centered portrait, name, and row of small link buttons form a restrained identity block above a concise research statement.
+Website source code: https://github.com/Sizhe-Chen/Sizhe-Chen.github.io
+
+Ryan Lehmkuhl — UC Berkeley
+https://ryanleh.me/
+Lab source: https://security.cs.berkeley.edu/
+A warm peach background and tilted portrait add character to a straightforward biography-and-publications layout.
+Website source code: https://github.com/ryanleh/ryanleh.github.io
+
+Rebecca Saul — UC Berkeley
+https://rbsaul.github.io/
+Lab source: https://security.cs.berkeley.edu/
+A compact education column balances the main biography, portrait, and publication list below a dark navigation strip.
+Website source code: https://github.com/rbsaul/rbsaul.github.io
+
+Alan Wang — UC Berkeley
+https://urd00m.github.io/
+Lab source: https://security.cs.berkeley.edu/
+A conversational headline and large circular portrait establish the identity before the compact chronological news list.
+Website source code: https://github.com/urd00m/urd00m.github.io
+
+Eric Rawn — UC Berkeley
+https://www.ericrawn.media/
+Lab source: https://hci.berkeley.edu/
+Warm yellow margins frame the readable research column, where project thumbnails and short explanations repeat consistently.
+
+Hila Mor — UC Berkeley
+https://hilamor.com/
+Lab source: https://hci.berkeley.edu/
+A quiet three-column project gallery lets the materials, prototypes, and process photographs supply the color and visual interest.
+
+Mina Huh — UC Berkeley
+https://minahuh.com/
+Lab source: https://hci.berkeley.edu/
+A concise introduction leads into neatly aligned paper thumbnails and short descriptions, with very little competing decoration.
+
+David Minh-Duy Cao — UC Berkeley
+https://cao.sh/
+Lab source: https://hci.berkeley.edu/
+Fine rules, monospaced identity details, and a two-column grid organize biography, writing, and recent activity with a distinctive print-like rhythm.
+
+Karim Benharrak — UC Berkeley
+https://benharrak.com/
+Lab source: https://hci.berkeley.edu/
+Oversized condensed black typography and a monochrome portrait create a strong opening, reinforced by thin rules and compact outlined labels.
+
+Vivian Chan — UC Berkeley
+http://vivianchan.tw/
+Lab source: https://hci.berkeley.edu/
+An illustrated globe opens into a warm cream portfolio with organic portrait and project frames, a quiet side navigation, and consistently aligned research summaries.
+
+Ananya Gubbi Mohanbabu — UC Berkeley
+https://ananyagm.com/
+Lab source: https://hci.berkeley.edu/
+A concise biography and portrait sit above large research previews, keeping the focus on accessibility projects.
+
+Meng Chen — UC Berkeley
+https://meng-chen.com/
+Lab source: https://hci.berkeley.edu/
+An illustrated profile sidebar keeps identity visible while the main column pairs clear project titles with informative screenshots.
+Website source code: https://github.com/Casardo-Chen/casardo-chen.github.io
+
+Samia Menon — UC Berkeley
+https://www.samiamenon.com/
+Lab source: https://hci.berkeley.edu/
+A cream page framed by garden imagery uses a small portrait, subtle botanical mark, and restrained green accents for a coherent personal tone.
+
+Justin Lubin — UC Berkeley
+https://jlubin.net
+Lab source: https://plait-lab.org/
+A lightly patterned turquoise surround and framed white reading area give a text-rich research biography a recognizable identity.
+
+Jay Lee — UC Berkeley
+https://jaylee.pl/
+Lab source: https://plait-lab.org/
+Terminal-inspired section labels and compact outlined panels organize research without sacrificing readable text or ordinary links.
+
+Parker Ziegler — UC Berkeley
+https://parkerziegler.com/
+Lab source: https://plait-lab.org/
+Purple-to-teal navigation bands and a personal geographic map connect the visual presentation to mapping and visualization research.
+
+Nicole Goridkov — UC Berkeley
+https://goridkov.github.io/
+Lab source: https://codesign.berkeley.edu/team/
+A compact identity sidebar accompanies a dense but consistent grid of illustrated research projects and short descriptions.
+Website source code: https://github.com/goridkov/goridkov.github.io
+
+Kevin Ma — UC Berkeley
+https://kevinma1515.github.io/
+Lab source: https://codesign.berkeley.edu/team/
+A small portrait column separates identity from the main research narrative, with clear headings and restrained blue links.
+Website source code: https://github.com/kevinma1515/kevinma1515.github.io
+
+Deepthi Bannai — UC Berkeley
+https://dbannai.github.io/
+Lab source: https://redwood.berkeley.edu/people/
+A compact portrait sidebar and a spacious biography column keep the page easy to scan and leave room for research, notes, and art.
+Website source code: https://github.com/dbannai/dbannai.github.io
+
+Chad Harper — UC Berkeley
+https://chadharper.github.io/
+Lab source: https://redwood.berkeley.edu/people/
+Soft blush color, quiet violet headings, and a centered serif reading column give the biography a warm editorial atmosphere.
+Website source code: https://github.com/chadHarper/chadHarper.github.io
+
+Dhruva Karkada — UC Berkeley
+https://dkarkada.xyz
+Lab source: https://redwood.berkeley.edu/people/
+A deep navy background and muted colorful abstract visual frame a compact list of research essays and reading times.
+
+Tejasvi Kothapalli — UC Berkeley
+https://tejasvikothapalli.github.io/
+Lab source: https://redwood.berkeley.edu/people/
+A narrow profile page uses a portrait, numbered research interests, and dated news to make a substantial research summary scannable.
+Website source code: https://github.com/tejasvikothapalli/tejasvikothapalli.github.io

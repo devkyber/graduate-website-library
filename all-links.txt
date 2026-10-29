@@ -310,6 +310,7 @@ Lab source: https://www.vision.caltech.edu/team/
 Sevan Brodjian
 https://www.sevanb.net/
 Lab source: https://www.vision.caltech.edu/team/
+Website source code: https://github.com/SevanBrodjian/SevanBNet-frontend
 
 Shiang-Hung (Sean) Hu
 https://sites.google.com/view/shiang-hung-hu
@@ -960,6 +961,7 @@ Lab source: https://rchi-lab.github.io/members
 Sidney Nimako
 https://snibo.me
 Lab source: http://zoomlab.ri.cmu.edu/people
+Website source code: https://github.com/snibo13/snibo13.github.io
 
 Simran Khanuja
 https://simran-khanuja.github.io/
@@ -2666,7 +2668,7 @@ Lab source: https://lab-idar.gatech.edu/members/
 Website source code: https://github.com/ziyi-zhou/ziyi-zhou.github.io
 
 
-Harvard — 107 websites
+Harvard — 121 websites
 
 Aaron (Louie) Putterman
 https://www.louieputterman.com/
@@ -2677,10 +2679,19 @@ https://aakaran.github.io/
 Lab source: https://mlfoundations.org/people/
 Website source code: https://github.com/aakaran/aakaran.github.io
 
+Abigail M. Jackson
+https://abigailmjackson.github.io
+Lab source: https://www.deboramarkslab.com/members
+Website source code: https://github.com/abigailmjackson/abigailmjackson.github.io
+
 Adam Distler
 https://adam-distler.github.io
 Lab source: https://sites.harvard.edu/charbonneau/directory/1302/?cp-dir-id=972
 Website source code: https://github.com/adam-distler/adam-distler.github.io
+
+Aidan D. Chambers
+https://aidandc.co/
+Lab source: https://lppc.physics.harvard.edu/people/aidan-chambers
 
 Alex Meterez
 https://alexandrumeterez.github.io
@@ -2718,6 +2729,16 @@ Anastasiya Kravchuk-Kirilyuk
 https://akravc.github.io
 Lab source: https://metareflection.seas.harvard.edu/people
 Website source code: https://github.com/akravc/akravc.github.io
+
+Bobby Sparks
+https://rbzsparks.github.io/
+Lab source: https://sites.harvard.edu/harvardlds/our-labs/thomas-lab/thomas-lab-members/
+Website source code: https://github.com/rbzsparks/rbzsparks.github.io
+
+Briony Waite
+https://briwaite.github.io/
+Lab source: https://sites.harvard.edu/harvardlds/our-labs/snedeker-lab/snedeker-lab-members/
+Website source code: https://github.com/briwaite/briwaite.github.io
 
 Cameron Wong
 https://camdar.io
@@ -2787,6 +2808,10 @@ Fenil Doshi
 https://www.fenildoshi.com
 Lab source: https://visionlab.harvard.edu/people.html
 
+Fiona Qu
+http://www.fionaqu.com/
+Lab source: https://www.deboramarkslab.com/members
+
 Geneva Isaacson
 https://www.genevaisaacson.com/
 Lab source: https://sites.harvard.edu/charbonneau/directory/geneva-isaacson/?cp-dir-id=972
@@ -2840,6 +2865,10 @@ Ikechukwu Uchendu
 https://ikeuchendu.com/
 Lab source: https://systems.seas.harvard.edu/people/
 
+Isaias Ghezae
+https://isaiasghezae.github.io/
+Lab source: https://www.intergroupneurosciencelaboratory.com/people
+
 Itai Shapira
 https://ishapira1.github.io/
 Lab source: https://procaccia.info/people/
@@ -2875,6 +2904,7 @@ Lab source: https://madhu.seas.harvard.edu/students/
 Jianna So
 https://www.jiannaso.com/
 Lab source: https://iis.seas.harvard.edu/people/
+Website source code: https://github.com/jiannaso/jiso.design
 
 Jonathan Colaço Carr
 https://j-c-carr.github.io/
@@ -2889,6 +2919,10 @@ Junseo Lee
 https://harris-junseo-lee.github.io/
 Lab source: https://sitanchen.com/
 Website source code: https://github.com/harris-junseo-lee/harris-junseo-lee.github.io
+
+Jéa Adams Redai
+https://jearedai.com
+Lab source: https://seanandrews.github.io/group/
 
 Kristen Gilyard
 https://krgily.github.io/
@@ -2913,6 +2947,11 @@ https://lilyzihuizhu.github.io/
 Lab source: https://bergelsonlab.fas.harvard.edu/people
 Website source code: https://github.com/lilyzihuizhu/lilyzihuizhu.github.io
 
+Lucy Liu
+https://lliu12.github.io/
+Lab source: https://softmath.seas.harvard.edu/team-members/
+Website source code: https://github.com/lliu12/lliu12.github.io
+
 Mark Mazumder
 https://markmaz.com/
 Lab source: https://systems.seas.harvard.edu/people/
@@ -2920,6 +2959,10 @@ Lab source: https://systems.seas.harvard.edu/people/
 Mary Letey
 https://maryiletey.com
 Lab source: https://mlfoundations.org/people/
+
+Matthew E. Dardet
+https://matthewdardet.com
+Lab source: https://dlabss.harvard.edu/researchers
 
 Matthew Leung
 https://mchleung.com
@@ -2932,6 +2975,11 @@ Lab source: https://metareflection.seas.harvard.edu/people
 Matthias Jammot
 https://matthiasjammot.com/
 Lab source: https://computationalrobotics.seas.harvard.edu/
+
+Meriel Doyle
+https://mcd710.github.io
+Lab source: https://cultural-dynamics-lab.github.io/people.html
+Website source code: https://github.com/mcd710/mcd710.github.io
 
 Michael Finn-Henry
 https://michaelfinnhenry.com/
@@ -2976,6 +3024,11 @@ Prashanth Amireddy
 https://sites.google.com/view/prashanth-amireddy
 Lab source: https://madhu.seas.harvard.edu/students/
 
+Qijia Zhou
+https://qijiazhou.github.io
+Lab source: https://seanandrews.github.io/group/
+Website source code: https://github.com/qijiazhou/qijiazhou.github.io
+
 Rachel Xinyang Liu
 https://www.rachelxinyang.com/
 Lab source: https://bergelsonlab.fas.harvard.edu/people
@@ -3009,6 +3062,11 @@ Lab source: https://mlfoundations.org/people/
 Rupert Tawiah-Quashie
 https://rupert-t-quashie.org/?v=2
 Lab source: https://visionlab.harvard.edu/people.html
+
+Ryan Seaman
+https://rpseaman.com/
+Lab source: https://hidivelab.org/team/members
+Website source code: https://github.com/RPSeaman/RPSeaman.github.io
 
 Sara Fish
 http://sarafish.com
@@ -3128,6 +3186,11 @@ Yiyu Liu
 https://lau.yeeyu.org/
 Lab source: https://minlanyu.seas.harvard.edu/student.html
 
+Yuanze Liu
+https://yuanzeliu.github.io
+Lab source: https://cultural-dynamics-lab.github.io/people.html
+Website source code: https://github.com/yuanzeliu/yuanzeliu.github.io
+
 Yuqi Pan
 https://yuqiiip.github.io/
 Lab source: https://teamcore.seas.harvard.edu/team/
@@ -3141,6 +3204,11 @@ Zhenting Qi
 https://zhentingqi.github.io/
 Lab source: https://embodied-minds-lab.github.io/people/
 Website source code: https://github.com/zhentingqi/zhentingqi.github.io
+
+Zilin Dai
+https://tc4451.github.io/
+Lab source: https://www.deboramarkslab.com/members
+Website source code: https://github.com/TC4451/TC4451.github.io
 
 Ziwei Gu
 https://www.ziweigu.com/
@@ -3443,11 +3511,15 @@ Lab source: https://vision.gel.ulaval.ca/~jflalonde/students/
 Website source code: https://github.com/zzt76/zzt76.github.io
 
 
-MIT — 169 websites
+MIT — 241 websites
 
 Aaron Serianni
 https://aaronserianni.com/
 Lab source: https://healthyml.org/people/
+
+Abhinav Kumar
+https://abhinavkumar.info/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
 
 Abinitha Gourabathina
 https://abinithago.github.io/
@@ -3458,6 +3530,15 @@ Adam Rashid
 https://adamrashid96.github.io/
 Lab source: https://web.mit.edu/phillipi/
 Website source code: https://github.com/AdamRashid96/adamrashid96.github.io
+
+Adam Wei
+http://adamwei.com
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
+
+Adithya Bhaskara
+https://officialadithya.github.io
+Lab source: https://lids.mit.edu/people/students
+Website source code: https://github.com/officialadithya/officialadithya.github.io
 
 Aditya Agarwal
 https://skymanaditya1.github.io/
@@ -3473,6 +3554,10 @@ Akarsh Kumar
 https://akarshkumar.com/
 Lab source: https://web.mit.edu/phillipi/
 
+Akshat Agarwal
+https://www.aaagarwal.com/
+Lab source: https://lids.mit.edu/people/students
+
 Alan Sun
 https://alansun17904.github.io/
 Lab source: https://lingo.csail.mit.edu/people.html
@@ -3482,6 +3567,11 @@ Alana Renda (Marzoev)
 https://www.alanamarzoev.com/
 Lab source: https://lingo.csail.mit.edu/people.html
 
+Alok Shah
+http://alokshah04.github.io
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Website source code: https://github.com/alokshah04/alokshah04.github.io
+
 Alston Lo
 https://alstonlo.github.io/
 Lab source: https://cdfg.mit.edu/people/
@@ -3490,6 +3580,11 @@ Website source code: https://github.com/alstonlo/alstonlo.github.io
 Amani Maina-Kilaas
 https://amanirmk.com/
 Lab source: https://cpl.mit.edu/people
+
+Amit Rajaraman
+https://amitrajaraman.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Website source code: https://github.com/amitrajaraman/amitrajaraman.github.io
 
 Amy Phung
 https://amyphung.github.io/
@@ -3527,10 +3622,18 @@ Aparna Gupte
 https://www.mit.edu/~agupte/
 Lab source: https://groups.csail.mit.edu/cis/people.html
 
+Arif Kerem Dayı
+https://keremdayi.com/
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
+
 Arnav Verma
 https://arnavadventures.github.io/
 Lab source: https://vis.csail.mit.edu/
 Website source code: https://github.com/arnavadventures/arnavadventures.github.io
+
+Aron Brenner
+https://www.aronbrenner.com/
+Lab source: https://lids.mit.edu/people/students
 
 Artem Lukoianov
 https://lukoianov.com/
@@ -3545,10 +3648,18 @@ Arul Kolla
 https://arulkolla.github.io/
 Lab source: https://clear.csail.mit.edu/people.html
 
+Arya Maheshwari
+https://amaheshwari.com
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+
 Aryan Naveen
 https://aryan-naveen.github.io/
 Lab source: https://clear.csail.mit.edu/people.html
 Website source code: https://github.com/Aryan-Naveen/Aryan-Naveen.github.io
+
+Ashkan Soleymani
+https://ashkansoleymani.lids.mit.edu/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
 
 Ashley Neall
 https://aneall.github.io/
@@ -3559,6 +3670,15 @@ Awa Dieng
 https://www.awadieng.me/
 Lab source: https://healthyml.org/people/
 
+Baltasar Dinis
+http://bsdinis.site/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+
+Ben Holmes
+https://bencw12.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Website source code: https://github.com/bencw12/bencw12.github.io
+
 Ben Rossano
 https://benrossano.com
 Lab source: https://lis.csail.mit.edu/people/
@@ -3567,6 +3687,10 @@ Benjamin Cohen-Wang
 https://bencw99.github.io
 Lab source: https://www.csail.mit.edu/people/?roleFacets=Grad%20Students
 Website source code: https://github.com/bencw99/bencw99.github.io
+
+Benny Rubin
+https://bennycrubin.com/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
 
 Bob Tianqi Wei
 https://bobtianqiwei.com
@@ -3580,6 +3704,11 @@ Boyu Zhang
 https://boyu-zhang-25.github.io/
 Lab source: https://www.media.mit.edu/people/?filter=student
 Website source code: https://github.com/boyu-zhang-25/boyu-zhang-25.github.io
+
+Cai Zhou
+https://zhouc20.github.io/zhouc.ai
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Website source code: https://github.com/zhouc20/zhouc.ai
 
 Carmel Schare
 https://schare.space
@@ -3602,6 +3731,11 @@ Cedric Honnet
 http://honnet.eu
 Lab source: https://www.media.mit.edu/people/?filter=student
 Website source code: https://github.com/honnet/honnet.github.io
+
+Chanwoo Park
+https://chanwoo-park-official.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Website source code: https://github.com/chanwoo-park-official/chanwoo-park-official.github.io
 
 Charalampos Platanos
 https://people.csail.mit.edu/harrisp/
@@ -3645,6 +3779,10 @@ Demircan Tas
 https://demircantas.com
 Lab source: https://hcie.csail.mit.edu/people.html
 
+Derek Leung
+https://people.csail.mit.edu/dtl/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+
 Dominic Maggio
 https://dominic101.github.io/DominicMaggio/
 Lab source: https://web.mit.edu/sparklab/people.html
@@ -3653,6 +3791,11 @@ Website source code: https://github.com/Dominic101/DominicMaggio
 Dong Won Lee
 https://dongwonl.com/
 Lab source: https://www.media.mit.edu/people/?filter=student
+
+Dongjae Lee
+https://dongjaelee1.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Website source code: https://github.com/dongjaelee1/dongjaelee1.github.io
 
 Dylan Wootton
 https://dylanwootton.com
@@ -3680,9 +3823,21 @@ https://echen01.github.io/
 Lab source: https://scenerepresentations.org/people
 Website source code: https://github.com/echen01/echen01.github.io
 
+Eric Yang Yu
+https://ericyangyu.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+
+Fan Chen
+https://sites.google.com/view/chen-fan
+Lab source: https://toc.csail.mit.edu/Students
+
 Faraz Faruqi
 https://www.farazfaruqi.com/
 Lab source: https://hcie.csail.mit.edu/people.html
+
+Francisco Pernice
+https://sites.google.com/view/franciscopernice/home
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
 
 Gabe Grand
 https://www.gabegrand.com/
@@ -3700,9 +3855,17 @@ George Cazenavette
 https://georgecazenavette.github.io/
 Lab source: https://groups.csail.mit.edu/vision/torralbalab/
 
+Gohar Irfan Chaudhry
+http://goharirfan.me
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+
 Guangyuan Jiang
 https://jiang.gy/
 Lab source: https://cpl.mit.edu/people
+
+Haiwen Li
+https://haiwenli.dev/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
 
 Hallee Wong
 https://halleewong.github.io/
@@ -3734,6 +3897,11 @@ Lab source: https://vis.csail.mit.edu/
 Heng-Jui Chang
 https://people.csail.mit.edu/hengjui/
 Lab source: https://www.csail.mit.edu/people/?roleFacets=Grad%20Students
+
+Hongwei Tu
+https://liamt01.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Website source code: https://github.com/LiamT01/liamt01.github.io
 
 Hyewon Jeong
 https://sites.google.com/view/hyewon-jeong/
@@ -3781,6 +3949,19 @@ https://itam67.github.io/
 Lab source: https://lingo.csail.mit.edu/people.html
 Website source code: https://github.com/Itam67/Itam67.github.io
 
+Jaehyun Koo
+http://people.csail.mit.edu/koosaga/
+Lab source: https://toc.csail.mit.edu/Students
+
+Jakob Nogler
+https://jakob-nogler.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+
+James Y. Chen
+https://james-y-chen.github.io
+Lab source: https://lids.mit.edu/people/students
+Website source code: https://github.com/james-y-chen/james-y-chen.github.io
+
 Jamison Meindl
 https://jamisonmeindl.github.io/
 Lab source: https://cdfg.mit.edu/people/
@@ -3796,23 +3977,60 @@ https://mlu108.github.io/
 Lab source: https://healthyml.org/people/
 Website source code: https://github.com/mlu108/mlu108.github.io
 
+Jia Wan
+https://jw3479.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Website source code: https://github.com/jw3479/jw3479.github.io
+
+Jiarui Li
+https://jiaruili.com
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+
 Jimmy Yu
 https://xihangyu630.github.io/
 Lab source: https://web.mit.edu/sparklab/people.html
 Website source code: https://github.com/XihangYU630/XihangYU630.github.io
+
+John Kuszmaul
+https://sites.google.com/view/johnkuszmaul
+Lab source: https://toc.csail.mit.edu/Students
+
+Julie Zhu
+https://qianyu-zhu.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Website source code: https://github.com/qianyu-zhu/qianyu-zhu.github.io
+
+Junhong Lin
+https://junhongmit.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Website source code: https://github.com/junhongmit/junhongmit.github.io
 
 Jyothish Pari
 https://jyopari.github.io
 Lab source: https://improbableai.com/members.html
 Website source code: https://github.com/jyopari/jyopari.github.io
 
+Kai M. Hung
+https://kaimhung.dev
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+
+Kai S. Yun
+https://kaiyun717.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Website source code: https://github.com/kaiyun717/kaiyun717.github.io
+
 Kaiya (Ivy) Zhao
 https://kyzhao-ivy.github.io/
 Lab source: https://web.mit.edu/phillipi/
 
+Kendall Nakai
+https://kendallnakai.com
+Lab source: https://toc.csail.mit.edu/Students
+
 Kenneth Browder
 https://kennethb.me
 Lab source: https://www.media.mit.edu/people/?filter=student
+Website source code: https://github.com/pandanautinspace/pandanautinspace.github.io
 
 Kento Nishi
 https://kentonishi.com/
@@ -3823,10 +4041,19 @@ https://lillian039.github.io/
 Lab source: https://lingo.csail.mit.edu/people.html
 Website source code: https://github.com/lillian039/lillian039.github.io
 
+Khai Nguyen
+https://xkhainguyen.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Website source code: https://github.com/xkhainguyen/xkhainguyen.github.io
+
 Kimia Hamidieh
 https://kimiah.github.io/
 Lab source: https://groups.csail.mit.edu/vision/torralbalab/
 Website source code: https://github.com/kimiah/kimiah.github.io
+
+Kimia Hassibi
+https://sites.mit.edu/hassibi/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
 
 Kristian Georgiev
 https://kristian-georgiev.github.io/
@@ -3853,6 +4080,11 @@ Leticia Izquierdo Garcia
 https://leticiaig.github.io/Leticia-website/
 Lab source: https://www.media.mit.edu/people/?filter=student
 Website source code: https://github.com/LeticiaIG/Leticia-website
+
+Lichen Zhang
+https://lczh.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Website source code: https://github.com/lczh/lczh.github.io
 
 Lingdong Huang
 https://lingdong.works
@@ -3888,6 +4120,15 @@ Manuel Cherep
 https://mcherep.github.io/
 Lab source: https://www.media.mit.edu/people/?filter=student
 
+Manuel Quintero Coronel
+https://manuelquinteroc.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Website source code: https://github.com/manuelquinteroc/manuelquinteroc.github.io
+
+Marc Franquesa Monés
+https://marcfm.com
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+
 Martin Peticco
 https://martinpeticco.com
 Lab source: https://improbableai.com/members.html
@@ -3909,6 +4150,10 @@ Maxine Perroni-Scharf
 https://maxineps.com/
 Lab source: https://hcie.csail.mit.edu/people.html
 
+Megan Le
+http://megankle.com
+Lab source: https://toc.csail.mit.edu/Students
+
 Mehul Damani
 https://damanimehul.github.io/
 Lab source: https://lingo.csail.mit.edu/people.html
@@ -3918,6 +4163,10 @@ Mengying (Cathy) Fang
 https://cathy-fang.com
 Lab source: https://www.media.mit.edu/people/?filter=student
 
+Meshal Alharbi
+https://www.malharbi.me
+Lab source: https://lids.mit.edu/people/students
+
 Michael Sun
 https://michaelsuntech.wordpress.com/
 Lab source: https://cdfg.mit.edu/people/
@@ -3926,6 +4175,10 @@ Michal Lewkowicz
 https://mlewkowicz.github.io/
 Lab source: https://clear.csail.mit.edu/people.html
 Website source code: https://github.com/MLewkowicz/MLewkowicz.github.io
+
+Mingxin Yu
+https://mingxiny.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
 
 MinGyu Choi
 https://chemgyu.github.io
@@ -3951,6 +4204,15 @@ https://nacloos.github.io/
 Lab source: https://web.mit.edu/phillipi/
 Website source code: https://github.com/nacloos/nacloos.github.io
 
+Nathan Sheffield
+https://nathan-sheffield.github.io/about/
+Lab source: https://toc.csail.mit.edu/Students
+
+Nathanael Jo
+https://nathanaj99.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Website source code: https://github.com/nathanaj99/nathanaj99.github.io
+
 Nicolas Gorlo
 https://nicolasgorlo.com
 Lab source: https://web.mit.edu/sparklab/people.html
@@ -3966,6 +4228,10 @@ Lab source: https://improbableai.com/members.html
 Oliver Sieberling
 https://oliversieberling.github.io/
 Lab source: https://people.csail.mit.edu/yoonkim/
+
+Oswin So
+https://oswinso.xyz/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
 
 Ozgun Kilic Afsar
 http://ozgun.io/
@@ -3984,6 +4250,11 @@ Perry Naseck
 https://perrynaseck.com/
 Lab source: https://www.media.mit.edu/people/?filter=student
 
+Peter G. Chang
+https://petergchang.github.io/
+Lab source: https://lids.mit.edu/people/students
+Website source code: https://github.com/petergchang/petergchang.github.io
+
 Peter Holderrieth
 https://peterholderrieth.com
 Lab source: https://www.rbg.mit.edu/people
@@ -3992,9 +4263,22 @@ Peter Mikhael
 https://people.csail.mit.edu/pgmikhael/
 Lab source: https://www.rbg.mit.edu/people
 
+Peter W. Hoffman
+https://peter-w-hoffman.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Website source code: https://github.com/peter-w-hoffman/peter-w-hoffman.github.io
+
+Phevos Paschalidis
+https://sites.mit.edu/phevosp/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+
 Ray Song
 https://rayxsong.com/
 Lab source: https://cdfg.mit.edu/people/
+
+Rebecca Lin
+https://rebeccayelin.github.io/
+Lab source: https://toc.csail.mit.edu/Students
 
 Richard Li
 https://richardrl.github.io/
@@ -4008,6 +4292,10 @@ Website source code: https://github.com/goyal-rohan/goyal-rohan.github.io
 Rohit Sanatani
 https://rohitsanatani.com/
 Lab source: https://www.csail.mit.edu/people/?roleFacets=Grad%20Students
+
+Rui Ai
+https://air-8.github.io
+Lab source: https://lids.mit.edu/people/students
 
 Ruipeng Wang
 https://ruipengwang.space/
@@ -4036,6 +4324,16 @@ Sam Chin
 https://samch.in/index.html
 Lab source: https://www.media.mit.edu/people/?filter=student
 
+Sanjit Bhat
+https://sanjit-bhat.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Website source code: https://github.com/sanjit-bhat/sanjit-bhat.github.io
+
+Sasha Voitovych
+https://sashavoitovych.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Website source code: https://github.com/sashavoitovych/sashavoitovych.github.io
+
 Seyoon Ragavan
 https://sragavan99.github.io
 Lab source: https://groups.csail.mit.edu/cis/people.html
@@ -4045,6 +4343,15 @@ Shaden Alshammari
 https://shadealsha.github.io/
 Lab source: https://groups.csail.mit.edu/vision/torralbalab/
 Website source code: https://github.com/ShadeAlsha/ShadeAlsha.github.io
+
+Shahzar Rizvi
+https://shahzarrizvi.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+Website source code: https://github.com/shahzarrizvi/shahzarrizvi.github.io
+
+Shao Yuan Chew Chia
+https://shaoyuan.cc/
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
 
 Sheer Karny
 https://sheerkarny.com/
@@ -4060,6 +4367,10 @@ https://ssundaram21.github.io/
 Lab source: https://web.mit.edu/phillipi/
 Website source code: https://github.com/ssundaram21/ssundaram21.github.io
 
+Shuo Wang
+https://sites.google.com/view/shuowang2002/home
+Lab source: https://toc.csail.mit.edu/Students
+
 Siddharth Somasundaram
 https://www.sidsoma.com
 Lab source: https://www.media.mit.edu/people/?filter=student
@@ -4068,6 +4379,11 @@ Sizhe Lester Li
 https://sizhe-li.github.io
 Lab source: https://scenerepresentations.org/people
 Website source code: https://github.com/sizhe-li/sizhe-li.github.io
+
+Songyuan Zhang
+https://syzhang092218-source.github.io
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Website source code: https://github.com/syzhang092218-source/syzhang092218-source.github.io
 
 Sophie Wang
 https://www.sophielwang.com/
@@ -4078,10 +4394,28 @@ https://srsambara.github.io/
 Lab source: https://healthyml.org/people/
 Website source code: https://github.com/srsambara/srsambara.github.io
 
+Steven Roche
+https://sroche14.github.io/
+Lab source: https://acl.mit.edu/people/
+Website source code: https://github.com/SRoche14/SRoche14.github.io
+
+Sulekha Kishore
+https://sukishore12.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Website source code: https://github.com/sukishore12/sukishore12.github.io
+
+Ted Pyne
+https://sites.google.com/view/tedpyne/home
+Lab source: https://toc.csail.mit.edu/Students
+
 Terry Kim
 https://winterrykim.github.io/
 Lab source: https://people.csail.mit.edu/yoonkim/
 Website source code: https://github.com/winterrykim/winterrykim.github.io
+
+Thomas Cohn
+https://tommycohn.com/
+Lab source: https://groups.csail.mit.edu/locomotion/people.html
 
 Thomas Sanchez Lengeling
 http://codigogenerativo.com/
@@ -4100,9 +4434,18 @@ Tzofi Klinghoffer
 http://tzofi.com
 Lab source: https://www.media.mit.edu/people/?filter=student
 
+Upamanyu Sharma
+https://people.csail.mit.edu/upamanyu/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+
 Valdemar Danry
 https://www.valdemardanry.com
 Lab source: https://www.media.mit.edu/people/?filter=student
+
+Valentio Iverson
+https://valentioiverson.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=2
+Website source code: https://github.com/valentioiverson/valentioiverson.github.io
 
 Vinith M. Suriyakumar
 https://vms-6511.github.io/
@@ -4125,13 +4468,28 @@ Xiaoyan Wang
 https://xiaoyan.horizonian.com/
 Lab source: https://lis.csail.mit.edu/people/
 
+Xiaoyang Cao
+https://xiaoyangcao1113.github.io/
+Lab source: https://lids.mit.edu/people/students
+Website source code: https://github.com/XiaoyangCao1113/XiaoyangCao1113.github.io
+
 Xingjian Bai
 https://xingjianbai.com/
 Lab source: https://web.mit.edu/phillipi/
 
+Yan Dai
+https://yandaichn.github.io/
+Lab source: https://lids.mit.edu/people/students
+Website source code: https://github.com/yandaichn/yandaichn.github.io
+
 Yasith  Samaradivakara
 https://www.yasithsam.com
 Lab source: https://www.media.mit.edu/people/?filter=student
+
+Ying Feng
+https://yinggggfeng.github.io/
+Lab source: https://toc.csail.mit.edu/Students
+Website source code: https://github.com/YinggggFeng/YinggggFeng.github.io
 
 Yiran Tao
 https://yirantao1000.github.io/
@@ -4142,14 +4500,34 @@ Younghyo Park
 https://younghyopark.me
 Lab source: https://improbableai.com/members.html
 
+Youngjae Min
+https://youngjae-min.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=3
+Website source code: https://github.com/youngjae-min/youngjae-min.github.io
+
 Yubin Kim
 https://ybkim95.github.io/
 Lab source: https://www.media.mit.edu/people/?filter=student
 Website source code: https://github.com/ybkim95/ybkim95.github.io
 
+Yubo Cai
+https://yubocai-poly.github.io/
+Lab source: https://lids.mit.edu/people/students
+Website source code: https://github.com/yubocai-poly/yubocai-poly.github.io
+
+Yufeng Wu
+https://yufeng-wu.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Website source code: https://github.com/yufeng-wu/yufeng-wu.github.io
+
 Yufeng Zhao
 https://www.yufengzhao.com/
 Lab source: https://www.media.mit.edu/people/?filter=student
+
+Yuhan Ye
+https://yeyuhanyyh.github.io/
+Lab source: https://lids.mit.edu/people?8c87ac00_page=5
+Website source code: https://github.com/yeyuhanyyh/yeyuhanyyh.github.io
 
 Yuheng Yang
 https://people.csail.mit.edu/yuhengy/
@@ -4164,6 +4542,11 @@ Yulu Gan
 https://yulugan.com/
 Lab source: https://web.mit.edu/phillipi/
 
+Yun-Sheng Chang
+https://yunshengtw.github.io/
+Lab source: https://vm-web.pdos.csail.mit.edu/people/
+Website source code: https://github.com/yunshengtw/yunshengtw.github.io
+
 Yunyi Zhu
 https://yunyi-zhu.github.io/
 Lab source: https://www.csail.mit.edu/people/?roleFacets=Grad%20Students
@@ -4177,6 +4560,15 @@ Website source code: https://github.com/xiaoyuxin1002/xiaoyuxin1002.github.io
 Zachary Siegel
 https://www.zacharysiegel.org/
 Lab source: https://lis.csail.mit.edu/people/
+
+Zekai Wang
+https://zekai.site
+Lab source: https://lids.mit.edu/people?8c87ac00_page=4
+
+Zhilei Bei
+https://zhileibei.github.io
+Lab source: https://lids.mit.edu/people/students
+Website source code: https://github.com/zhileibei/zhileibei.github.io
 
 Zhiyang (Frank) Dou
 https://frank-zy-dou.github.io/
@@ -6192,6 +6584,7 @@ Website source code: https://github.com/HowardQian201/HowardQian201.github.io
 Jingwei (Chris) Zuo
 https://jingwei-zuo.com
 Lab source: https://rice-course-mlsys.github.io/lab-site/people/
+Website source code: https://github.com/Dr-Left/dr-left.github.io
 
 Minh Tâm Nguyễn
 https://tamnguyen9520.github.io/
@@ -6222,7 +6615,20 @@ Lab source: https://www.mpi-inf.mpg.de/de/departments/visual-computing-and-artif
 Website source code: https://github.com/RosettaWYzhang/RosettaWYzhang.github.io
 
 
-Stanford — 119 websites
+Stanford — 171 websites
+
+Abby Hartley
+https://abbyhartley.github.io/
+Lab source: https://kipac.stanford.edu/people/graduate-students-0
+Website source code: https://github.com/abbyhartley/abbyhartley.github.io
+
+Abhinav Chinta
+https://abhinavchinta.com
+Lab source: https://ldr.stanford.edu/people/
+
+Aditya Ghosh
+https://ghoshadi.github.io/
+Lab source: https://web.stanford.edu/~swager/team.html
 
 Aditya Kothari
 https://kothari1.github.io/
@@ -6255,6 +6661,11 @@ Alberto Tono
 https://tono.ai
 Lab source: https://crfm.stanford.edu/people.html
 
+Alejandro Lozano
+https://alejandro-lozano-dev.github.io/alejandro/
+Lab source: https://marvl.stanford.edu/people.html
+Website source code: https://github.com/alejandro-lozano-dev/alejandro
+
 Alexa Tartaglini
 https://www.alexatartaglini.com
 Lab source: https://stanford.edu/~cgpotts/students.html
@@ -6280,6 +6691,15 @@ Website source code: https://github.com/aunell/aunell.github.io
 Amber Xie
 https://amberxie88.github.io/
 Lab source: https://iliad.stanford.edu/people/
+
+Anastasia Lyulina
+https://alyulina.github.io/
+Lab source: https://bgoodlab.github.io/people/
+Website source code: https://github.com/alyulina/alyulina.github.io
+
+Anders Wikum
+https://anders-wikum.github.io/
+Lab source: https://vitercik.github.io/group/
 
 Aneesh Muppidi
 https://aneeshers.github.io/
@@ -6312,6 +6732,16 @@ Ayush Agarwal
 https://ayush055.github.io/
 Lab source: https://irislab.stanford.edu/people.html
 
+Ayush Sawarni
+https://sawarniayush.github.io/
+Lab source: https://www.vsyrgkanis.com/
+Website source code: https://github.com/sawarniayush/sawarniayush.github.io
+
+Bill Yen
+https://www.billyen33.com/
+Lab source: https://s4lab.stanford.edu/people
+Website source code: https://github.com/billyen33/billyen33.github.io
+
 Bo Ai
 https://albertboai.com/
 Lab source: https://irislab.stanford.edu/people.html
@@ -6334,6 +6764,11 @@ https://bchao1.github.io/
 Lab source: https://psai.stanford.edu/team.html
 Website source code: https://github.com/bchao1/bchao1.github.io
 
+Bryan Park
+https://bryan1292929.github.io/
+Lab source: https://web.stanford.edu/~swager/team.html
+Website source code: https://github.com/bryan1292929/bryan1292929.github.io
+
 Caleb Winston
 https://calebwin.github.io
 Lab source: https://crfm.stanford.edu/people.html
@@ -6346,6 +6781,16 @@ Lab source: https://iprl.stanford.edu/
 Cem Gokmen
 https://www.cemgokmen.com
 Lab source: https://crfm.stanford.edu/people.html
+
+Chae Young Lee
+https://stanford.edu/~chae/
+Lab source: https://s4lab.stanford.edu/people
+Website source code: https://github.com/chaeyoung-lee/chaeyoung-lee.github.io
+
+Chenglei Si
+https://noviscl.github.io/
+Lab source: https://thashim.github.io/
+Website source code: https://github.com/noviscl/noviscl.github.io
 
 Chuer Pan
 https://chuerpan.com/
@@ -6361,6 +6806,14 @@ https://danielpmorton.github.io/
 Lab source: https://stanfordasl.github.io/team/dan-morton/
 Website source code: https://github.com/danielpmorton/danielpmorton.github.io
 
+Delon Shen
+https://delonshen.com
+Lab source: https://kipac.stanford.edu/people/graduate-students-0
+
+Dhruba Ghosh
+https://djghosh13.github.io/
+Lab source: https://people.csail.mit.edu/ludwigs/group.html
+
 Divya Nori
 https://divnori.github.io/
 Lab source: https://hazyresearch.stanford.edu/people
@@ -6370,6 +6823,20 @@ Ed Chen
 https://edjchen.me/
 Lab source: https://crfm.stanford.edu/people.html
 
+Elizabeth Childs
+http://www.elchilds.su.domains
+Lab source: https://charm.stanford.edu/Main/People
+Website source code: https://github.com/liberty293/liberty293.github.io
+
+Elizabeth Jiwon Im
+https://imelizabeth.github.io
+Lab source: https://vpnl.stanford.edu/people
+Website source code: https://github.com/imelizabeth/imelizabeth.github.io
+
+Emily Goodwin
+https://emilygoodwin.github.io/
+Lab source: https://alpslab.stanford.edu/people.html
+
 Erik Bauer
 https://erikbr01.github.io/
 Lab source: https://stanfordasl.github.io/team/erik-bauer/
@@ -6378,6 +6845,15 @@ Fang Wu
 https://smiles724.github.io/
 Lab source: https://newsnap.stanford.edu/people.html
 Website source code: https://github.com/smiles724/smiles724.github.io
+
+Fiona Cai
+https://fionacai.com/
+Lab source: https://marvl.stanford.edu/people.html
+Website source code: https://github.com/fionaxc/fionaxc.github.io
+
+Geneva Ecola
+https://www.genevaecola.com/
+Lab source: https://s4lab.stanford.edu/people
 
 Genghan Zhang
 https://zhang677.github.io/
@@ -6411,6 +6887,10 @@ Hengyuan Hu
 https://hengyuanhu.com/
 Lab source: https://iliad.stanford.edu/people/
 
+Henry Robbins
+https://henryrobbins.com/
+Lab source: https://vitercik.github.io/group/
+
 Hojune Kim
 https://hojjunekim.github.io/
 Lab source: https://msl.stanford.edu/people/
@@ -6430,6 +6910,15 @@ https://jadenvc.github.io/
 Lab source: https://msl.stanford.edu/people/
 Website source code: https://github.com/jadenvc/jadenvc.github.io
 
+James Ferrare
+https://jamesferrare.github.io/
+Lab source: https://bgoodlab.github.io/people/
+Website source code: https://github.com/jamesferrare/jamesferrare.github.io
+
+Jasmin Falconer
+https://jasminfalconer.sites.stanford.edu/
+Lab source: https://s4lab.stanford.edu/people
+
 Jay Shenoy
 http://jayshenoy.com/
 Lab source: https://psai.stanford.edu/team.html
@@ -6447,9 +6936,22 @@ Jiankai Sun
 https://web.stanford.edu/~jksun
 Lab source: https://msl.stanford.edu/people/
 
+Jida Zhang
+https://giddazhang.github.io/
+Lab source: https://s4lab.stanford.edu/people
+
+Jikai Jin
+https://jkjin.com/
+Lab source: https://www.vsyrgkanis.com/
+
 Jing Huang
 https://explanare.github.io
 Lab source: https://stanford.edu/~cgpotts/students.html
+
+Jing Shang
+https://jshang21.github.io/
+Lab source: https://web.stanford.edu/~swager/team.html
+Website source code: https://github.com/jshang21/jshang21.github.io
 
 Jingyun Yang
 https://yjy0625.github.io/
@@ -6459,6 +6961,20 @@ Website source code: https://github.com/yjy0625/yjy0625.github.io
 Jisang Park
 https://jisangpark.com/
 Lab source: https://iprl.stanford.edu/
+
+Jiyuan Tan
+https://jiyuan-tan.github.io/
+Lab source: https://www.vsyrgkanis.com/
+Website source code: https://github.com/jiyuan-tan/jiyuan-tan.github.io
+
+John (Jack) Dinsmore
+https://jack-dinsmore.github.io/
+Lab source: https://kipac.stanford.edu/people/graduate-students-0
+Website source code: https://github.com/jack-dinsmore/jack-dinsmore.github.io
+
+John McEnany
+https://sites.google.com/view/john-mcenany-research/
+Lab source: https://bgoodlab.github.io/people/
 
 Jon Saad-Falcon
 https://jonsaadfalcon.com/
@@ -6491,6 +7007,11 @@ Ke Wang
 https://kewang.ai/
 Lab source: https://irislab.stanford.edu/people.html
 
+Keertana Chidambaram
+https://keertanavc.github.io/
+Lab source: https://www.vsyrgkanis.com/
+Website source code: https://github.com/keertanavc/keertanavc.github.io
+
 Kexin Huang
 https://www.kexinhuang.com
 Lab source: https://newsnap.stanford.edu/people.html
@@ -6507,6 +7028,15 @@ Website source code: https://github.com/Kuan-Pang/kuan-pang.github.io
 Lars Ankile
 https://ankile.com/
 Lab source: https://irislab.stanford.edu/people.html
+
+Leon Liangyu Chen
+https://cliangyu.com/
+Lab source: https://marvl.stanford.edu/people.html
+
+Lindsay Popowski
+https://lipopowski.github.io/
+Lab source: https://sml.stanford.edu/about-people
+Website source code: https://github.com/lipopowski/lipopowski.github.io
 
 Liyuan Zhu
 https://www.zhuliyuan.net/
@@ -6529,9 +7059,23 @@ https://marceltorne.github.io
 Lab source: https://irislab.stanford.edu/people.html
 Website source code: https://github.com/MarcelTorne/MarcelTorne.github.io
 
+Mark Endo
+https://web.stanford.edu/~markendo/
+Lab source: https://marvl.stanford.edu/people.html
+
+Matthew Caren
+https://matthewcaren.github.io//
+Lab source: https://shape.stanford.edu/people/
+Website source code: https://github.com/matthewcaren/matthewcaren.github.io
+
 Max Du
 https://maximiliandu.com/
 Lab source: https://real.stanford.edu/lab.html
+
+Megha Srivastava
+https://web.stanford.edu/~meghas/
+Lab source: https://iliad.stanford.edu/people/
+Website source code: https://github.com/meghabyte/meghabyte.github.io
 
 Michael Li
 https://michaelyli.github.io/
@@ -6546,6 +7090,10 @@ https://milanganai.github.io/
 Lab source: https://stanfordasl.github.io/team/milan_ganai/
 Website source code: https://github.com/milanganai/milanganai.github.io
 
+Min Woo Sun
+https://minwoosun.github.io/
+Lab source: https://marvl.stanford.edu/people.html
+
 Nathan Hu
 https://nathanhu0.github.io
 Lab source: https://stanford.edu/~cgpotts/students.html
@@ -6559,6 +7107,11 @@ Website source code: https://github.com/nsobotka/nsobotka.github.io
 Neil Band
 https://nband.github.io/
 Lab source: https://crfm.stanford.edu/people.html
+
+Nicole Meister
+https://nicolemeister.github.io/
+Lab source: https://thashim.github.io/
+Website source code: https://github.com/nicolemeister/nicolemeister.github.io
 
 Nikil Roashan Selvam
 https://www.nikilrs.com/
@@ -6617,6 +7170,10 @@ Rohan Koodli
 https://www.koodli.com
 Lab source: https://crfm.stanford.edu/people.html
 
+Rohith Kuditipudi
+https://web.stanford.edu/~rohithk/
+Lab source: https://web.stanford.edu/~jduchi/group.html
+
 Ryan Po
 https://ryanpo.com/
 Lab source: https://psai.stanford.edu/team.html
@@ -6624,6 +7181,15 @@ Lab source: https://psai.stanford.edu/team.html
 Rylan Schaeffer
 https://rylanschaeffer.github.io/
 Lab source: https://crfm.stanford.edu/people.html
+
+Saehui Hwang
+https://saehuihwang.github.io/
+Lab source: https://shape.stanford.edu/people/
+Website source code: https://github.com/saehuihwang/saehuihwang.github.io
+
+Saminul Haque
+https://web.stanford.edu/~saminulh/
+Lab source: https://web.stanford.edu/~jduchi/group.html
 
 Sarthak Kamat
 https://www.sartk.com/
@@ -6634,9 +7200,34 @@ https://satvik1701.github.io/
 Lab source: https://iliad.stanford.edu/people/
 Website source code: https://github.com/Satvik1701/Satvik1701.github.io
 
+Senem Işık
+https://senemashak.github.io/
+Lab source: https://ldr.stanford.edu/people/
+Website source code: https://github.com/senemashak/senemashak.github.io
+
+Seojin Lee
+https://slee20512.github.io/
+Lab source: https://vpnl.stanford.edu/people
+Website source code: https://github.com/slee20512/slee20512.github.io
+
+Shayan Talaei
+https://shayantalaei.com
+Lab source: https://ldr.stanford.edu/people/
+Website source code: https://github.com/ShayanTalaei/ShayanTalaei.github.io
+
 Shengqu Cai
 https://primecai.github.io/
 Lab source: https://psai.stanford.edu/team.html
+
+Shiangyi Lin
+https://shiangyilin.github.io/
+Lab source: https://www.vsyrgkanis.com/
+Website source code: https://github.com/shiangyilin/shiangyilin.github.io
+
+Shiye Su
+https://ssu53.github.io/
+Lab source: https://marvl.stanford.edu/people.html
+Website source code: https://github.com/ssu53/ssu53.github.io
 
 Sirui (Eric) Chen
 https://ericcsr.github.io/
@@ -6656,6 +7247,10 @@ Website source code: https://github.com/SophiaHuangCc/SophiaHuangCc.github.io
 Sriram Yenamandra
 https://yvsriram.github.io/
 Lab source: https://iliad.stanford.edu/people/
+
+Steven Cao
+https://stevenxcao.github.io/
+Lab source: https://statsml.stanford.edu/students.html
 
 Steven Feng
 https://styfeng.github.io/
@@ -6678,6 +7273,16 @@ Suvir Mirchandani
 http://suvir.me/
 Lab source: https://iliad.stanford.edu/people/
 
+Sydney Yan
+https://sydneyyan.github.io
+Lab source: https://s4lab.stanford.edu/people
+Website source code: https://github.com/sydneyyan/sydneyyan.github.io
+
+Thomas Deng
+https://thomasdeng2027.github.io/
+Lab source: https://iprl.stanford.edu/
+Website source code: https://github.com/thomasdeng2027/thomasdeng2027.github.io
+
 Tian Gao
 https://skybhh19.github.io/
 Lab source: https://irislab.stanford.edu/people.html
@@ -6691,6 +7296,16 @@ Tyler Lum
 https://tylerlum.github.io/
 Lab source: https://iprl.stanford.edu/
 Website source code: https://github.com/tylerlum/tylerlum.github.io
+
+Verity Yu Qing Lua
+https://vyqlua.github.io/
+Lab source: https://culture-emotion-lab.stanford.edu/people/members
+Website source code: https://github.com/vyqlua/vyqlua.github.io
+
+Xiang Lisa Li
+https://xiangli1999.github.io/
+Lab source: https://thashim.github.io/
+Website source code: https://github.com/xiangli1999/xiangli1999.github.io
 
 Xiaomeng Xu
 https://xxm19.github.io/
@@ -6724,10 +7339,18 @@ Yibo Zhang
 https://yiboz.me/
 Lab source: https://stairlab.stanford.edu/members/yibo_zhang.html
 
+Yifan Zhu
+https://fanzhuyifan.github.io
+Lab source: https://web.stanford.edu/~jduchi/group.html
+
 Yihuai Gao
 https://yihuai-gao.github.io/
 Lab source: https://real.stanford.edu/lab.html
 Website source code: https://github.com/yihuai-gao/yihuai-gao.github.io
+
+Yingxi Li
+https://yingxi-li.github.io/
+Lab source: https://vitercik.github.io/group/
 
 Yitang Li
 https://liyitang22.github.io/
@@ -6738,9 +7361,17 @@ Yoonho Lee
 https://yoonholee.com/
 Lab source: https://irislab.stanford.edu/people.html
 
+Yu He
+https://dransyhe.github.io/
+Lab source: https://vitercik.github.io/group/
+
 Yufei Ding
 https://yufeiding.com/
 Lab source: https://iprl.stanford.edu/
+
+Yujie Tao
+https://yujietao.me
+Lab source: https://shape.stanford.edu/people/
 
 Zeyi Liu
 https://lzylucy.github.io/
@@ -7050,7 +7681,7 @@ https://zhuofanxia.xyz
 Lab source: https://www.leaplab.ai/members
 
 
-UC Berkeley — 155 websites
+UC Berkeley — 195 websites
 
 Aayushi Shrivastava
 https://sites.google.com/view/aayushishrivastava/home
@@ -7070,6 +7701,11 @@ Akshat Gupta
 https://akshat57.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/akshat57/akshat57.github.io
+
+Alan Wang
+https://urd00m.github.io/
+Lab source: https://security.cs.berkeley.edu/
+Website source code: https://github.com/urd00m/urd00m.github.io
 
 Alan Zhu
 https://az1326.github.io/
@@ -7103,6 +7739,10 @@ http://avdravid.github.io
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/avdravid/avdravid.github.io
 
+Ananya Gubbi Mohanbabu
+https://ananyagm.com/
+Lab source: https://hci.berkeley.edu/
+
 Angela Jin
 http://angelacjin.github.io
 Lab source: https://bair.berkeley.edu/people/students
@@ -7113,6 +7753,16 @@ http://people.eecs.berkeley.edu/~apelecan/
 Lab source: https://theory.cs.berkeley.edu/
 Website source code: https://github.com/apelecan/apelecan.github.io
 
+Annie Ulichney
+https://aulichney.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/aulichney/aulichney.github.io
+
+Anqi Wang
+https://anqiwang02.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/anqiwang02/anqiwang02.github.io
+
 Atakan Topcu
 https://attakuan.github.io
 Lab source: https://bair.berkeley.edu/people/students
@@ -7121,6 +7771,16 @@ Beyazit Yalcinkaya
 https://beyazit-y.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/beyazit-y/beyazit-y.github.io
+
+Boru Chen
+https://bluechen8.github.io/
+Lab source: https://security.cs.berkeley.edu/
+Website source code: https://github.com/bluechen8/bluechen8.github.io
+
+Brian Lee
+https://bl-ee.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/bl-ee/bl-ee.github.io
 
 Cassie Jeng
 https://cjeng8771.github.io/cassiejeng/
@@ -7131,6 +7791,11 @@ Catherine Glossop
 https://catglossop.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/catglossop/catglossop.github.io
+
+Chad Harper
+https://chadharper.github.io/
+Lab source: https://redwood.berkeley.edu/people/
+Website source code: https://github.com/chadHarper/chadHarper.github.io
 
 Chanwut Kittivorawong
 https://chanwutk.github.io/
@@ -7192,10 +7857,19 @@ https://davidchuyaya.github.io/
 Lab source: https://sky.cs.berkeley.edu/people/
 Website source code: https://github.com/davidchuyaya/davidchuyaya.github.io
 
+David Minh-Duy Cao
+https://cao.sh/
+Lab source: https://hci.berkeley.edu/
+
 David Wu
 https://davidxwu.github.io/
 Lab source: https://theory.cs.berkeley.edu/
 Website source code: https://github.com/davidxwu/davidxwu.github.io
+
+Deepthi Bannai
+https://dbannai.github.io/
+Lab source: https://redwood.berkeley.edu/people/
+Website source code: https://github.com/dbannai/dbannai.github.io
 
 Deevashwer Rathee
 https://deevashwer.github.io/
@@ -7211,6 +7885,14 @@ https://djapp18.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/djapp18/djapp18.github.io
 
+Dhruva Karkada
+https://dkarkada.xyz
+Lab source: https://redwood.berkeley.edu/people/
+
+Drew Nguyen
+https://drewtnguyen.github.io/
+Lab source: https://statml.berkeley.edu/
+
 Eli Bronstein
 https://elibronstein.com/
 Lab source: https://bair.berkeley.edu/people/students
@@ -7223,6 +7905,10 @@ Website source code: https://github.com/ElizabethDietrich/elizabethdietrich.gith
 Eric Qu
 https://ericqu.site
 Lab source: https://bair.berkeley.edu/people/students
+
+Eric Rawn
+https://www.ericrawn.media/
+Lab source: https://hci.berkeley.edu/
 
 Francisca Vasconcelos
 https://franciscavasconcelos.github.io/
@@ -7253,6 +7939,11 @@ https://t6-thu.github.io
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/t6-thu/t6-thu.github.io
 
+Haozhe Jiang
+https://astro-eric.github.io
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/Astro-Eric/Astro-Eric.github.io
+
 Harman Singh
 https://harmandotpy.github.io/
 Lab source: https://bair.berkeley.edu/people/students
@@ -7263,9 +7954,17 @@ https://hengyuf.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/hengyuf/hengyuf.github.io
 
+Hila Mor
+https://hilamor.com/
+Lab source: https://hci.berkeley.edu/
+
 Himanshu Gaurav Singh
 https://hgaurav2k.github.io/
 Lab source: https://bair.berkeley.edu/people/students
+
+Holly Jackson
+https://holly-jackson.com/
+Lab source: https://statml.berkeley.edu/
 
 Huanzhi Mao
 https://huanzhimao.com/
@@ -7275,6 +7974,11 @@ Hunter Nisonoff
 https://hnisonoff.github.io
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/hnisonoff/hnisonoff.github.io
+
+Inioluwa Deborah Raji
+https://rajiinio.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/rajiinio/rajiinio.github.io
 
 Jaewan Hong
 https://sites.google.com/view/jaewanhong/home
@@ -7288,6 +7992,10 @@ Website source code: https://github.com/james-bowden/james-bowden.github.io
 James Fong
 https://james.fong.page/
 Lab source: https://bair.berkeley.edu/people/students
+
+Jay Lee
+https://jaylee.pl/
+Lab source: https://plait-lab.org/
 
 Jen-Wei Wang
 https://williamwang303.github.io/
@@ -7313,9 +8021,8 @@ https://jivatneet.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 
 Jongho Park
-https://jerryjonghopark.github.io/
-Lab source: https://bair.berkeley.edu/people/students
-Website source code: https://github.com/jerryjonghopark/jerryjonghopark.github.io
+https://jongho.me/
+Lab source: https://statml.berkeley.edu/
 
 Jongseok Park
 http://www.js-park.info/
@@ -7326,10 +8033,24 @@ https://jhlee0513.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/JHLee0513/JHLee0513.github.io
 
+Josh Davis
+https://jxshdavis.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/jxshdavis/jxshdavis.github.io
+
+Juno Kim
+https://junokim1.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/junokim1/junokim1.github.io
+
 Junyu Guo
 https://jamesjunyuguo.github.io/
 Lab source: https://sail-research-lab.github.io/group.html
 Website source code: https://github.com/JamesJunyuGuo/JamesJunyuGuo.github.io
+
+Justin Lubin
+https://jlubin.net
+Lab source: https://plait-lab.org/
 
 Justin Yu
 http://uynitsuj.github.io
@@ -7345,6 +8066,10 @@ https://kh-ryu.github.io
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/kh-ryu/kh-ryu.github.io
 
+Karim Benharrak
+https://benharrak.com/
+Lab source: https://hci.berkeley.edu/
+
 Karim Elmaaroufi
 https://kael.tech.blog/
 Lab source: https://sky.cs.berkeley.edu/people/
@@ -7356,6 +8081,11 @@ Lab source: https://bair.berkeley.edu/people/students
 Kayo Yin
 https://kayoyin.github.io/
 Lab source: https://bair.berkeley.edu/people/students
+
+Kevin Ma
+https://kevinma1515.github.io/
+Lab source: https://codesign.berkeley.edu/team/
+Website source code: https://github.com/kevinma1515/kevinma1515.github.io
 
 Kevin Zakka
 https://kzakka.com/
@@ -7369,6 +8099,11 @@ Kunhe Yang
 https://kunheyang.com/
 Lab source: https://bair.berkeley.edu/people/students
 
+Kunjun Li
+https://kunjun-li.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/Kunjun-Li/kunjun-li.github.io
+
 Lakshya A Agrawal
 https://lakshyaaagrawal.github.io/
 Lab source: https://sky.cs.berkeley.edu/people/
@@ -7379,10 +8114,20 @@ https://landonbutler.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/landonbutler/landonbutler.github.io
 
+Lucas Schwengber
+https://lucas-schwengber.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/Lucas-Schwengber/lucas-schwengber.github.io
+
 Marissa Ramirez de Chanlatte
 https://marissachanlatte.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/marissachanlatte/marissachanlatte.github.io
+
+Mark Bedaywi
+https://markbedaywi.ca/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/Supermac30/supermac30.github.io
 
 Marçal Comajoan Cara
 https://marçal.cc
@@ -7407,9 +8152,15 @@ https://melissa-pan.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/melissa-pan/melissa-pan.github.io
 
+Meng Chen
+https://meng-chen.com/
+Lab source: https://hci.berkeley.edu/
+Website source code: https://github.com/Casardo-Chen/casardo-chen.github.io
+
 Mert Cemri
-https://people.eecs.berkeley.edu/~mert_cemri/
-Lab source: https://sky.cs.berkeley.edu/people/
+https://mert-cemri.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/mert-cemri/mert-cemri.github.io
 
 Micah Carroll
 https://micahcarroll.github.io/
@@ -7418,6 +8169,10 @@ Lab source: https://bair.berkeley.edu/people/students
 Mihir Singhal
 https://www.mihirsinghal.com
 Lab source: https://theory.cs.berkeley.edu/
+
+Mina Huh
+https://minahuh.com/
+Lab source: https://hci.berkeley.edu/
 
 Minhyuk Seo
 https://dbd05088.github.io/
@@ -7459,10 +8214,19 @@ Neil Giridharan
 https://neilgiri.github.io/
 Lab source: https://sky.cs.berkeley.edu/people/
 
+Nicole Goridkov
+https://goridkov.github.io/
+Lab source: https://codesign.berkeley.edu/team/
+Website source code: https://github.com/goridkov/goridkov.github.io
+
 Nikita Mehandru
 https://n-mehandru.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/n-mehandru/n-mehandru.github.io
+
+Parker Ziegler
+https://parkerziegler.com/
+Lab source: https://plait-lab.org/
 
 Parth Asawa
 https://pgasawa.github.io/
@@ -7487,6 +8251,11 @@ Rajiv Movva
 https://rajivmovva.com/
 Lab source: https://bair.berkeley.edu/people/students
 
+Rebecca Saul
+https://rbsaul.github.io/
+Lab source: https://security.cs.berkeley.edu/
+Website source code: https://github.com/rbsaul/rbsaul.github.io
+
 Reggie Frank
 https://people.eecs.berkeley.edu/~reginaldfrank77/
 Lab source: https://sky.cs.berkeley.edu/people/
@@ -7494,6 +8263,11 @@ Lab source: https://sky.cs.berkeley.edu/people/
 Renhao Wang
 https://renwang435.github.io/
 Lab source: https://bair.berkeley.edu/people/students
+
+Ricardo J. Sandoval
+https://ricardojsandoval.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/RicardoJSandoval/RicardoJSandoval.github.io
 
 Rishabh Tiwari
 https://www.rishabhtiwari.org/
@@ -7508,6 +8282,11 @@ Ryan J Park
 https://ryanjpark03.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 
+Ryan Lehmkuhl
+https://ryanleh.me/
+Lab source: https://security.cs.berkeley.edu/
+Website source code: https://github.com/ryanleh/ryanleh.github.io
+
 Ryan Wang
 https://ryanyxw.github.io/
 Lab source: https://dill-lab.github.io/people/
@@ -7516,6 +8295,10 @@ Website source code: https://github.com/ryanyxw/ryanyxw.github.io
 Sabriya Alam
 https://sites.google.com/view/sabriyaalam
 Lab source: https://bair.berkeley.edu/people/students
+
+Samia Menon
+https://www.samiamenon.com/
+Lab source: https://hci.berkeley.edu/
 
 Sampada Deglurkar
 https://sdeglurkar.github.io
@@ -7581,14 +8364,18 @@ Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/sidhikabalachandar/sidhikabalachandar.github.io
 
 Sijun Tan
-https://jeffreysijuntan.github.io/
-Lab source: https://sky.cs.berkeley.edu/people/
-Website source code: https://github.com/jeffreysijuntan/jeffreysijuntan.github.io
+http://www.jeffreysijuntan.com
+Lab source: https://security.cs.berkeley.edu/
 
 Simeon Adebola
 https://simeonoa.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/SimeonOA/simeonoa.github.io
+
+Sizhe Chen
+https://sizhe-chen.github.io/
+Lab source: https://security.cs.berkeley.edu/
+Website source code: https://github.com/Sizhe-Chen/Sizhe-Chen.github.io
 
 Stephanie Fu
 https://stephanie-fu.github.io/
@@ -7612,6 +8399,11 @@ Website source code: https://github.com/travis1829/travis1829.github.io
 Tara Sadjadpour
 https://people.eecs.berkeley.edu/~tsadja/
 Lab source: https://bair.berkeley.edu/people/students
+
+Tejasvi Kothapalli
+https://tejasvikothapalli.github.io/
+Lab source: https://redwood.berkeley.edu/people/
+Website source code: https://github.com/tejasvikothapalli/tejasvikothapalli.github.io
 
 Tianneng Shi
 https://tnshi.com/
@@ -7643,6 +8435,10 @@ Vivek Myers
 http://people.eecs.berkeley.edu/~vmyers
 Lab source: https://bair.berkeley.edu/people/students
 
+Vivian Chan
+http://vivianchan.tw/
+Lab source: https://hci.berkeley.edu/
+
 Wenjie (Jeff) Li
 https://jeffwli.github.io/
 Lab source: https://bair.berkeley.edu/people/students
@@ -7666,6 +8462,11 @@ https://rxdoi.github.io/
 Lab source: https://theory.cs.berkeley.edu/
 Website source code: https://github.com/rxdoi/rxdoi.github.io
 
+Xuelin Yang
+http://xyang23.github.io
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/xyang23/xyang23.github.io
+
 Yaodong Yu
 https://yaodongyu.github.io
 Lab source: https://bair.berkeley.edu/people/students
@@ -7688,6 +8489,11 @@ Yichuan Wang
 https://yichuan-w.github.io/
 Lab source: https://sky.cs.berkeley.edu/people/
 Website source code: https://github.com/yichuan-w/yichuan-w.github.io
+
+Yihan Geng
+https://yihan04.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/yihan04/yihan04.github.io
 
 Yishu Li
 https://liy1shu.github.io/
@@ -7717,6 +8523,11 @@ https://yuezhouhu.github.io/
 Lab source: https://bair.berkeley.edu/people/students
 Website source code: https://github.com/yuezhouhu/yuezhouhu.github.io
 
+Yuhang Cai
+https://willcai7.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/willcai7/willcai7.github.io
+
 Yuxin Chen
 https://thomaschen98.github.io
 Lab source: https://bair.berkeley.edu/people/students
@@ -7725,6 +8536,11 @@ Website source code: https://github.com/ThomasChen98/thomaschen98.github.io
 Zachary Rewolinski
 https://www.zachrewolinski.com/
 Lab source: https://bair.berkeley.edu/people/students
+
+Zeyu Yun
+https://zeyuyun1.github.io/
+Lab source: https://statml.berkeley.edu/
+Website source code: https://github.com/zeyuyun1/zeyuyun1.github.io
 
 Zhe Fu
 http://fu-zhe.com
@@ -10507,6 +11323,7 @@ Website source code: https://github.com/Felicia35/Felicia35.github.io
 Sejal Agarwal
 https://sejalagarwal.ca/
 Lab source: https://hci.cs.uwaterloo.ca/people/
+Website source code: https://github.com/sejal-agarwal/sejal-notebook-portfolio
 
 Shaikh Shawon Arefin Shimon
 http://www.shawonarefin.com/

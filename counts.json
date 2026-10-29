@@ -1,8 +1,8 @@
 {
-  "total": 2281,
+  "total": 2459,
   "universities": 72,
-  "design_picks": 521,
-  "website_repositories": 1309,
+  "design_picks": 587,
+  "website_repositories": 1414,
   "counts": {
     "Beihang": 1,
     "Bonn": 6,
@@ -19,13 +19,13 @@
     "ETH Zurich": 32,
     "Edinburgh": 6,
     "Georgia Tech": 42,
-    "Harvard": 107,
+    "Harvard": 121,
     "Imperial College London": 5,
     "Johns Hopkins": 7,
     "KAIST": 43,
     "Keio University": 1,
     "Laval": 3,
-    "MIT": 169,
+    "MIT": 241,
     "McGill": 34,
     "Monash": 1,
     "NTU Singapore": 29,
@@ -42,13 +42,13 @@
     "Purdue": 17,
     "Rice": 4,
     "Saarland University": 4,
-    "Stanford": 119,
+    "Stanford": 171,
     "Sydney": 2,
     "TTIC": 9,
     "TUM": 6,
     "Toronto": 14,
     "Tsinghua": 30,
-    "UC Berkeley": 155,
+    "UC Berkeley": 195,
     "UC Davis": 6,
     "UC Irvine": 11,
     "UC Riverside": 1,
@@ -78,5 +78,7 @@
     "Zhejiang University": 8
   },
   "checked_on": "2026-10-29",
-  "duplicates_removed": 8
+  "new_additions": 178,
+  "updated_profiles": 3,
+  "baseline_total": 2281
 }

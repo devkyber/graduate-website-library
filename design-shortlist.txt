@@ -2081,3 +2081,267 @@ Teal sidebar and clear project cards on a spacious white page.
 Yuanhong Yu — Zhejiang University
 https://yuanhongyu.xyz/
 Large introductory heading and visual research rows.
+
+Jongho Park — UC Berkeley
+https://jongho.me/
+Rounded white panels on a pale background separate the introduction, recent news, and past experience into readable blocks.
+
+Jasmin Falconer — Stanford
+https://jasminfalconer.sites.stanford.edu/
+A wide landscape photograph carries a small introduction card, followed by three illustrated paths into research and mentoring.
+
+Geneva Ecola — Stanford
+https://www.genevaecola.com/
+Lavender navigation, generous spacing, and white research cards soften a dense technical biography without losing hierarchy.
+
+Steven Cao — Stanford
+https://stevenxcao.github.io/
+A compact profile leads into a two-column grid of illustrated recent papers, making research the first visual destination.
+
+Abby Hartley — Stanford
+https://abbyhartley.github.io/
+An expansive nebula hero transitions into a blue gradient biography, connecting the astronomy research and art portfolio visually.
+
+Shiye Su — Stanford
+https://ssu53.github.io/
+Pale green framing and a prominent illustrated image lend personality to otherwise spare research typography.
+
+Alejandro Lozano — Stanford
+https://alejandro-lozano-dev.github.io/alejandro/
+A faint network diagram frames translucent white biography and news panels, adding texture while preserving a clear reading area.
+
+Saehui Hwang — Stanford
+https://saehuihwang.github.io/
+Oversized blue serif name lettering, a warm cream background, and a sky-blue strip of project images create a memorable opening.
+
+Matthew Caren — Stanford
+https://matthewcaren.github.io//
+Heavy black rules, oversized split name typography, and terse multi-column introductions establish a distinctive artist-researcher identity.
+
+Elizabeth Childs — Stanford
+http://www.elchilds.su.domains
+A persistent profile sidebar supports a large illustrated project hero and rounded information cards with clear calls into the work.
+
+Henry Robbins — Stanford
+https://henryrobbins.com/
+A narrow ruled sidebar, grayscale portrait, and three-column experience cards turn a research résumé into a coherent visual system.
+
+Jiyuan Tan — Stanford
+https://jiyuan-tan.github.io/
+A bright floral banner introduces the profile, while three compact research cards summarize distinct research directions.
+
+Jikai Jin — Stanford
+https://jkjin.com/
+A pale cyan canvas, serif italic name, and unusually generous negative space make the introductory research statement stand out.
+
+Aditya Ghosh — Stanford
+https://ghoshadi.github.io/
+A warm off-white canvas and three equal research cards provide a concise visual summary beside a neatly aligned portrait.
+
+Jing Shang — Stanford
+https://jshang21.github.io/
+A fine-line portrait and city skyline share the hero with a concise biography, followed by a restrained slate footer.
+
+Verity Yu Qing Lua — Stanford
+https://vyqlua.github.io/
+A pastel watercolor background surrounds a charcoal profile panel, with blue link accents and a compact personal introduction.
+
+Senem Işık — Stanford
+https://senemashak.github.io/
+Warm cream paper coloring, serif headings, and an asymmetric research-and-notes layout create a calm editorial reading experience.
+
+Yubo Cai — MIT
+https://yubocai-poly.github.io/
+Warm cream background, lightly tinted biography panel, serif greeting, and a narrow identity sidebar.
+
+Xiaoyang Cao — MIT
+https://xiaoyangcao1113.github.io/
+Large serif name, quiet pink links, an offset portrait, and a tab row above image-led publications.
+
+Peter G. Chang — MIT
+https://petergchang.github.io/
+ASCII-art masthead, cream background, monospace body, and brightly colored inline links create a distinctive retro page.
+
+Nathanael Jo — MIT
+https://nathanaj99.github.io/
+Warm paper background, bold all-caps name, circular portrait, and a two-column research map create a clear editorial hierarchy.
+
+Sulekha Kishore — MIT
+https://sukishore12.github.io/
+Cream identity rail, large serif section headings, and modular research blocks make the content easy to browse.
+
+Haiwen Li — MIT
+https://haiwenli.dev/
+Strong sans-serif identity, generous white space, education cards, and a distinct recent-publications section.
+
+Chanwoo Park — MIT
+https://chanwoo-park-official.github.io/
+Full-width personal photograph, large white name, and a narrow portrait overlapping the navigation create a memorable hero.
+
+Manuel Quintero Coronel — MIT
+https://manuelquinteroc.github.io/
+Warm-colored links, a playful outdoor portrait, and a fixed profile rail frame a chronological news section.
+
+Ashkan Soleymani — MIT
+https://ashkansoleymani.lids.mit.edu/
+Dark fixed profile sidebar, understated serif name, and a separate news section form a disciplined academic layout.
+
+Eric Yang Yu — MIT
+https://ericyangyu.github.io/
+Pale-blue biography and news panels with alternating dated rows make the page easy to scan.
+
+Fan Chen — MIT
+https://sites.google.com/view/chen-fan
+Black canvas, serif section labels, large portrait, and carefully spaced biographical and awards blocks.
+
+Rebecca Lin — MIT
+https://rebeccayelin.github.io/
+Editorial serif typography, an offset scenic portrait, and spacious visual project rows connect making and computing.
+
+Junhong Lin — MIT
+https://junhongmit.github.io/
+Raised portrait card, warm off-white canvas, rounded specialty panels, and compact navigation create a polished research dashboard.
+
+Nathan Sheffield — MIT
+https://nathan-sheffield.github.io/about/
+Deep violet palette, serif poetry quotation, monochrome portrait, and fine rules give the page a literary identity.
+
+Ben Holmes — MIT
+https://bencw12.github.io/
+Monospace biography and large grey publication panels give the page a coherent technical-notebook style.
+
+Benny Rubin — MIT
+https://bennycrubin.com/
+Large Overview heading, a small centered portrait, grey masthead, and narrow body column give a clear modern hierarchy.
+
+Shao Yuan Chew Chia — MIT
+https://shaoyuan.cc/
+Small illustrated robot logo, friendly serif headings, scenic portrait, and a large explanatory research figure make a personal robotics portfolio.
+
+Thomas Cohn — MIT
+https://tommycohn.com/
+Categorized identity sidebar, rounded news panel, and image-led featured publications create a complete research-and-hobbies portfolio.
+
+Arif Kerem Dayı — MIT
+https://keremdayi.com/
+Pale-blue panels, slim portrait rail, and crisp typography give the biography and research list a polished structure.
+
+Jéa Adams Redai — Harvard
+https://jearedai.com
+A huge serif name and compact monospaced labels create a clear hierarchy on a warm graph-paper background. The adjacent scale diagram ties the visual identity directly to astronomy; borrow that connection between research subject and page ornament. The spacious hero delays the biography below the first screen.
+
+Isaias Ghezae — Harvard
+https://isaiasghezae.github.io/
+A large cutout portrait blends into the warm page background, balancing the narrow biography beside it. Serif headings, a thin navigation rule, and restrained rust-colored links give an ordinary academic introduction a coherent editorial character.
+
+Fiona Qu — Harvard
+http://www.fionaqu.com/
+A hand-drawn wordmark and scientific cartoons create a personal visual voice without filling the page with decoration. The left navigation separates zines, ceramics, and other creative work from a sparse scientific biography; borrow the use of original artwork to connect professional and personal interests. Light gray text is less prominent than the illustrations.
+
+Ryan Seaman — Harvard
+https://rpseaman.com/
+An oversized three-line headline balances a large rectangular portrait, with a single rust accent identifying the health-technology theme. Warm off-white, thin rules, and compact monospaced section labels create a consistent hierarchy; the degree and research focus are clearly summarized in a strip below the hero.
+
+Aidan D. Chambers — Harvard
+https://aidandc.co/
+A large centered serif name and one-sentence introduction give way to a grid of research and personal-project thumbnails. The small navigation divides physics, music, and miscellaneous work clearly; borrow the image-led project index, while considering a shorter hero to bring those examples into view sooner.
+
+Yuhang Cai — UC Berkeley
+https://willcai7.github.io/
+A large monochrome illustrated portrait balances a concise biography, with generous white space and a quiet navigation bar.
+
+Holly Jackson — UC Berkeley
+https://holly-jackson.com/
+Monospaced project rows with restrained thumbnails sit beside a separate biography column, giving the page an archival character.
+
+Haozhe Jiang — UC Berkeley
+https://astro-eric.github.io
+An oversized blue name, asymmetrical portrait frame, and pale cool background make the opening personal without obscuring the research introduction.
+
+Juno Kim — UC Berkeley
+https://junokim1.github.io/
+A teal identity column gives contact details a clear home while the white main column organizes research with repeated section markers.
+
+Kunjun Li — UC Berkeley
+https://kunjun-li.github.io/
+Pale blue research cards pair small visual summaries with titles and compact paper links in a consistent vertical rhythm.
+
+Lucas Schwengber — UC Berkeley
+https://lucas-schwengber.github.io/
+A dark blue identity banner provides a strong opening, then switches to white sections with thin rules and compact research tabs.
+
+Annie Ulichney — UC Berkeley
+https://aulichney.github.io/
+A small portrait column, serif reading text, and abundant white space give the selected papers a calm scholarly presentation.
+
+Anqi Wang — UC Berkeley
+https://anqiwang02.github.io/
+A dark post sidebar contrasts with a quiet cream biography, using muted olive headings and a consistent editorial grid.
+
+Zeyu Yun — UC Berkeley
+https://zeyuyun1.github.io/
+A single large personal photograph sits inside generous white margins, with small research, gallery, and CV links kept above it.
+
+Sizhe Chen — UC Berkeley
+https://sizhe-chen.github.io/
+A centered portrait, name, and row of small link buttons form a restrained identity block above a concise research statement.
+
+Ryan Lehmkuhl — UC Berkeley
+https://ryanleh.me/
+A warm peach background and tilted portrait add character to a straightforward biography-and-publications layout.
+
+Eric Rawn — UC Berkeley
+https://www.ericrawn.media/
+Warm yellow margins frame the readable research column, where project thumbnails and short explanations repeat consistently.
+
+Hila Mor — UC Berkeley
+https://hilamor.com/
+A quiet three-column project gallery lets the materials, prototypes, and process photographs supply the color and visual interest.
+
+Mina Huh — UC Berkeley
+https://minahuh.com/
+A concise introduction leads into neatly aligned paper thumbnails and short descriptions, with very little competing decoration.
+
+David Minh-Duy Cao — UC Berkeley
+https://cao.sh/
+Fine rules, monospaced identity details, and a two-column grid organize biography, writing, and recent activity with a distinctive print-like rhythm.
+
+Karim Benharrak — UC Berkeley
+https://benharrak.com/
+Oversized condensed black typography and a monochrome portrait create a strong opening, reinforced by thin rules and compact outlined labels.
+
+Vivian Chan — UC Berkeley
+http://vivianchan.tw/
+An illustrated globe opens into a warm cream portfolio with organic portrait and project frames, a quiet side navigation, and consistently aligned research summaries.
+
+Meng Chen — UC Berkeley
+https://meng-chen.com/
+An illustrated profile sidebar keeps identity visible while the main column pairs clear project titles with informative screenshots.
+
+Samia Menon — UC Berkeley
+https://www.samiamenon.com/
+A cream page framed by garden imagery uses a small portrait, subtle botanical mark, and restrained green accents for a coherent personal tone.
+
+Justin Lubin — UC Berkeley
+https://jlubin.net
+A lightly patterned turquoise surround and framed white reading area give a text-rich research biography a recognizable identity.
+
+Jay Lee — UC Berkeley
+https://jaylee.pl/
+Terminal-inspired section labels and compact outlined panels organize research without sacrificing readable text or ordinary links.
+
+Parker Ziegler — UC Berkeley
+https://parkerziegler.com/
+Purple-to-teal navigation bands and a personal geographic map connect the visual presentation to mapping and visualization research.
+
+Nicole Goridkov — UC Berkeley
+https://goridkov.github.io/
+A compact identity sidebar accompanies a dense but consistent grid of illustrated research projects and short descriptions.
+
+Chad Harper — UC Berkeley
+https://chadharper.github.io/
+Soft blush color, quiet violet headings, and a centered serif reading column give the biography a warm editorial atmosphere.
+
+Dhruva Karkada — UC Berkeley
+https://dkarkada.xyz
+A deep navy background and muted colorful abstract visual frame a compact list of research essays and reading times.

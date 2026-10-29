@@ -1,0 +1,76 @@
+{
+  "checked_on": "2026-10-29",
+  "baseline_total": 2281,
+  "total": 2459,
+  "new_additions": 178,
+  "updated_existing_profiles": [
+    {
+      "id": 1755,
+      "name": "Mert Cemri",
+      "university": "UC Berkeley",
+      "previous_url": "https://people.eecs.berkeley.edu/~mert_cemri/",
+      "url": "https://mert-cemri.github.io/"
+    },
+    {
+      "id": 1739,
+      "name": "Jongho Park",
+      "university": "UC Berkeley",
+      "previous_url": "https://jerryjonghopark.github.io/",
+      "url": "https://jongho.me/"
+    },
+    {
+      "id": 1787,
+      "name": "Sijun Tan",
+      "university": "UC Berkeley",
+      "previous_url": "https://jeffreysijuntan.github.io/",
+      "url": "http://www.jeffreysijuntan.com"
+    }
+  ],
+  "universities": {
+    "Stanford": {
+      "before": 119,
+      "after": 171,
+      "added": 52
+    },
+    "MIT": {
+      "before": 169,
+      "after": 241,
+      "added": 72
+    },
+    "Harvard": {
+      "before": 107,
+      "after": 121,
+      "added": 14
+    },
+    "UC Berkeley": {
+      "before": 155,
+      "after": 195,
+      "added": 40
+    },
+    "Caltech": {
+      "before": 60,
+      "after": 60,
+      "added": 0
+    }
+  },
+  "new_design_picks": 65,
+  "new_website_repositories": 100,
+  "scope": "Targeted lab-source expansion focused on Stanford, MIT, Harvard, UC Berkeley, and Caltech. These are the five institutions originally requested, not a claim about a universal ranking.",
+  "caltech_review": "Reviewed lab and institute rosters plus linked directory profiles; no additional qualifying current graduate personal websites survived the provenance and quality checks. Caltech remains at 60.",
+  "review_limits": "New additions received a fresh desktop visual review and current graduate-status check. Existing collection entries were retained with their prior evidence except the explicitly updated profiles. Top-100 ranking is unchanged; it predates this expansion.",
+  "final_review_exclusions": [
+    {
+      "name": "Parth Sarthi",
+      "url": "http://www.parthsarthi.com/",
+      "reason": "The personal biography was last updated in August 2024. Present graduate enrollment could not be established confidently during the final review, so this candidate is excluded from the expansion."
+    }
+  ],
+  "qualified_program_status": [
+    {
+      "name": "Thomas Deng",
+      "url": "https://thomasdeng2027.github.io/",
+      "status_evidence": "Personal biography identifies Stanford Computer Science coterminal study; the lab roster still labels him undergraduate.",
+      "notes": "Included as a coterminal bachelor's/master's student, rather than a doctoral student. The personal biography and lab role label differ; both are preserved in the evidence."
+    }
+  ]
+}
